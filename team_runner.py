@@ -8,9 +8,7 @@ from espn_api_orm.consts import ESPNSportLeagueTypes
 
 def main():
     root_path = './data'
-    team_path = root_path + '/' + 'teams.json'
-    teams = get_json_file(team_path)
-
+    
     sport_league_pairs = list(ESPNSportLeagueTypes)
     sport_league_pairs = [
         ESPNSportLeagueTypes.FOOTBALL_NFL,
@@ -23,9 +21,21 @@ def main():
     for sport_league in sport_league_pairs:
         sport_str, league_str = sport_league.value.split('/')
         path = f'{root_path}/{sport_str}/{league_str}/'
-        league_api = ESPNLeagueApi()
+        team_path = path + 'teams.json'
+        teams = get_json_file(team_path)
+        league_api = ESPNLeagueApi(sport_str, league_str)
         seasons = league_api.get_seasons()
         # get teams for season
-        # get each team
-        # get team name
+        for season in seasons:
+            team_season_path = f"{path}{season}.json"
+            season_team = get_json_file(team_season_path)
+            season_api = ESPNSeasonAPI(sport_str, league_str, season)
+            team_ids = season_api.get_team_ids()
+            for team_id in team_ids:
+                team_api = ESPNTeamAPI(sport_str, league_str, season, team_id)
+                team = team_api.get_team()
+                # get each team
+                # get team name
+                # upsert season_teams
+                # upsert teams
         
