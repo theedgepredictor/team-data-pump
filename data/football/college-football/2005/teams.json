@@ -1,0 +1,1442 @@
+[
+    {
+        "id": "2005-2",
+        "teamId": "auburn-tigers",
+        "franchiseId": 2,
+        "season": 2005
+    },
+    {
+        "id": "2005-5",
+        "teamId": "uab-blazers",
+        "franchiseId": 5,
+        "season": 2005
+    },
+    {
+        "id": "2005-8",
+        "teamId": "arkansas-razorbacks",
+        "franchiseId": 8,
+        "season": 2005
+    },
+    {
+        "id": "2005-9",
+        "teamId": "arizona-state-sun-devils",
+        "franchiseId": 9,
+        "season": 2005
+    },
+    {
+        "id": "2005-12",
+        "teamId": "arizona-wildcats",
+        "franchiseId": 12,
+        "season": 2005
+    },
+    {
+        "id": "2005-13",
+        "teamId": "cal-poly-mustangs",
+        "franchiseId": 13,
+        "season": 2005
+    },
+    {
+        "id": "2005-16",
+        "teamId": "sacramento-state-hornets",
+        "franchiseId": 16,
+        "season": 2005
+    },
+    {
+        "id": "2005-21",
+        "teamId": "san-diego-state-aztecs",
+        "franchiseId": 21,
+        "season": 2005
+    },
+    {
+        "id": "2005-23",
+        "teamId": "san-jose-state-spartans",
+        "franchiseId": 23,
+        "season": 2005
+    },
+    {
+        "id": "2005-24",
+        "teamId": "stanford-cardinal",
+        "franchiseId": 24,
+        "season": 2005
+    },
+    {
+        "id": "2005-25",
+        "teamId": "california-golden-bears",
+        "franchiseId": 25,
+        "season": 2005
+    },
+    {
+        "id": "2005-26",
+        "teamId": "ucla-bruins",
+        "franchiseId": 26,
+        "season": 2005
+    },
+    {
+        "id": "2005-30",
+        "teamId": "usc-trojans",
+        "franchiseId": 30,
+        "season": 2005
+    },
+    {
+        "id": "2005-36",
+        "teamId": "colorado-state-rams",
+        "franchiseId": 36,
+        "season": 2005
+    },
+    {
+        "id": "2005-38",
+        "teamId": "colorado-buffaloes",
+        "franchiseId": 38,
+        "season": 2005
+    },
+    {
+        "id": "2005-41",
+        "teamId": "connecticut-huskies",
+        "franchiseId": 41,
+        "season": 2005
+    },
+    {
+        "id": "2005-43",
+        "teamId": "yale-bulldogs",
+        "franchiseId": 43,
+        "season": 2005
+    },
+    {
+        "id": "2005-46",
+        "teamId": "georgetown-hoyas",
+        "franchiseId": 46,
+        "season": 2005
+    },
+    {
+        "id": "2005-47",
+        "teamId": "howard-bison",
+        "franchiseId": 47,
+        "season": 2005
+    },
+    {
+        "id": "2005-48",
+        "teamId": "delaware-blue-hens",
+        "franchiseId": 48,
+        "season": 2005
+    },
+    {
+        "id": "2005-50",
+        "teamId": "florida-am-rattlers",
+        "franchiseId": 50,
+        "season": 2005
+    },
+    {
+        "id": "2005-52",
+        "teamId": "florida-state-seminoles",
+        "franchiseId": 52,
+        "season": 2005
+    },
+    {
+        "id": "2005-55",
+        "teamId": "jacksonville-state-gamecocks",
+        "franchiseId": 55,
+        "season": 2005
+    },
+    {
+        "id": "2005-57",
+        "teamId": "florida-gators",
+        "franchiseId": 57,
+        "season": 2005
+    },
+    {
+        "id": "2005-58",
+        "teamId": "south-florida-bulls",
+        "franchiseId": 58,
+        "season": 2005
+    },
+    {
+        "id": "2005-59",
+        "teamId": "georgia-tech-yellow-jackets",
+        "franchiseId": 59,
+        "season": 2005
+    },
+    {
+        "id": "2005-61",
+        "teamId": "georgia-bulldogs",
+        "franchiseId": 61,
+        "season": 2005
+    },
+    {
+        "id": "2005-62",
+        "teamId": "hawaii-rainbow-warriors",
+        "franchiseId": 62,
+        "season": 2005
+    },
+    {
+        "id": "2005-66",
+        "teamId": "iowa-state-cyclones",
+        "franchiseId": 66,
+        "season": 2005
+    },
+    {
+        "id": "2005-68",
+        "teamId": "boise-state-broncos",
+        "franchiseId": 68,
+        "season": 2005
+    },
+    {
+        "id": "2005-70",
+        "teamId": "idaho-vandals",
+        "franchiseId": 70,
+        "season": 2005
+    },
+    {
+        "id": "2005-77",
+        "teamId": "northwestern-wildcats",
+        "franchiseId": 77,
+        "season": 2005
+    },
+    {
+        "id": "2005-79",
+        "teamId": "southern-illinois-salukis",
+        "franchiseId": 79,
+        "season": 2005
+    },
+    {
+        "id": "2005-84",
+        "teamId": "indiana-hoosiers",
+        "franchiseId": 84,
+        "season": 2005
+    },
+    {
+        "id": "2005-87",
+        "teamId": "notre-dame-fighting-irish",
+        "franchiseId": 87,
+        "season": 2005
+    },
+    {
+        "id": "2005-93",
+        "teamId": "murray-state-racers",
+        "franchiseId": 93,
+        "season": 2005
+    },
+    {
+        "id": "2005-96",
+        "teamId": "kentucky-wildcats",
+        "franchiseId": 96,
+        "season": 2005
+    },
+    {
+        "id": "2005-97",
+        "teamId": "louisville-cardinals",
+        "franchiseId": 97,
+        "season": 2005
+    },
+    {
+        "id": "2005-98",
+        "teamId": "western-kentucky-hilltoppers",
+        "franchiseId": 98,
+        "season": 2005
+    },
+    {
+        "id": "2005-99",
+        "teamId": "lsu-tigers",
+        "franchiseId": 99,
+        "season": 2005
+    },
+    {
+        "id": "2005-103",
+        "teamId": "boston-college-eagles",
+        "franchiseId": 103,
+        "season": 2005
+    },
+    {
+        "id": "2005-107",
+        "teamId": "holy-cross-crusaders",
+        "franchiseId": 107,
+        "season": 2005
+    },
+    {
+        "id": "2005-108",
+        "teamId": "harvard-crimson",
+        "franchiseId": 108,
+        "season": 2005
+    },
+    {
+        "id": "2005-111",
+        "teamId": "northeastern-huskies",
+        "franchiseId": 111,
+        "season": 2005
+    },
+    {
+        "id": "2005-113",
+        "teamId": "massachusetts-minutemen",
+        "franchiseId": 113,
+        "season": 2005
+    },
+    {
+        "id": "2005-119",
+        "teamId": "towson-tigers",
+        "franchiseId": 119,
+        "season": 2005
+    },
+    {
+        "id": "2005-120",
+        "teamId": "maryland-terrapins",
+        "franchiseId": 120,
+        "season": 2005
+    },
+    {
+        "id": "2005-127",
+        "teamId": "michigan-state-spartans",
+        "franchiseId": 127,
+        "season": 2005
+    },
+    {
+        "id": "2005-130",
+        "teamId": "michigan-wolverines",
+        "franchiseId": 130,
+        "season": 2005
+    },
+    {
+        "id": "2005-135",
+        "teamId": "minnesota-golden-gophers",
+        "franchiseId": 135,
+        "season": 2005
+    },
+    {
+        "id": "2005-142",
+        "teamId": "missouri-tigers",
+        "franchiseId": 142,
+        "season": 2005
+    },
+    {
+        "id": "2005-145",
+        "teamId": "ole-miss-rebels",
+        "franchiseId": 145,
+        "season": 2005
+    },
+    {
+        "id": "2005-147",
+        "teamId": "montana-state-bobcats",
+        "franchiseId": 147,
+        "season": 2005
+    },
+    {
+        "id": "2005-149",
+        "teamId": "montana-grizzlies",
+        "franchiseId": 149,
+        "season": 2005
+    },
+    {
+        "id": "2005-150",
+        "teamId": "duke-blue-devils",
+        "franchiseId": 150,
+        "season": 2005
+    },
+    {
+        "id": "2005-151",
+        "teamId": "east-carolina-pirates",
+        "franchiseId": 151,
+        "season": 2005
+    },
+    {
+        "id": "2005-152",
+        "teamId": "nc-state-wolfpack",
+        "franchiseId": 152,
+        "season": 2005
+    },
+    {
+        "id": "2005-153",
+        "teamId": "north-carolina-tar-heels",
+        "franchiseId": 153,
+        "season": 2005
+    },
+    {
+        "id": "2005-154",
+        "teamId": "wake-forest-demon-deacons",
+        "franchiseId": 154,
+        "season": 2005
+    },
+    {
+        "id": "2005-158",
+        "teamId": "nebraska-cornhuskers",
+        "franchiseId": 158,
+        "season": 2005
+    },
+    {
+        "id": "2005-159",
+        "teamId": "dartmouth-big-green",
+        "franchiseId": 159,
+        "season": 2005
+    },
+    {
+        "id": "2005-160",
+        "teamId": "new-hampshire-wildcats",
+        "franchiseId": 160,
+        "season": 2005
+    },
+    {
+        "id": "2005-163",
+        "teamId": "princeton-tigers",
+        "franchiseId": 163,
+        "season": 2005
+    },
+    {
+        "id": "2005-164",
+        "teamId": "rutgers-scarlet-knights",
+        "franchiseId": 164,
+        "season": 2005
+    },
+    {
+        "id": "2005-166",
+        "teamId": "new-mexico-state-aggies",
+        "franchiseId": 166,
+        "season": 2005
+    },
+    {
+        "id": "2005-167",
+        "teamId": "new-mexico-lobos",
+        "franchiseId": 167,
+        "season": 2005
+    },
+    {
+        "id": "2005-171",
+        "teamId": "columbia-lions",
+        "franchiseId": 171,
+        "season": 2005
+    },
+    {
+        "id": "2005-172",
+        "teamId": "cornell-big-red",
+        "franchiseId": 172,
+        "season": 2005
+    },
+    {
+        "id": "2005-183",
+        "teamId": "syracuse-orange",
+        "franchiseId": 183,
+        "season": 2005
+    },
+    {
+        "id": "2005-189",
+        "teamId": "bowling-green-falcons",
+        "franchiseId": 189,
+        "season": 2005
+    },
+    {
+        "id": "2005-193",
+        "teamId": "miami-oh-redhawks",
+        "franchiseId": 193,
+        "season": 2005
+    },
+    {
+        "id": "2005-194",
+        "teamId": "ohio-state-buckeyes",
+        "franchiseId": 194,
+        "season": 2005
+    },
+    {
+        "id": "2005-195",
+        "teamId": "ohio-bobcats",
+        "franchiseId": 195,
+        "season": 2005
+    },
+    {
+        "id": "2005-197",
+        "teamId": "oklahoma-state-cowboys",
+        "franchiseId": 197,
+        "season": 2005
+    },
+    {
+        "id": "2005-201",
+        "teamId": "oklahoma-sooners",
+        "franchiseId": 201,
+        "season": 2005
+    },
+    {
+        "id": "2005-202",
+        "teamId": "tulsa-golden-hurricane",
+        "franchiseId": 202,
+        "season": 2005
+    },
+    {
+        "id": "2005-203",
+        "teamId": "linfield-wildcats",
+        "franchiseId": 203,
+        "season": 2005
+    },
+    {
+        "id": "2005-204",
+        "teamId": "oregon-state-beavers",
+        "franchiseId": 204,
+        "season": 2005
+    },
+    {
+        "id": "2005-213",
+        "teamId": "penn-state-nittany-lions",
+        "franchiseId": 213,
+        "season": 2005
+    },
+    {
+        "id": "2005-218",
+        "teamId": "temple-owls",
+        "franchiseId": 218,
+        "season": 2005
+    },
+    {
+        "id": "2005-219",
+        "teamId": "penn-quakers",
+        "franchiseId": 219,
+        "season": 2005
+    },
+    {
+        "id": "2005-221",
+        "teamId": "pittsburgh-panthers",
+        "franchiseId": 221,
+        "season": 2005
+    },
+    {
+        "id": "2005-222",
+        "teamId": "villanova-wildcats",
+        "franchiseId": 222,
+        "season": 2005
+    },
+    {
+        "id": "2005-225",
+        "teamId": "brown-bears",
+        "franchiseId": 225,
+        "season": 2005
+    },
+    {
+        "id": "2005-227",
+        "teamId": "rhode-island-rams",
+        "franchiseId": 227,
+        "season": 2005
+    },
+    {
+        "id": "2005-228",
+        "teamId": "clemson-tigers",
+        "franchiseId": 228,
+        "season": 2005
+    },
+    {
+        "id": "2005-231",
+        "teamId": "furman-paladins",
+        "franchiseId": 231,
+        "season": 2005
+    },
+    {
+        "id": "2005-235",
+        "teamId": "memphis-tigers",
+        "franchiseId": 235,
+        "season": 2005
+    },
+    {
+        "id": "2005-236",
+        "teamId": "chattanooga-mocs",
+        "franchiseId": 236,
+        "season": 2005
+    },
+    {
+        "id": "2005-238",
+        "teamId": "vanderbilt-commodores",
+        "franchiseId": 238,
+        "season": 2005
+    },
+    {
+        "id": "2005-239",
+        "teamId": "baylor-bears",
+        "franchiseId": 239,
+        "season": 2005
+    },
+    {
+        "id": "2005-242",
+        "teamId": "rice-owls",
+        "franchiseId": 242,
+        "season": 2005
+    },
+    {
+        "id": "2005-245",
+        "teamId": "texas-am-aggies",
+        "franchiseId": 245,
+        "season": 2005
+    },
+    {
+        "id": "2005-248",
+        "teamId": "houston-cougars",
+        "franchiseId": 248,
+        "season": 2005
+    },
+    {
+        "id": "2005-249",
+        "teamId": "north-texas-mean-green",
+        "franchiseId": 249,
+        "season": 2005
+    },
+    {
+        "id": "2005-251",
+        "teamId": "texas-longhorns",
+        "franchiseId": 251,
+        "season": 2005
+    },
+    {
+        "id": "2005-252",
+        "teamId": "byu-cougars",
+        "franchiseId": 252,
+        "season": 2005
+    },
+    {
+        "id": "2005-253",
+        "teamId": "southern-utah-thunderbirds",
+        "franchiseId": 253,
+        "season": 2005
+    },
+    {
+        "id": "2005-254",
+        "teamId": "utah-utes",
+        "franchiseId": 254,
+        "season": 2005
+    },
+    {
+        "id": "2005-256",
+        "teamId": "james-madison-dukes",
+        "franchiseId": 256,
+        "season": 2005
+    },
+    {
+        "id": "2005-257",
+        "teamId": "richmond-spiders",
+        "franchiseId": 257,
+        "season": 2005
+    },
+    {
+        "id": "2005-258",
+        "teamId": "virginia-cavaliers",
+        "franchiseId": 258,
+        "season": 2005
+    },
+    {
+        "id": "2005-259",
+        "teamId": "virginia-tech-hokies",
+        "franchiseId": 259,
+        "season": 2005
+    },
+    {
+        "id": "2005-264",
+        "teamId": "washington-huskies",
+        "franchiseId": 264,
+        "season": 2005
+    },
+    {
+        "id": "2005-265",
+        "teamId": "washington-state-cougars",
+        "franchiseId": 265,
+        "season": 2005
+    },
+    {
+        "id": "2005-275",
+        "teamId": "wisconsin-badgers",
+        "franchiseId": 275,
+        "season": 2005
+    },
+    {
+        "id": "2005-276",
+        "teamId": "marshall-thundering-herd",
+        "franchiseId": 276,
+        "season": 2005
+    },
+    {
+        "id": "2005-277",
+        "teamId": "west-virginia-mountaineers",
+        "franchiseId": 277,
+        "season": 2005
+    },
+    {
+        "id": "2005-278",
+        "teamId": "fresno-state-bulldogs",
+        "franchiseId": 278,
+        "season": 2005
+    },
+    {
+        "id": "2005-282",
+        "teamId": "indiana-state-sycamores",
+        "franchiseId": 282,
+        "season": 2005
+    },
+    {
+        "id": "2005-290",
+        "teamId": "georgia-southern-eagles",
+        "franchiseId": 290,
+        "season": 2005
+    },
+    {
+        "id": "2005-294",
+        "teamId": "jacksonville-dolphins",
+        "franchiseId": 294,
+        "season": 2005
+    },
+    {
+        "id": "2005-301",
+        "teamId": "san-diego-toreros",
+        "franchiseId": 301,
+        "season": 2005
+    },
+    {
+        "id": "2005-302",
+        "teamId": "uc-davis-aggies",
+        "franchiseId": 302,
+        "season": 2005
+    },
+    {
+        "id": "2005-304",
+        "teamId": "idaho-state-bengals",
+        "franchiseId": 304,
+        "season": 2005
+    },
+    {
+        "id": "2005-309",
+        "teamId": "louisiana-ragin-cajuns",
+        "franchiseId": 309,
+        "season": 2005
+    },
+    {
+        "id": "2005-311",
+        "teamId": "maine-black-bears",
+        "franchiseId": 311,
+        "season": 2005
+    },
+    {
+        "id": "2005-314",
+        "teamId": "iona-gaels",
+        "franchiseId": 314,
+        "season": 2005
+    },
+    {
+        "id": "2005-322",
+        "teamId": "lafayette-leopards",
+        "franchiseId": 322,
+        "season": 2005
+    },
+    {
+        "id": "2005-324",
+        "teamId": "coastal-carolina-chanticleers",
+        "franchiseId": 324,
+        "season": 2005
+    },
+    {
+        "id": "2005-326",
+        "teamId": "texas-state-bobcats",
+        "franchiseId": 326,
+        "season": 2005
+    },
+    {
+        "id": "2005-328",
+        "teamId": "utah-state-aggies",
+        "franchiseId": 328,
+        "season": 2005
+    },
+    {
+        "id": "2005-331",
+        "teamId": "eastern-washington-eagles",
+        "franchiseId": 331,
+        "season": 2005
+    },
+    {
+        "id": "2005-333",
+        "teamId": "alabama-crimson-tide",
+        "franchiseId": 333,
+        "season": 2005
+    },
+    {
+        "id": "2005-344",
+        "teamId": "mississippi-state-bulldogs",
+        "franchiseId": 344,
+        "season": 2005
+    },
+    {
+        "id": "2005-349",
+        "teamId": "army-black-knights",
+        "franchiseId": 349,
+        "season": 2005
+    },
+    {
+        "id": "2005-356",
+        "teamId": "illinois-fighting-illini",
+        "franchiseId": 356,
+        "season": 2005
+    },
+    {
+        "id": "2005-399",
+        "teamId": "albany-great-danes",
+        "franchiseId": 399,
+        "season": 2005
+    },
+    {
+        "id": "2005-2005",
+        "teamId": "air-force-falcons",
+        "franchiseId": 2005,
+        "season": 2005
+    },
+    {
+        "id": "2005-2006",
+        "teamId": "akron-zips",
+        "franchiseId": 2006,
+        "season": 2005
+    },
+    {
+        "id": "2005-2010",
+        "teamId": "alabama-am-bulldogs",
+        "franchiseId": 2010,
+        "season": 2005
+    },
+    {
+        "id": "2005-2011",
+        "teamId": "alabama-state-hornets",
+        "franchiseId": 2011,
+        "season": 2005
+    },
+    {
+        "id": "2005-2016",
+        "teamId": "alcorn-state-braves",
+        "franchiseId": 2016,
+        "season": 2005
+    },
+    {
+        "id": "2005-2026",
+        "teamId": "appalachian-state-mountaineers",
+        "franchiseId": 2026,
+        "season": 2005
+    },
+    {
+        "id": "2005-2029",
+        "teamId": "arkansas-pine-bluff-golden-lions",
+        "franchiseId": 2029,
+        "season": 2005
+    },
+    {
+        "id": "2005-2032",
+        "teamId": "arkansas-state-red-wolves",
+        "franchiseId": 2032,
+        "season": 2005
+    },
+    {
+        "id": "2005-2046",
+        "teamId": "austin-peay-governors",
+        "franchiseId": 2046,
+        "season": 2005
+    },
+    {
+        "id": "2005-2050",
+        "teamId": "ball-state-cardinals",
+        "franchiseId": 2050,
+        "season": 2005
+    },
+    {
+        "id": "2005-2065",
+        "teamId": "bethune-cookman-wildcats",
+        "franchiseId": 2065,
+        "season": 2005
+    },
+    {
+        "id": "2005-2083",
+        "teamId": "bucknell-bison",
+        "franchiseId": 2083,
+        "season": 2005
+    },
+    {
+        "id": "2005-2084",
+        "teamId": "buffalo-bulls",
+        "franchiseId": 2084,
+        "season": 2005
+    },
+    {
+        "id": "2005-2086",
+        "teamId": "butler-bulldogs",
+        "franchiseId": 2086,
+        "season": 2005
+    },
+    {
+        "id": "2005-2115",
+        "teamId": "central-connecticut-blue-devils",
+        "franchiseId": 2115,
+        "season": 2005
+    },
+    {
+        "id": "2005-2116",
+        "teamId": "ucf-knights",
+        "franchiseId": 2116,
+        "season": 2005
+    },
+    {
+        "id": "2005-2117",
+        "teamId": "central-michigan-chippewas",
+        "franchiseId": 2117,
+        "season": 2005
+    },
+    {
+        "id": "2005-2127",
+        "teamId": "charleston-southern-buccaneers",
+        "franchiseId": 2127,
+        "season": 2005
+    },
+    {
+        "id": "2005-2132",
+        "teamId": "cincinnati-bearcats",
+        "franchiseId": 2132,
+        "season": 2005
+    },
+    {
+        "id": "2005-2142",
+        "teamId": "colgate-raiders",
+        "franchiseId": 2142,
+        "season": 2005
+    },
+    {
+        "id": "2005-2166",
+        "teamId": "davidson-wildcats",
+        "franchiseId": 2166,
+        "season": 2005
+    },
+    {
+        "id": "2005-2168",
+        "teamId": "dayton-flyers",
+        "franchiseId": 2168,
+        "season": 2005
+    },
+    {
+        "id": "2005-2169",
+        "teamId": "delaware-state-hornets",
+        "franchiseId": 2169,
+        "season": 2005
+    },
+    {
+        "id": "2005-2181",
+        "teamId": "drake-bulldogs",
+        "franchiseId": 2181,
+        "season": 2005
+    },
+    {
+        "id": "2005-2184",
+        "teamId": "duquesne-dukes",
+        "franchiseId": 2184,
+        "season": 2005
+    },
+    {
+        "id": "2005-2197",
+        "teamId": "eastern-illinois-panthers",
+        "franchiseId": 2197,
+        "season": 2005
+    },
+    {
+        "id": "2005-2198",
+        "teamId": "eastern-kentucky-colonels",
+        "franchiseId": 2198,
+        "season": 2005
+    },
+    {
+        "id": "2005-2199",
+        "teamId": "eastern-michigan-eagles",
+        "franchiseId": 2199,
+        "season": 2005
+    },
+    {
+        "id": "2005-2210",
+        "teamId": "elon-phoenix",
+        "franchiseId": 2210,
+        "season": 2005
+    },
+    {
+        "id": "2005-2226",
+        "teamId": "florida-atlantic-owls",
+        "franchiseId": 2226,
+        "season": 2005
+    },
+    {
+        "id": "2005-2229",
+        "teamId": "florida-intl-golden-panthers",
+        "franchiseId": 2229,
+        "season": 2005
+    },
+    {
+        "id": "2005-2230",
+        "teamId": "fordham-rams",
+        "franchiseId": 2230,
+        "season": 2005
+    },
+    {
+        "id": "2005-2241",
+        "teamId": "gardner-webb-bulldogs",
+        "franchiseId": 2241,
+        "season": 2005
+    },
+    {
+        "id": "2005-2261",
+        "teamId": "hampton-pirates",
+        "franchiseId": 2261,
+        "season": 2005
+    },
+    {
+        "id": "2005-2275",
+        "teamId": "hofstra-pride",
+        "franchiseId": 2275,
+        "season": 2005
+    },
+    {
+        "id": "2005-2287",
+        "teamId": "illinois-state-redbirds",
+        "franchiseId": 2287,
+        "season": 2005
+    },
+    {
+        "id": "2005-2294",
+        "teamId": "iowa-hawkeyes",
+        "franchiseId": 2294,
+        "season": 2005
+    },
+    {
+        "id": "2005-2296",
+        "teamId": "jackson-state-tigers",
+        "franchiseId": 2296,
+        "season": 2005
+    },
+    {
+        "id": "2005-2305",
+        "teamId": "kansas-jayhawks",
+        "franchiseId": 2305,
+        "season": 2005
+    },
+    {
+        "id": "2005-2306",
+        "teamId": "kansas-state-wildcats",
+        "franchiseId": 2306,
+        "season": 2005
+    },
+    {
+        "id": "2005-2309",
+        "teamId": "kent-state-golden-flashes",
+        "franchiseId": 2309,
+        "season": 2005
+    },
+    {
+        "id": "2005-2325",
+        "teamId": "la-salle-explorers",
+        "franchiseId": 2325,
+        "season": 2005
+    },
+    {
+        "id": "2005-2329",
+        "teamId": "lehigh-mountain-hawks",
+        "franchiseId": 2329,
+        "season": 2005
+    },
+    {
+        "id": "2005-2335",
+        "teamId": "liberty-flames",
+        "franchiseId": 2335,
+        "season": 2005
+    },
+    {
+        "id": "2005-2348",
+        "teamId": "louisiana-tech-bulldogs",
+        "franchiseId": 2348,
+        "season": 2005
+    },
+    {
+        "id": "2005-2368",
+        "teamId": "marist-red-foxes",
+        "franchiseId": 2368,
+        "season": 2005
+    },
+    {
+        "id": "2005-2377",
+        "teamId": "mcneese-state-cowboys",
+        "franchiseId": 2377,
+        "season": 2005
+    },
+    {
+        "id": "2005-2390",
+        "teamId": "miami-hurricanes",
+        "franchiseId": 2390,
+        "season": 2005
+    },
+    {
+        "id": "2005-2393",
+        "teamId": "middle-tennessee-blue-raiders",
+        "franchiseId": 2393,
+        "season": 2005
+    },
+    {
+        "id": "2005-2400",
+        "teamId": "mississippi-valley-state-delta-devils",
+        "franchiseId": 2400,
+        "season": 2005
+    },
+    {
+        "id": "2005-2405",
+        "teamId": "monmouth-hawks",
+        "franchiseId": 2405,
+        "season": 2005
+    },
+    {
+        "id": "2005-2413",
+        "teamId": "morehead-state-eagles",
+        "franchiseId": 2413,
+        "season": 2005
+    },
+    {
+        "id": "2005-2415",
+        "teamId": "morgan-state-bears",
+        "franchiseId": 2415,
+        "season": 2005
+    },
+    {
+        "id": "2005-2426",
+        "teamId": "navy-midshipmen",
+        "franchiseId": 2426,
+        "season": 2005
+    },
+    {
+        "id": "2005-2433",
+        "teamId": "louisiana-monroe-warhawks",
+        "franchiseId": 2433,
+        "season": 2005
+    },
+    {
+        "id": "2005-2439",
+        "teamId": "unlv-rebels",
+        "franchiseId": 2439,
+        "season": 2005
+    },
+    {
+        "id": "2005-2440",
+        "teamId": "nevada-wolf-pack",
+        "franchiseId": 2440,
+        "season": 2005
+    },
+    {
+        "id": "2005-2447",
+        "teamId": "nicholls-state-colonels",
+        "franchiseId": 2447,
+        "season": 2005
+    },
+    {
+        "id": "2005-2448",
+        "teamId": "north-carolina-at-aggies",
+        "franchiseId": 2448,
+        "season": 2005
+    },
+    {
+        "id": "2005-2449",
+        "teamId": "north-dakota-state-bison",
+        "franchiseId": 2449,
+        "season": 2005
+    },
+    {
+        "id": "2005-2450",
+        "teamId": "norfolk-state-spartans",
+        "franchiseId": 2450,
+        "season": 2005
+    },
+    {
+        "id": "2005-2458",
+        "teamId": "northern-colorado-bears",
+        "franchiseId": 2458,
+        "season": 2005
+    },
+    {
+        "id": "2005-2459",
+        "teamId": "northern-illinois-huskies",
+        "franchiseId": 2459,
+        "season": 2005
+    },
+    {
+        "id": "2005-2460",
+        "teamId": "northern-iowa-panthers",
+        "franchiseId": 2460,
+        "season": 2005
+    },
+    {
+        "id": "2005-2464",
+        "teamId": "northern-arizona-lumberjacks",
+        "franchiseId": 2464,
+        "season": 2005
+    },
+    {
+        "id": "2005-2466",
+        "teamId": "northwestern-state-demons",
+        "franchiseId": 2466,
+        "season": 2005
+    },
+    {
+        "id": "2005-2483",
+        "teamId": "oregon-ducks",
+        "franchiseId": 2483,
+        "season": 2005
+    },
+    {
+        "id": "2005-2502",
+        "teamId": "portland-state-vikings",
+        "franchiseId": 2502,
+        "season": 2005
+    },
+    {
+        "id": "2005-2504",
+        "teamId": "prairie-view-am-panthers",
+        "franchiseId": 2504,
+        "season": 2005
+    },
+    {
+        "id": "2005-2509",
+        "teamId": "purdue-boilermakers",
+        "franchiseId": 2509,
+        "season": 2005
+    },
+    {
+        "id": "2005-2523",
+        "teamId": "robert-morris-colonials",
+        "franchiseId": 2523,
+        "season": 2005
+    },
+    {
+        "id": "2005-2529",
+        "teamId": "sacred-heart-pioneers",
+        "franchiseId": 2529,
+        "season": 2005
+    },
+    {
+        "id": "2005-2534",
+        "teamId": "sam-houston-state-bearkats",
+        "franchiseId": 2534,
+        "season": 2005
+    },
+    {
+        "id": "2005-2535",
+        "teamId": "samford-bulldogs",
+        "franchiseId": 2535,
+        "season": 2005
+    },
+    {
+        "id": "2005-2542",
+        "teamId": "savannah-state-tigers",
+        "franchiseId": 2542,
+        "season": 2005
+    },
+    {
+        "id": "2005-2545",
+        "teamId": "southeastern-louisiana-lions",
+        "franchiseId": 2545,
+        "season": 2005
+    },
+    {
+        "id": "2005-2546",
+        "teamId": "southeast-missouri-state-redhawks",
+        "franchiseId": 2546,
+        "season": 2005
+    },
+    {
+        "id": "2005-2567",
+        "teamId": "smu-mustangs",
+        "franchiseId": 2567,
+        "season": 2005
+    },
+    {
+        "id": "2005-2569",
+        "teamId": "south-carolina-state-bulldogs",
+        "franchiseId": 2569,
+        "season": 2005
+    },
+    {
+        "id": "2005-2571",
+        "teamId": "south-dakota-state-jackrabbits",
+        "franchiseId": 2571,
+        "season": 2005
+    },
+    {
+        "id": "2005-2572",
+        "teamId": "southern-mississippi-golden-eagles",
+        "franchiseId": 2572,
+        "season": 2005
+    },
+    {
+        "id": "2005-2579",
+        "teamId": "south-carolina-gamecocks",
+        "franchiseId": 2579,
+        "season": 2005
+    },
+    {
+        "id": "2005-2582",
+        "teamId": "southern-jaguars",
+        "franchiseId": 2582,
+        "season": 2005
+    },
+    {
+        "id": "2005-2598",
+        "teamId": "st-francis-pa-red-flash",
+        "franchiseId": 2598,
+        "season": 2005
+    },
+    {
+        "id": "2005-2612",
+        "teamId": "st-peters-peacocks",
+        "franchiseId": 2612,
+        "season": 2005
+    },
+    {
+        "id": "2005-2617",
+        "teamId": "stephen-f-austin-lumberjacks",
+        "franchiseId": 2617,
+        "season": 2005
+    },
+    {
+        "id": "2005-2619",
+        "teamId": "stony-brook-seawolves",
+        "franchiseId": 2619,
+        "season": 2005
+    },
+    {
+        "id": "2005-2623",
+        "teamId": "missouri-state-bears",
+        "franchiseId": 2623,
+        "season": 2005
+    },
+    {
+        "id": "2005-2628",
+        "teamId": "tcu-horned-frogs",
+        "franchiseId": 2628,
+        "season": 2005
+    },
+    {
+        "id": "2005-2630",
+        "teamId": "tennessee-martin-skyhawks",
+        "franchiseId": 2630,
+        "season": 2005
+    },
+    {
+        "id": "2005-2633",
+        "teamId": "tennessee-volunteers",
+        "franchiseId": 2633,
+        "season": 2005
+    },
+    {
+        "id": "2005-2634",
+        "teamId": "tennessee-state-tigers",
+        "franchiseId": 2634,
+        "season": 2005
+    },
+    {
+        "id": "2005-2635",
+        "teamId": "tennessee-tech-golden-eagles",
+        "franchiseId": 2635,
+        "season": 2005
+    },
+    {
+        "id": "2005-2638",
+        "teamId": "utep-miners",
+        "franchiseId": 2638,
+        "season": 2005
+    },
+    {
+        "id": "2005-2640",
+        "teamId": "texas-southern-tigers",
+        "franchiseId": 2640,
+        "season": 2005
+    },
+    {
+        "id": "2005-2641",
+        "teamId": "texas-tech-red-raiders",
+        "franchiseId": 2641,
+        "season": 2005
+    },
+    {
+        "id": "2005-2643",
+        "teamId": "the-citadel-bulldogs",
+        "franchiseId": 2643,
+        "season": 2005
+    },
+    {
+        "id": "2005-2649",
+        "teamId": "toledo-rockets",
+        "franchiseId": 2649,
+        "season": 2005
+    },
+    {
+        "id": "2005-2653",
+        "teamId": "troy-trojans",
+        "franchiseId": 2653,
+        "season": 2005
+    },
+    {
+        "id": "2005-2655",
+        "teamId": "tulane-green-wave",
+        "franchiseId": 2655,
+        "season": 2005
+    },
+    {
+        "id": "2005-2674",
+        "teamId": "valparaiso-crusaders",
+        "franchiseId": 2674,
+        "season": 2005
+    },
+    {
+        "id": "2005-2678",
+        "teamId": "vmi-keydets",
+        "franchiseId": 2678,
+        "season": 2005
+    },
+    {
+        "id": "2005-2681",
+        "teamId": "wagner-seahawks",
+        "franchiseId": 2681,
+        "season": 2005
+    },
+    {
+        "id": "2005-2692",
+        "teamId": "weber-state-wildcats",
+        "franchiseId": 2692,
+        "season": 2005
+    },
+    {
+        "id": "2005-2710",
+        "teamId": "western-illinois-leathernecks",
+        "franchiseId": 2710,
+        "season": 2005
+    },
+    {
+        "id": "2005-2711",
+        "teamId": "western-michigan-broncos",
+        "franchiseId": 2711,
+        "season": 2005
+    },
+    {
+        "id": "2005-2717",
+        "teamId": "western-carolina-catamounts",
+        "franchiseId": 2717,
+        "season": 2005
+    },
+    {
+        "id": "2005-2729",
+        "teamId": "william-mary-tribe",
+        "franchiseId": 2729,
+        "season": 2005
+    },
+    {
+        "id": "2005-2747",
+        "teamId": "wofford-terriers",
+        "franchiseId": 2747,
+        "season": 2005
+    },
+    {
+        "id": "2005-2751",
+        "teamId": "wyoming-cowboys",
+        "franchiseId": 2751,
+        "season": 2005
+    },
+    {
+        "id": "2005-2754",
+        "teamId": "youngstown-state-penguins",
+        "franchiseId": 2754,
+        "season": 2005
+    },
+    {
+        "id": "2005-2755",
+        "teamId": "grambling-state-tigers",
+        "franchiseId": 2755,
+        "season": 2005
+    }
+]

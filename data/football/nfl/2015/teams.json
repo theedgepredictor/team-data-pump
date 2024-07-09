@@ -1,0 +1,194 @@
+[
+    {
+        "id": "2015-1",
+        "teamId": "atlanta-falcons",
+        "franchiseId": 1,
+        "season": 2015
+    },
+    {
+        "id": "2015-2",
+        "teamId": "buffalo-bills",
+        "franchiseId": 2,
+        "season": 2015
+    },
+    {
+        "id": "2015-3",
+        "teamId": "chicago-bears",
+        "franchiseId": 3,
+        "season": 2015
+    },
+    {
+        "id": "2015-4",
+        "teamId": "cincinnati-bengals",
+        "franchiseId": 4,
+        "season": 2015
+    },
+    {
+        "id": "2015-5",
+        "teamId": "cleveland-browns",
+        "franchiseId": 5,
+        "season": 2015
+    },
+    {
+        "id": "2015-6",
+        "teamId": "dallas-cowboys",
+        "franchiseId": 6,
+        "season": 2015
+    },
+    {
+        "id": "2015-7",
+        "teamId": "denver-broncos",
+        "franchiseId": 7,
+        "season": 2015
+    },
+    {
+        "id": "2015-8",
+        "teamId": "detroit-lions",
+        "franchiseId": 8,
+        "season": 2015
+    },
+    {
+        "id": "2015-9",
+        "teamId": "green-bay-packers",
+        "franchiseId": 9,
+        "season": 2015
+    },
+    {
+        "id": "2015-10",
+        "teamId": "tennessee-titans",
+        "franchiseId": 10,
+        "season": 2015
+    },
+    {
+        "id": "2015-11",
+        "teamId": "indianapolis-colts",
+        "franchiseId": 11,
+        "season": 2015
+    },
+    {
+        "id": "2015-12",
+        "teamId": "kansas-city-chiefs",
+        "franchiseId": 12,
+        "season": 2015
+    },
+    {
+        "id": "2015-13",
+        "teamId": "oakland-raiders",
+        "franchiseId": 13,
+        "season": 2015
+    },
+    {
+        "id": "2015-14",
+        "teamId": "st-louis-rams",
+        "franchiseId": 14,
+        "season": 2015
+    },
+    {
+        "id": "2015-15",
+        "teamId": "miami-dolphins",
+        "franchiseId": 15,
+        "season": 2015
+    },
+    {
+        "id": "2015-16",
+        "teamId": "minnesota-vikings",
+        "franchiseId": 16,
+        "season": 2015
+    },
+    {
+        "id": "2015-17",
+        "teamId": "new-england-patriots",
+        "franchiseId": 17,
+        "season": 2015
+    },
+    {
+        "id": "2015-18",
+        "teamId": "new-orleans-saints",
+        "franchiseId": 18,
+        "season": 2015
+    },
+    {
+        "id": "2015-19",
+        "teamId": "new-york-giants",
+        "franchiseId": 19,
+        "season": 2015
+    },
+    {
+        "id": "2015-20",
+        "teamId": "new-york-jets",
+        "franchiseId": 20,
+        "season": 2015
+    },
+    {
+        "id": "2015-21",
+        "teamId": "philadelphia-eagles",
+        "franchiseId": 21,
+        "season": 2015
+    },
+    {
+        "id": "2015-22",
+        "teamId": "arizona-cardinals",
+        "franchiseId": 22,
+        "season": 2015
+    },
+    {
+        "id": "2015-23",
+        "teamId": "pittsburgh-steelers",
+        "franchiseId": 23,
+        "season": 2015
+    },
+    {
+        "id": "2015-24",
+        "teamId": "san-diego-chargers",
+        "franchiseId": 24,
+        "season": 2015
+    },
+    {
+        "id": "2015-25",
+        "teamId": "san-francisco-49ers",
+        "franchiseId": 25,
+        "season": 2015
+    },
+    {
+        "id": "2015-26",
+        "teamId": "seattle-seahawks",
+        "franchiseId": 26,
+        "season": 2015
+    },
+    {
+        "id": "2015-27",
+        "teamId": "tampa-bay-buccaneers",
+        "franchiseId": 27,
+        "season": 2015
+    },
+    {
+        "id": "2015-28",
+        "teamId": "washington-redskins",
+        "franchiseId": 28,
+        "season": 2015
+    },
+    {
+        "id": "2015-29",
+        "teamId": "carolina-panthers",
+        "franchiseId": 29,
+        "season": 2015
+    },
+    {
+        "id": "2015-30",
+        "teamId": "jacksonville-jaguars",
+        "franchiseId": 30,
+        "season": 2015
+    },
+    {
+        "id": "2015-33",
+        "teamId": "baltimore-ravens",
+        "franchiseId": 33,
+        "season": 2015
+    },
+    {
+        "id": "2015-34",
+        "teamId": "houston-texans",
+        "franchiseId": 34,
+        "season": 2015
+    }
+]

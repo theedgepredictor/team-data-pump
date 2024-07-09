@@ -1,0 +1,3800 @@
+[
+    {
+        "id": "2007-2",
+        "teamId": "auburn-tigers",
+        "franchiseId": 2,
+        "season": 2007
+    },
+    {
+        "id": "2007-3",
+        "teamId": "birmingham-southern-panthers",
+        "franchiseId": 3,
+        "season": 2007
+    },
+    {
+        "id": "2007-5",
+        "teamId": "uab-blazers",
+        "franchiseId": 5,
+        "season": 2007
+    },
+    {
+        "id": "2007-7",
+        "teamId": "amherst-college-lord-jeffs",
+        "franchiseId": 7,
+        "season": 2007
+    },
+    {
+        "id": "2007-8",
+        "teamId": "arkansas-razorbacks",
+        "franchiseId": 8,
+        "season": 2007
+    },
+    {
+        "id": "2007-9",
+        "teamId": "arizona-state-sun-devils",
+        "franchiseId": 9,
+        "season": 2007
+    },
+    {
+        "id": "2007-11",
+        "teamId": "colorado-mesa-mavericks",
+        "franchiseId": 11,
+        "season": 2007
+    },
+    {
+        "id": "2007-12",
+        "teamId": "arizona-wildcats",
+        "franchiseId": 12,
+        "season": 2007
+    },
+    {
+        "id": "2007-13",
+        "teamId": "cal-poly-mustangs",
+        "franchiseId": 13,
+        "season": 2007
+    },
+    {
+        "id": "2007-16",
+        "teamId": "sacramento-state-hornets",
+        "franchiseId": 16,
+        "season": 2007
+    },
+    {
+        "id": "2007-17",
+        "teamId": "claremont-stags",
+        "franchiseId": 17,
+        "season": 2007
+    },
+    {
+        "id": "2007-18",
+        "teamId": "bridgewater-state-bears",
+        "franchiseId": 18,
+        "season": 2007
+    },
+    {
+        "id": "2007-21",
+        "teamId": "san-diego-state-aztecs",
+        "franchiseId": 21,
+        "season": 2007
+    },
+    {
+        "id": "2007-23",
+        "teamId": "san-jose-state-spartans",
+        "franchiseId": 23,
+        "season": 2007
+    },
+    {
+        "id": "2007-24",
+        "teamId": "stanford-cardinal",
+        "franchiseId": 24,
+        "season": 2007
+    },
+    {
+        "id": "2007-25",
+        "teamId": "california-golden-bears",
+        "franchiseId": 25,
+        "season": 2007
+    },
+    {
+        "id": "2007-26",
+        "teamId": "ucla-bruins",
+        "franchiseId": 26,
+        "season": 2007
+    },
+    {
+        "id": "2007-29",
+        "teamId": "redlands-bulldogs",
+        "franchiseId": 29,
+        "season": 2007
+    },
+    {
+        "id": "2007-30",
+        "teamId": "usc-trojans",
+        "franchiseId": 30,
+        "season": 2007
+    },
+    {
+        "id": "2007-32",
+        "teamId": "carroll-wi-pioneers",
+        "franchiseId": 32,
+        "season": 2007
+    },
+    {
+        "id": "2007-33",
+        "teamId": "colby-white-mules",
+        "franchiseId": 33,
+        "season": 2007
+    },
+    {
+        "id": "2007-36",
+        "teamId": "colorado-state-rams",
+        "franchiseId": 36,
+        "season": 2007
+    },
+    {
+        "id": "2007-38",
+        "teamId": "colorado-buffaloes",
+        "franchiseId": 38,
+        "season": 2007
+    },
+    {
+        "id": "2007-40",
+        "teamId": "curry-colonels",
+        "franchiseId": 40,
+        "season": 2007
+    },
+    {
+        "id": "2007-41",
+        "teamId": "connecticut-huskies",
+        "franchiseId": 41,
+        "season": 2007
+    },
+    {
+        "id": "2007-43",
+        "teamId": "yale-bulldogs",
+        "franchiseId": 43,
+        "season": 2007
+    },
+    {
+        "id": "2007-46",
+        "teamId": "georgetown-hoyas",
+        "franchiseId": 46,
+        "season": 2007
+    },
+    {
+        "id": "2007-47",
+        "teamId": "howard-bison",
+        "franchiseId": 47,
+        "season": 2007
+    },
+    {
+        "id": "2007-48",
+        "teamId": "delaware-blue-hens",
+        "franchiseId": 48,
+        "season": 2007
+    },
+    {
+        "id": "2007-49",
+        "teamId": "dubuque-spartans",
+        "franchiseId": 49,
+        "season": 2007
+    },
+    {
+        "id": "2007-50",
+        "teamId": "florida-am-rattlers",
+        "franchiseId": 50,
+        "season": 2007
+    },
+    {
+        "id": "2007-52",
+        "teamId": "florida-state-seminoles",
+        "franchiseId": 52,
+        "season": 2007
+    },
+    {
+        "id": "2007-55",
+        "teamId": "jacksonville-state-gamecocks",
+        "franchiseId": 55,
+        "season": 2007
+    },
+    {
+        "id": "2007-57",
+        "teamId": "florida-gators",
+        "franchiseId": 57,
+        "season": 2007
+    },
+    {
+        "id": "2007-58",
+        "teamId": "south-florida-bulls",
+        "franchiseId": 58,
+        "season": 2007
+    },
+    {
+        "id": "2007-59",
+        "teamId": "georgia-tech-yellow-jackets",
+        "franchiseId": 59,
+        "season": 2007
+    },
+    {
+        "id": "2007-60",
+        "teamId": "morehouse-tigers",
+        "franchiseId": 60,
+        "season": 2007
+    },
+    {
+        "id": "2007-61",
+        "teamId": "georgia-bulldogs",
+        "franchiseId": 61,
+        "season": 2007
+    },
+    {
+        "id": "2007-62",
+        "teamId": "hawaii-rainbow-warriors",
+        "franchiseId": 62,
+        "season": 2007
+    },
+    {
+        "id": "2007-63",
+        "teamId": "buena-vista-beavers",
+        "franchiseId": 63,
+        "season": 2007
+    },
+    {
+        "id": "2007-65",
+        "teamId": "grinnell-pioneers",
+        "franchiseId": 65,
+        "season": 2007
+    },
+    {
+        "id": "2007-66",
+        "teamId": "iowa-state-cyclones",
+        "franchiseId": 66,
+        "season": 2007
+    },
+    {
+        "id": "2007-67",
+        "teamId": "luther-norse",
+        "franchiseId": 67,
+        "season": 2007
+    },
+    {
+        "id": "2007-68",
+        "teamId": "boise-state-broncos",
+        "franchiseId": 68,
+        "season": 2007
+    },
+    {
+        "id": "2007-70",
+        "teamId": "idaho-vandals",
+        "franchiseId": 70,
+        "season": 2007
+    },
+    {
+        "id": "2007-72",
+        "teamId": "elmhurst-blue-jays",
+        "franchiseId": 72,
+        "season": 2007
+    },
+    {
+        "id": "2007-74",
+        "teamId": "millikin-big-blue",
+        "franchiseId": 74,
+        "season": 2007
+    },
+    {
+        "id": "2007-75",
+        "teamId": "north-park-vikings",
+        "franchiseId": 75,
+        "season": 2007
+    },
+    {
+        "id": "2007-77",
+        "teamId": "northwestern-wildcats",
+        "franchiseId": 77,
+        "season": 2007
+    },
+    {
+        "id": "2007-79",
+        "teamId": "southern-illinois-salukis",
+        "franchiseId": 79,
+        "season": 2007
+    },
+    {
+        "id": "2007-80",
+        "teamId": "chicago-maroons",
+        "franchiseId": 80,
+        "season": 2007
+    },
+    {
+        "id": "2007-81",
+        "teamId": "springfield-pride",
+        "franchiseId": 81,
+        "season": 2007
+    },
+    {
+        "id": "2007-83",
+        "teamId": "depauw-tigers",
+        "franchiseId": 83,
+        "season": 2007
+    },
+    {
+        "id": "2007-84",
+        "teamId": "indiana-hoosiers",
+        "franchiseId": 84,
+        "season": 2007
+    },
+    {
+        "id": "2007-86",
+        "teamId": "rose-hulman-engineers",
+        "franchiseId": 86,
+        "season": 2007
+    },
+    {
+        "id": "2007-87",
+        "teamId": "notre-dame-fighting-irish",
+        "franchiseId": 87,
+        "season": 2007
+    },
+    {
+        "id": "2007-89",
+        "teamId": "wabash-college-little-giants",
+        "franchiseId": 89,
+        "season": 2007
+    },
+    {
+        "id": "2007-90",
+        "teamId": "pittsburg-state-gorillas",
+        "franchiseId": 90,
+        "season": 2007
+    },
+    {
+        "id": "2007-93",
+        "teamId": "murray-state-racers",
+        "franchiseId": 93,
+        "season": 2007
+    },
+    {
+        "id": "2007-96",
+        "teamId": "kentucky-wildcats",
+        "franchiseId": 96,
+        "season": 2007
+    },
+    {
+        "id": "2007-97",
+        "teamId": "louisville-cardinals",
+        "franchiseId": 97,
+        "season": 2007
+    },
+    {
+        "id": "2007-98",
+        "teamId": "western-kentucky-hilltoppers",
+        "franchiseId": 98,
+        "season": 2007
+    },
+    {
+        "id": "2007-99",
+        "teamId": "lsu-tigers",
+        "franchiseId": 99,
+        "season": 2007
+    },
+    {
+        "id": "2007-101",
+        "teamId": "eureka-college-red-devils",
+        "franchiseId": 101,
+        "season": 2007
+    },
+    {
+        "id": "2007-103",
+        "teamId": "boston-college-eagles",
+        "franchiseId": 103,
+        "season": 2007
+    },
+    {
+        "id": "2007-107",
+        "teamId": "holy-cross-crusaders",
+        "franchiseId": 107,
+        "season": 2007
+    },
+    {
+        "id": "2007-108",
+        "teamId": "harvard-crimson",
+        "franchiseId": 108,
+        "season": 2007
+    },
+    {
+        "id": "2007-109",
+        "teamId": "mit-engineers",
+        "franchiseId": 109,
+        "season": 2007
+    },
+    {
+        "id": "2007-110",
+        "teamId": "mass-maritime-buccaneers",
+        "franchiseId": 110,
+        "season": 2007
+    },
+    {
+        "id": "2007-111",
+        "teamId": "northeastern-huskies",
+        "franchiseId": 111,
+        "season": 2007
+    },
+    {
+        "id": "2007-112",
+        "teamId": "tufts-jumbos",
+        "franchiseId": 112,
+        "season": 2007
+    },
+    {
+        "id": "2007-113",
+        "teamId": "massachusetts-minutemen",
+        "franchiseId": 113,
+        "season": 2007
+    },
+    {
+        "id": "2007-114",
+        "teamId": "fitchburg-state-falcons",
+        "franchiseId": 114,
+        "season": 2007
+    },
+    {
+        "id": "2007-118",
+        "teamId": "johns-hopkins-blue-jays",
+        "franchiseId": 118,
+        "season": 2007
+    },
+    {
+        "id": "2007-119",
+        "teamId": "towson-tigers",
+        "franchiseId": 119,
+        "season": 2007
+    },
+    {
+        "id": "2007-120",
+        "teamId": "maryland-terrapins",
+        "franchiseId": 120,
+        "season": 2007
+    },
+    {
+        "id": "2007-121",
+        "teamId": "bates-college-bobcats",
+        "franchiseId": 121,
+        "season": 2007
+    },
+    {
+        "id": "2007-124",
+        "teamId": "augsburg-auggies",
+        "franchiseId": 124,
+        "season": 2007
+    },
+    {
+        "id": "2007-125",
+        "teamId": "grand-valley-state-lakers",
+        "franchiseId": 125,
+        "season": 2007
+    },
+    {
+        "id": "2007-126",
+        "teamId": "kalamazoo-hornets",
+        "franchiseId": 126,
+        "season": 2007
+    },
+    {
+        "id": "2007-127",
+        "teamId": "michigan-state-spartans",
+        "franchiseId": 127,
+        "season": 2007
+    },
+    {
+        "id": "2007-128",
+        "teamId": "northern-michigan-wildcats",
+        "franchiseId": 128,
+        "season": 2007
+    },
+    {
+        "id": "2007-129",
+        "teamId": "saginaw-valley-cardinals",
+        "franchiseId": 129,
+        "season": 2007
+    },
+    {
+        "id": "2007-130",
+        "teamId": "michigan-wolverines",
+        "franchiseId": 130,
+        "season": 2007
+    },
+    {
+        "id": "2007-131",
+        "teamId": "wayne-state-mi-warriors",
+        "franchiseId": 131,
+        "season": 2007
+    },
+    {
+        "id": "2007-132",
+        "teamId": "bemidji-state-beavers",
+        "franchiseId": 132,
+        "season": 2007
+    },
+    {
+        "id": "2007-133",
+        "teamId": "st-olaf-college-oles",
+        "franchiseId": 133,
+        "season": 2007
+    },
+    {
+        "id": "2007-134",
+        "teamId": "minnesota-duluth-bulldogs",
+        "franchiseId": 134,
+        "season": 2007
+    },
+    {
+        "id": "2007-135",
+        "teamId": "minnesota-golden-gophers",
+        "franchiseId": 135,
+        "season": 2007
+    },
+    {
+        "id": "2007-137",
+        "teamId": "missouri-western-griffons",
+        "franchiseId": 137,
+        "season": 2007
+    },
+    {
+        "id": "2007-138",
+        "teamId": "northwest-missouri-state-bearcats",
+        "franchiseId": 138,
+        "season": 2007
+    },
+    {
+        "id": "2007-142",
+        "teamId": "missouri-tigers",
+        "franchiseId": 142,
+        "season": 2007
+    },
+    {
+        "id": "2007-143",
+        "teamId": "washington-mo-bears",
+        "franchiseId": 143,
+        "season": 2007
+    },
+    {
+        "id": "2007-145",
+        "teamId": "ole-miss-rebels",
+        "franchiseId": 145,
+        "season": 2007
+    },
+    {
+        "id": "2007-146",
+        "teamId": "grove-city-college-wolverines",
+        "franchiseId": 146,
+        "season": 2007
+    },
+    {
+        "id": "2007-147",
+        "teamId": "montana-state-bobcats",
+        "franchiseId": 147,
+        "season": 2007
+    },
+    {
+        "id": "2007-149",
+        "teamId": "montana-grizzlies",
+        "franchiseId": 149,
+        "season": 2007
+    },
+    {
+        "id": "2007-150",
+        "teamId": "duke-blue-devils",
+        "franchiseId": 150,
+        "season": 2007
+    },
+    {
+        "id": "2007-151",
+        "teamId": "east-carolina-pirates",
+        "franchiseId": 151,
+        "season": 2007
+    },
+    {
+        "id": "2007-152",
+        "teamId": "nc-state-wolfpack",
+        "franchiseId": 152,
+        "season": 2007
+    },
+    {
+        "id": "2007-153",
+        "teamId": "north-carolina-tar-heels",
+        "franchiseId": 153,
+        "season": 2007
+    },
+    {
+        "id": "2007-154",
+        "teamId": "wake-forest-demon-deacons",
+        "franchiseId": 154,
+        "season": 2007
+    },
+    {
+        "id": "2007-155",
+        "teamId": "north-dakota",
+        "franchiseId": 155,
+        "season": 2007
+    },
+    {
+        "id": "2007-158",
+        "teamId": "nebraska-cornhuskers",
+        "franchiseId": 158,
+        "season": 2007
+    },
+    {
+        "id": "2007-159",
+        "teamId": "dartmouth-big-green",
+        "franchiseId": 159,
+        "season": 2007
+    },
+    {
+        "id": "2007-160",
+        "teamId": "new-hampshire-wildcats",
+        "franchiseId": 160,
+        "season": 2007
+    },
+    {
+        "id": "2007-162",
+        "teamId": "hamline-fighting-pipers",
+        "franchiseId": 162,
+        "season": 2007
+    },
+    {
+        "id": "2007-163",
+        "teamId": "princeton-tigers",
+        "franchiseId": 163,
+        "season": 2007
+    },
+    {
+        "id": "2007-164",
+        "teamId": "rutgers-scarlet-knights",
+        "franchiseId": 164,
+        "season": 2007
+    },
+    {
+        "id": "2007-166",
+        "teamId": "new-mexico-state-aggies",
+        "franchiseId": 166,
+        "season": 2007
+    },
+    {
+        "id": "2007-167",
+        "teamId": "new-mexico-lobos",
+        "franchiseId": 167,
+        "season": 2007
+    },
+    {
+        "id": "2007-171",
+        "teamId": "columbia-lions",
+        "franchiseId": 171,
+        "season": 2007
+    },
+    {
+        "id": "2007-172",
+        "teamId": "cornell-big-red",
+        "franchiseId": 172,
+        "season": 2007
+    },
+    {
+        "id": "2007-173",
+        "teamId": "hartwick-hawks",
+        "franchiseId": 173,
+        "season": 2007
+    },
+    {
+        "id": "2007-174",
+        "teamId": "hobart-statesmen",
+        "franchiseId": 174,
+        "season": 2007
+    },
+    {
+        "id": "2007-175",
+        "teamId": "ithaca-bombers",
+        "franchiseId": 175,
+        "season": 2007
+    },
+    {
+        "id": "2007-183",
+        "teamId": "syracuse-orange",
+        "franchiseId": 183,
+        "season": 2007
+    },
+    {
+        "id": "2007-184",
+        "teamId": "rochester-yellow-jackets",
+        "franchiseId": 184,
+        "season": 2007
+    },
+    {
+        "id": "2007-188",
+        "teamId": "baldwin-wallace-yellow-jackets",
+        "franchiseId": 188,
+        "season": 2007
+    },
+    {
+        "id": "2007-189",
+        "teamId": "bowling-green-falcons",
+        "franchiseId": 189,
+        "season": 2007
+    },
+    {
+        "id": "2007-190",
+        "teamId": "defiance-yellow-jackets",
+        "franchiseId": 190,
+        "season": 2007
+    },
+    {
+        "id": "2007-191",
+        "teamId": "heidelberg-student-princes",
+        "franchiseId": 191,
+        "season": 2007
+    },
+    {
+        "id": "2007-193",
+        "teamId": "miami-oh-redhawks",
+        "franchiseId": 193,
+        "season": 2007
+    },
+    {
+        "id": "2007-194",
+        "teamId": "ohio-state-buckeyes",
+        "franchiseId": 194,
+        "season": 2007
+    },
+    {
+        "id": "2007-195",
+        "teamId": "ohio-bobcats",
+        "franchiseId": 195,
+        "season": 2007
+    },
+    {
+        "id": "2007-196",
+        "teamId": "northeastern-state-riverhawks",
+        "franchiseId": 196,
+        "season": 2007
+    },
+    {
+        "id": "2007-197",
+        "teamId": "oklahoma-state-cowboys",
+        "franchiseId": 197,
+        "season": 2007
+    },
+    {
+        "id": "2007-199",
+        "teamId": "southeastern-oklahoma-savage-storm",
+        "franchiseId": 199,
+        "season": 2007
+    },
+    {
+        "id": "2007-201",
+        "teamId": "oklahoma-sooners",
+        "franchiseId": 201,
+        "season": 2007
+    },
+    {
+        "id": "2007-202",
+        "teamId": "tulsa-golden-hurricane",
+        "franchiseId": 202,
+        "season": 2007
+    },
+    {
+        "id": "2007-203",
+        "teamId": "linfield-wildcats",
+        "franchiseId": 203,
+        "season": 2007
+    },
+    {
+        "id": "2007-204",
+        "teamId": "oregon-state-beavers",
+        "franchiseId": 204,
+        "season": 2007
+    },
+    {
+        "id": "2007-209",
+        "teamId": "lock-haven-bald-eagles",
+        "franchiseId": 209,
+        "season": 2007
+    },
+    {
+        "id": "2007-210",
+        "teamId": "millersville-marauders",
+        "franchiseId": 210,
+        "season": 2007
+    },
+    {
+        "id": "2007-213",
+        "teamId": "penn-state-nittany-lions",
+        "franchiseId": 213,
+        "season": 2007
+    },
+    {
+        "id": "2007-215",
+        "teamId": "slippery-rock-the-rock",
+        "franchiseId": 215,
+        "season": 2007
+    },
+    {
+        "id": "2007-216",
+        "teamId": "susquehanna-crusaders",
+        "franchiseId": 216,
+        "season": 2007
+    },
+    {
+        "id": "2007-218",
+        "teamId": "temple-owls",
+        "franchiseId": 218,
+        "season": 2007
+    },
+    {
+        "id": "2007-219",
+        "teamId": "penn-quakers",
+        "franchiseId": 219,
+        "season": 2007
+    },
+    {
+        "id": "2007-221",
+        "teamId": "pittsburgh-panthers",
+        "franchiseId": 221,
+        "season": 2007
+    },
+    {
+        "id": "2007-222",
+        "teamId": "villanova-wildcats",
+        "franchiseId": 222,
+        "season": 2007
+    },
+    {
+        "id": "2007-223",
+        "teamId": "west-chester-golden-rams",
+        "franchiseId": 223,
+        "season": 2007
+    },
+    {
+        "id": "2007-225",
+        "teamId": "brown-bears",
+        "franchiseId": 225,
+        "season": 2007
+    },
+    {
+        "id": "2007-227",
+        "teamId": "rhode-island-rams",
+        "franchiseId": 227,
+        "season": 2007
+    },
+    {
+        "id": "2007-228",
+        "teamId": "clemson-tigers",
+        "franchiseId": 228,
+        "season": 2007
+    },
+    {
+        "id": "2007-231",
+        "teamId": "furman-paladins",
+        "franchiseId": 231,
+        "season": 2007
+    },
+    {
+        "id": "2007-233",
+        "teamId": "south-dakota-coyotes",
+        "franchiseId": 233,
+        "season": 2007
+    },
+    {
+        "id": "2007-235",
+        "teamId": "memphis-tigers",
+        "franchiseId": 235,
+        "season": 2007
+    },
+    {
+        "id": "2007-236",
+        "teamId": "chattanooga-mocs",
+        "franchiseId": 236,
+        "season": 2007
+    },
+    {
+        "id": "2007-238",
+        "teamId": "vanderbilt-commodores",
+        "franchiseId": 238,
+        "season": 2007
+    },
+    {
+        "id": "2007-239",
+        "teamId": "baylor-bears",
+        "franchiseId": 239,
+        "season": 2007
+    },
+    {
+        "id": "2007-241",
+        "teamId": "mcmurry-war-hawks",
+        "franchiseId": 241,
+        "season": 2007
+    },
+    {
+        "id": "2007-242",
+        "teamId": "rice-owls",
+        "franchiseId": 242,
+        "season": 2007
+    },
+    {
+        "id": "2007-245",
+        "teamId": "texas-am-aggies",
+        "franchiseId": 245,
+        "season": 2007
+    },
+    {
+        "id": "2007-246",
+        "teamId": "juniata-eagles",
+        "franchiseId": 246,
+        "season": 2007
+    },
+    {
+        "id": "2007-247",
+        "teamId": "kings-college-pa-monarchs",
+        "franchiseId": 247,
+        "season": 2007
+    },
+    {
+        "id": "2007-248",
+        "teamId": "houston-cougars",
+        "franchiseId": 248,
+        "season": 2007
+    },
+    {
+        "id": "2007-249",
+        "teamId": "north-texas-mean-green",
+        "franchiseId": 249,
+        "season": 2007
+    },
+    {
+        "id": "2007-251",
+        "teamId": "texas-longhorns",
+        "franchiseId": 251,
+        "season": 2007
+    },
+    {
+        "id": "2007-252",
+        "teamId": "byu-cougars",
+        "franchiseId": 252,
+        "season": 2007
+    },
+    {
+        "id": "2007-253",
+        "teamId": "southern-utah-thunderbirds",
+        "franchiseId": 253,
+        "season": 2007
+    },
+    {
+        "id": "2007-254",
+        "teamId": "utah-utes",
+        "franchiseId": 254,
+        "season": 2007
+    },
+    {
+        "id": "2007-255",
+        "teamId": "knox-college-prairie-fire",
+        "franchiseId": 255,
+        "season": 2007
+    },
+    {
+        "id": "2007-256",
+        "teamId": "james-madison-dukes",
+        "franchiseId": 256,
+        "season": 2007
+    },
+    {
+        "id": "2007-257",
+        "teamId": "richmond-spiders",
+        "franchiseId": 257,
+        "season": 2007
+    },
+    {
+        "id": "2007-258",
+        "teamId": "virginia-cavaliers",
+        "franchiseId": 258,
+        "season": 2007
+    },
+    {
+        "id": "2007-259",
+        "teamId": "virginia-tech-hokies",
+        "franchiseId": 259,
+        "season": 2007
+    },
+    {
+        "id": "2007-262",
+        "teamId": "lake-forest-foresters",
+        "franchiseId": 262,
+        "season": 2007
+    },
+    {
+        "id": "2007-263",
+        "teamId": "loras-college-duhawks",
+        "franchiseId": 263,
+        "season": 2007
+    },
+    {
+        "id": "2007-264",
+        "teamId": "washington-huskies",
+        "franchiseId": 264,
+        "season": 2007
+    },
+    {
+        "id": "2007-265",
+        "teamId": "washington-state-cougars",
+        "franchiseId": 265,
+        "season": 2007
+    },
+    {
+        "id": "2007-266",
+        "teamId": "beloit-college-buccaneers",
+        "franchiseId": 266,
+        "season": 2007
+    },
+    {
+        "id": "2007-267",
+        "teamId": "southeastern-university-fire",
+        "franchiseId": 267,
+        "season": 2007
+    },
+    {
+        "id": "2007-268",
+        "teamId": "lawrence-vikings",
+        "franchiseId": 268,
+        "season": 2007
+    },
+    {
+        "id": "2007-271",
+        "teamId": "uw-oshkosh-titans",
+        "franchiseId": 271,
+        "season": 2007
+    },
+    {
+        "id": "2007-272",
+        "teamId": "wisconsin-platteville-pioneers",
+        "franchiseId": 272,
+        "season": 2007
+    },
+    {
+        "id": "2007-273",
+        "teamId": "macmurray-college-highlanders",
+        "franchiseId": 273,
+        "season": 2007
+    },
+    {
+        "id": "2007-274",
+        "teamId": "maine-maritime-mariners",
+        "franchiseId": 274,
+        "season": 2007
+    },
+    {
+        "id": "2007-275",
+        "teamId": "wisconsin-badgers",
+        "franchiseId": 275,
+        "season": 2007
+    },
+    {
+        "id": "2007-276",
+        "teamId": "marshall-thundering-herd",
+        "franchiseId": 276,
+        "season": 2007
+    },
+    {
+        "id": "2007-277",
+        "teamId": "west-virginia-mountaineers",
+        "franchiseId": 277,
+        "season": 2007
+    },
+    {
+        "id": "2007-278",
+        "teamId": "fresno-state-bulldogs",
+        "franchiseId": 278,
+        "season": 2007
+    },
+    {
+        "id": "2007-282",
+        "teamId": "indiana-state-sycamores",
+        "franchiseId": 282,
+        "season": 2007
+    },
+    {
+        "id": "2007-284",
+        "teamId": "stonehill-chieftains",
+        "franchiseId": 284,
+        "season": 2007
+    },
+    {
+        "id": "2007-286",
+        "teamId": "nc-wesleyan-battling-bishops",
+        "franchiseId": 286,
+        "season": 2007
+    },
+    {
+        "id": "2007-290",
+        "teamId": "georgia-southern-eagles",
+        "franchiseId": 290,
+        "season": 2007
+    },
+    {
+        "id": "2007-291",
+        "teamId": "methodist-monarchs",
+        "franchiseId": 291,
+        "season": 2007
+    },
+    {
+        "id": "2007-294",
+        "teamId": "jacksonville-dolphins",
+        "franchiseId": 294,
+        "season": 2007
+    },
+    {
+        "id": "2007-297",
+        "teamId": "hampden-sydney-tigers",
+        "franchiseId": 297,
+        "season": 2007
+    },
+    {
+        "id": "2007-301",
+        "teamId": "san-diego-toreros",
+        "franchiseId": 301,
+        "season": 2007
+    },
+    {
+        "id": "2007-302",
+        "teamId": "uc-davis-aggies",
+        "franchiseId": 302,
+        "season": 2007
+    },
+    {
+        "id": "2007-304",
+        "teamId": "idaho-state-bengals",
+        "franchiseId": 304,
+        "season": 2007
+    },
+    {
+        "id": "2007-306",
+        "teamId": "illinois-wesleyan-titans",
+        "franchiseId": 306,
+        "season": 2007
+    },
+    {
+        "id": "2007-308",
+        "teamId": "ashland-eagles",
+        "franchiseId": 308,
+        "season": 2007
+    },
+    {
+        "id": "2007-309",
+        "teamId": "louisiana-ragin-cajuns",
+        "franchiseId": 309,
+        "season": 2007
+    },
+    {
+        "id": "2007-311",
+        "teamId": "maine-black-bears",
+        "franchiseId": 311,
+        "season": 2007
+    },
+    {
+        "id": "2007-314",
+        "teamId": "iona-gaels",
+        "franchiseId": 314,
+        "season": 2007
+    },
+    {
+        "id": "2007-317",
+        "teamId": "marietta-pioneers",
+        "franchiseId": 317,
+        "season": 2007
+    },
+    {
+        "id": "2007-322",
+        "teamId": "lafayette-leopards",
+        "franchiseId": 322,
+        "season": 2007
+    },
+    {
+        "id": "2007-323",
+        "teamId": "moravian-greyhounds",
+        "franchiseId": 323,
+        "season": 2007
+    },
+    {
+        "id": "2007-324",
+        "teamId": "coastal-carolina-chanticleers",
+        "franchiseId": 324,
+        "season": 2007
+    },
+    {
+        "id": "2007-326",
+        "teamId": "texas-state-bobcats",
+        "franchiseId": 326,
+        "season": 2007
+    },
+    {
+        "id": "2007-328",
+        "teamId": "utah-state-aggies",
+        "franchiseId": 328,
+        "season": 2007
+    },
+    {
+        "id": "2007-330",
+        "teamId": "virginia-state-trojans",
+        "franchiseId": 330,
+        "season": 2007
+    },
+    {
+        "id": "2007-331",
+        "teamId": "eastern-washington-eagles",
+        "franchiseId": 331,
+        "season": 2007
+    },
+    {
+        "id": "2007-332",
+        "teamId": "muskingum-muskies",
+        "franchiseId": 332,
+        "season": 2007
+    },
+    {
+        "id": "2007-333",
+        "teamId": "alabama-crimson-tide",
+        "franchiseId": 333,
+        "season": 2007
+    },
+    {
+        "id": "2007-336",
+        "teamId": "wesleyan-cardinals",
+        "franchiseId": 336,
+        "season": 2007
+    },
+    {
+        "id": "2007-340",
+        "teamId": "bowdoin-polar-bears",
+        "franchiseId": 340,
+        "season": 2007
+    },
+    {
+        "id": "2007-341",
+        "teamId": "frostburg-state-bobcats",
+        "franchiseId": 341,
+        "season": 2007
+    },
+    {
+        "id": "2007-344",
+        "teamId": "mississippi-state-bulldogs",
+        "franchiseId": 344,
+        "season": 2007
+    },
+    {
+        "id": "2007-348",
+        "teamId": "hamilton-continentals",
+        "franchiseId": 348,
+        "season": 2007
+    },
+    {
+        "id": "2007-349",
+        "teamId": "army-black-knights",
+        "franchiseId": 349,
+        "season": 2007
+    },
+    {
+        "id": "2007-351",
+        "teamId": "wingate-bulldogs",
+        "franchiseId": 351,
+        "season": 2007
+    },
+    {
+        "id": "2007-352",
+        "teamId": "kenyon-lords",
+        "franchiseId": 352,
+        "season": 2007
+    },
+    {
+        "id": "2007-354",
+        "teamId": "olivet-college-comets",
+        "franchiseId": 354,
+        "season": 2007
+    },
+    {
+        "id": "2007-356",
+        "teamId": "illinois-fighting-illini",
+        "franchiseId": 356,
+        "season": 2007
+    },
+    {
+        "id": "2007-359",
+        "teamId": "otterbein-cardinals",
+        "franchiseId": 359,
+        "season": 2007
+    },
+    {
+        "id": "2007-363",
+        "teamId": "principia-college-panthers",
+        "franchiseId": 363,
+        "season": 2007
+    },
+    {
+        "id": "2007-365",
+        "teamId": "alfred-saxons",
+        "franchiseId": 365,
+        "season": 2007
+    },
+    {
+        "id": "2007-366",
+        "teamId": "ferrum-panthers",
+        "franchiseId": 366,
+        "season": 2007
+    },
+    {
+        "id": "2007-367",
+        "teamId": "gannon-golden-knights",
+        "franchiseId": 367,
+        "season": 2007
+    },
+    {
+        "id": "2007-374",
+        "teamId": "st-john-fisher-cardinals",
+        "franchiseId": 374,
+        "season": 2007
+    },
+    {
+        "id": "2007-379",
+        "teamId": "umass-dartmouth-corsairs",
+        "franchiseId": 379,
+        "season": 2007
+    },
+    {
+        "id": "2007-386",
+        "teamId": "trinity-tx-tigers",
+        "franchiseId": 386,
+        "season": 2007
+    },
+    {
+        "id": "2007-388",
+        "teamId": "lebanon-valley-flying-dutchmen",
+        "franchiseId": 388,
+        "season": 2007
+    },
+    {
+        "id": "2007-389",
+        "teamId": "upper-iowa-peacocks",
+        "franchiseId": 389,
+        "season": 2007
+    },
+    {
+        "id": "2007-390",
+        "teamId": "utica-college-pioneers",
+        "franchiseId": 390,
+        "season": 2007
+    },
+    {
+        "id": "2007-391",
+        "teamId": "oberlin-yeomen",
+        "franchiseId": 391,
+        "season": 2007
+    },
+    {
+        "id": "2007-395",
+        "teamId": "st-augustines-falcons",
+        "franchiseId": 395,
+        "season": 2007
+    },
+    {
+        "id": "2007-396",
+        "teamId": "wheaton-college-ill-thunder",
+        "franchiseId": 396,
+        "season": 2007
+    },
+    {
+        "id": "2007-398",
+        "teamId": "wilkes-colonels",
+        "franchiseId": 398,
+        "season": 2007
+    },
+    {
+        "id": "2007-399",
+        "teamId": "albany-great-danes",
+        "franchiseId": 399,
+        "season": 2007
+    },
+    {
+        "id": "2007-402",
+        "teamId": "worcester-state-college-lancers",
+        "franchiseId": 402,
+        "season": 2007
+    },
+    {
+        "id": "2007-409",
+        "teamId": "concordia-wi-falcons",
+        "franchiseId": 409,
+        "season": 2007
+    },
+    {
+        "id": "2007-411",
+        "teamId": "chapman-panthers",
+        "franchiseId": 411,
+        "season": 2007
+    },
+    {
+        "id": "2007-417",
+        "teamId": "gallaudet-bison",
+        "franchiseId": 417,
+        "season": 2007
+    },
+    {
+        "id": "2007-421",
+        "teamId": "maranatha-baptist-college-crusaders",
+        "franchiseId": 421,
+        "season": 2007
+    },
+    {
+        "id": "2007-424",
+        "teamId": "capital-crusaders",
+        "franchiseId": 424,
+        "season": 2007
+    },
+    {
+        "id": "2007-425",
+        "teamId": "northern-state-wolves",
+        "franchiseId": 425,
+        "season": 2007
+    },
+    {
+        "id": "2007-426",
+        "teamId": "mount-union-raiders",
+        "franchiseId": 426,
+        "season": 2007
+    },
+    {
+        "id": "2007-427",
+        "teamId": "ohio-northern-polar-bears",
+        "franchiseId": 427,
+        "season": 2007
+    },
+    {
+        "id": "2007-433",
+        "teamId": "westminster-blue-jays",
+        "franchiseId": 433,
+        "season": 2007
+    },
+    {
+        "id": "2007-446",
+        "teamId": "martin-luther-college-knights",
+        "franchiseId": 446,
+        "season": 2007
+    },
+    {
+        "id": "2007-452",
+        "teamId": "endicott-college-gulls",
+        "franchiseId": 452,
+        "season": 2007
+    },
+    {
+        "id": "2007-455",
+        "teamId": "wv-wesleyan-bobcats",
+        "franchiseId": 455,
+        "season": 2007
+    },
+    {
+        "id": "2007-479",
+        "teamId": "becker-college-hawks",
+        "franchiseId": 479,
+        "season": 2007
+    },
+    {
+        "id": "2007-481",
+        "teamId": "mount-ida-college-mustangs",
+        "franchiseId": 481,
+        "season": 2007
+    },
+    {
+        "id": "2007-509",
+        "teamId": "crown-college-storm",
+        "franchiseId": 509,
+        "season": 2007
+    },
+    {
+        "id": "2007-548",
+        "teamId": "lagrange-college-panthers",
+        "franchiseId": 548,
+        "season": 2007
+    },
+    {
+        "id": "2007-2000",
+        "teamId": "abilene-christian-wildcats",
+        "franchiseId": 2000,
+        "season": 2007
+    },
+    {
+        "id": "2007-2001",
+        "teamId": "adams-state-grizzlies",
+        "franchiseId": 2001,
+        "season": 2007
+    },
+    {
+        "id": "2007-2003",
+        "teamId": "adrian-bulldogs",
+        "franchiseId": 2003,
+        "season": 2007
+    },
+    {
+        "id": "2007-2005",
+        "teamId": "air-force-falcons",
+        "franchiseId": 2005,
+        "season": 2007
+    },
+    {
+        "id": "2007-2006",
+        "teamId": "akron-zips",
+        "franchiseId": 2006,
+        "season": 2007
+    },
+    {
+        "id": "2007-2010",
+        "teamId": "alabama-am-bulldogs",
+        "franchiseId": 2010,
+        "season": 2007
+    },
+    {
+        "id": "2007-2011",
+        "teamId": "alabama-state-hornets",
+        "franchiseId": 2011,
+        "season": 2007
+    },
+    {
+        "id": "2007-2013",
+        "teamId": "albany-state-ga-golden-rams",
+        "franchiseId": 2013,
+        "season": 2007
+    },
+    {
+        "id": "2007-2015",
+        "teamId": "albright-lions",
+        "franchiseId": 2015,
+        "season": 2007
+    },
+    {
+        "id": "2007-2016",
+        "teamId": "alcorn-state-braves",
+        "franchiseId": 2016,
+        "season": 2007
+    },
+    {
+        "id": "2007-2018",
+        "teamId": "allegheny-golden-gators",
+        "franchiseId": 2018,
+        "season": 2007
+    },
+    {
+        "id": "2007-2022",
+        "teamId": "american-international-yellow-jackets",
+        "franchiseId": 2022,
+        "season": 2007
+    },
+    {
+        "id": "2007-2023",
+        "teamId": "anderson-in-ravens",
+        "franchiseId": 2023,
+        "season": 2007
+    },
+    {
+        "id": "2007-2025",
+        "teamId": "angelo-state-rams",
+        "franchiseId": 2025,
+        "season": 2007
+    },
+    {
+        "id": "2007-2026",
+        "teamId": "appalachian-state-mountaineers",
+        "franchiseId": 2026,
+        "season": 2007
+    },
+    {
+        "id": "2007-2028",
+        "teamId": "arkansas-monticello-weevils",
+        "franchiseId": 2028,
+        "season": 2007
+    },
+    {
+        "id": "2007-2029",
+        "teamId": "arkansas-pine-bluff-golden-lions",
+        "franchiseId": 2029,
+        "season": 2007
+    },
+    {
+        "id": "2007-2032",
+        "teamId": "arkansas-state-red-wolves",
+        "franchiseId": 2032,
+        "season": 2007
+    },
+    {
+        "id": "2007-2033",
+        "teamId": "arkansas-tech-wonder-boys",
+        "franchiseId": 2033,
+        "season": 2007
+    },
+    {
+        "id": "2007-2038",
+        "teamId": "assumption-greyhounds",
+        "franchiseId": 2038,
+        "season": 2007
+    },
+    {
+        "id": "2007-2042",
+        "teamId": "augustana-il-vikings",
+        "franchiseId": 2042,
+        "season": 2007
+    },
+    {
+        "id": "2007-2043",
+        "teamId": "augustana-sd-vikings",
+        "franchiseId": 2043,
+        "season": 2007
+    },
+    {
+        "id": "2007-2044",
+        "teamId": "aurora-spartans",
+        "franchiseId": 2044,
+        "season": 2007
+    },
+    {
+        "id": "2007-2045",
+        "teamId": "austin-college-kangaroos",
+        "franchiseId": 2045,
+        "season": 2007
+    },
+    {
+        "id": "2007-2046",
+        "teamId": "austin-peay-governors",
+        "franchiseId": 2046,
+        "season": 2007
+    },
+    {
+        "id": "2007-2047",
+        "teamId": "averett-cougars",
+        "franchiseId": 2047,
+        "season": 2007
+    },
+    {
+        "id": "2007-2050",
+        "teamId": "ball-state-cardinals",
+        "franchiseId": 2050,
+        "season": 2007
+    },
+    {
+        "id": "2007-2060",
+        "teamId": "bentley-falcons",
+        "franchiseId": 2060,
+        "season": 2007
+    },
+    {
+        "id": "2007-2062",
+        "teamId": "bethany-wv-bison",
+        "franchiseId": 2062,
+        "season": 2007
+    },
+    {
+        "id": "2007-2065",
+        "teamId": "bethune-cookman-wildcats",
+        "franchiseId": 2065,
+        "season": 2007
+    },
+    {
+        "id": "2007-2070",
+        "teamId": "blackburn-beavers",
+        "franchiseId": 2070,
+        "season": 2007
+    },
+    {
+        "id": "2007-2071",
+        "teamId": "bloomsburg-huskies",
+        "franchiseId": 2071,
+        "season": 2007
+    },
+    {
+        "id": "2007-2074",
+        "teamId": "bluffton-beavers",
+        "franchiseId": 2074,
+        "season": 2007
+    },
+    {
+        "id": "2007-2075",
+        "teamId": "bowie-state-bulldogs",
+        "franchiseId": 2075,
+        "season": 2007
+    },
+    {
+        "id": "2007-2079",
+        "teamId": "bridgewater-va-eagles",
+        "franchiseId": 2079,
+        "season": 2007
+    },
+    {
+        "id": "2007-2083",
+        "teamId": "bucknell-bison",
+        "franchiseId": 2083,
+        "season": 2007
+    },
+    {
+        "id": "2007-2084",
+        "teamId": "buffalo-bulls",
+        "franchiseId": 2084,
+        "season": 2007
+    },
+    {
+        "id": "2007-2085",
+        "teamId": "buffalo-state-bengals",
+        "franchiseId": 2085,
+        "season": 2007
+    },
+    {
+        "id": "2007-2086",
+        "teamId": "butler-bulldogs",
+        "franchiseId": 2086,
+        "season": 2007
+    },
+    {
+        "id": "2007-2089",
+        "teamId": "liu-post-pioneers",
+        "franchiseId": 2089,
+        "season": 2007
+    },
+    {
+        "id": "2007-2094",
+        "teamId": "cal-lutheran-kingsmen",
+        "franchiseId": 2094,
+        "season": 2007
+    },
+    {
+        "id": "2007-2101",
+        "teamId": "carleton-knights",
+        "franchiseId": 2101,
+        "season": 2007
+    },
+    {
+        "id": "2007-2102",
+        "teamId": "carnegie-mellon-tartans",
+        "franchiseId": 2102,
+        "season": 2007
+    },
+    {
+        "id": "2007-2105",
+        "teamId": "carson-newman-eagles",
+        "franchiseId": 2105,
+        "season": 2007
+    },
+    {
+        "id": "2007-2106",
+        "teamId": "carthage-redmen",
+        "franchiseId": 2106,
+        "season": 2007
+    },
+    {
+        "id": "2007-2107",
+        "teamId": "catawba-indians",
+        "franchiseId": 2107,
+        "season": 2007
+    },
+    {
+        "id": "2007-2108",
+        "teamId": "catholic-university-cardinals",
+        "franchiseId": 2108,
+        "season": 2007
+    },
+    {
+        "id": "2007-2110",
+        "teamId": "central-arkansas-bears",
+        "franchiseId": 2110,
+        "season": 2007
+    },
+    {
+        "id": "2007-2115",
+        "teamId": "central-connecticut-blue-devils",
+        "franchiseId": 2115,
+        "season": 2007
+    },
+    {
+        "id": "2007-2116",
+        "teamId": "ucf-knights",
+        "franchiseId": 2116,
+        "season": 2007
+    },
+    {
+        "id": "2007-2117",
+        "teamId": "central-michigan-chippewas",
+        "franchiseId": 2117,
+        "season": 2007
+    },
+    {
+        "id": "2007-2118",
+        "teamId": "central-missouri-state-mules",
+        "franchiseId": 2118,
+        "season": 2007
+    },
+    {
+        "id": "2007-2120",
+        "teamId": "central-washington-wildcats",
+        "franchiseId": 2120,
+        "season": 2007
+    },
+    {
+        "id": "2007-2121",
+        "teamId": "centre-colonels",
+        "franchiseId": 2121,
+        "season": 2007
+    },
+    {
+        "id": "2007-2122",
+        "teamId": "central-oklahoma-bronchos",
+        "franchiseId": 2122,
+        "season": 2007
+    },
+    {
+        "id": "2007-2123",
+        "teamId": "chadron-state-eagles",
+        "franchiseId": 2123,
+        "season": 2007
+    },
+    {
+        "id": "2007-2127",
+        "teamId": "charleston-southern-buccaneers",
+        "franchiseId": 2127,
+        "season": 2007
+    },
+    {
+        "id": "2007-2128",
+        "teamId": "charleston-wv-golden-eagles",
+        "franchiseId": 2128,
+        "season": 2007
+    },
+    {
+        "id": "2007-2129",
+        "teamId": "cheyney-wolves",
+        "franchiseId": 2129,
+        "season": 2007
+    },
+    {
+        "id": "2007-2132",
+        "teamId": "cincinnati-bearcats",
+        "franchiseId": 2132,
+        "season": 2007
+    },
+    {
+        "id": "2007-2134",
+        "teamId": "clarion-golden-eagles",
+        "franchiseId": 2134,
+        "season": 2007
+    },
+    {
+        "id": "2007-2141",
+        "teamId": "coe-kohawks",
+        "franchiseId": 2141,
+        "season": 2007
+    },
+    {
+        "id": "2007-2142",
+        "teamId": "colgate-raiders",
+        "franchiseId": 2142,
+        "season": 2007
+    },
+    {
+        "id": "2007-2144",
+        "teamId": "colorado-college-tigers",
+        "franchiseId": 2144,
+        "season": 2007
+    },
+    {
+        "id": "2007-2146",
+        "teamId": "colorado-mines-orediggers",
+        "franchiseId": 2146,
+        "season": 2007
+    },
+    {
+        "id": "2007-2148",
+        "teamId": "concord-mountain-lions",
+        "franchiseId": 2148,
+        "season": 2007
+    },
+    {
+        "id": "2007-2151",
+        "teamId": "concordia-il-cougars",
+        "franchiseId": 2151,
+        "season": 2007
+    },
+    {
+        "id": "2007-2152",
+        "teamId": "concordia-mn-cobbers",
+        "franchiseId": 2152,
+        "season": 2007
+    },
+    {
+        "id": "2007-2155",
+        "teamId": "cornell-college-ia-rams",
+        "franchiseId": 2155,
+        "season": 2007
+    },
+    {
+        "id": "2007-2166",
+        "teamId": "davidson-wildcats",
+        "franchiseId": 2166,
+        "season": 2007
+    },
+    {
+        "id": "2007-2168",
+        "teamId": "dayton-flyers",
+        "franchiseId": 2168,
+        "season": 2007
+    },
+    {
+        "id": "2007-2169",
+        "teamId": "delaware-state-hornets",
+        "franchiseId": 2169,
+        "season": 2007
+    },
+    {
+        "id": "2007-2170",
+        "teamId": "delta-state-statesmen",
+        "franchiseId": 2170,
+        "season": 2007
+    },
+    {
+        "id": "2007-2171",
+        "teamId": "denison-big-red",
+        "franchiseId": 2171,
+        "season": 2007
+    },
+    {
+        "id": "2007-2175",
+        "teamId": "dickinson-red-devils",
+        "franchiseId": 2175,
+        "season": 2007
+    },
+    {
+        "id": "2007-2181",
+        "teamId": "drake-bulldogs",
+        "franchiseId": 2181,
+        "season": 2007
+    },
+    {
+        "id": "2007-2184",
+        "teamId": "duquesne-dukes",
+        "franchiseId": 2184,
+        "season": 2007
+    },
+    {
+        "id": "2007-2188",
+        "teamId": "east-stroudsburg-warriors",
+        "franchiseId": 2188,
+        "season": 2007
+    },
+    {
+        "id": "2007-2189",
+        "teamId": "earlham-quakers",
+        "franchiseId": 2189,
+        "season": 2007
+    },
+    {
+        "id": "2007-2191",
+        "teamId": "east-central-tigers",
+        "franchiseId": 2191,
+        "season": 2007
+    },
+    {
+        "id": "2007-2194",
+        "teamId": "east-texas-baptist-tigers",
+        "franchiseId": 2194,
+        "season": 2007
+    },
+    {
+        "id": "2007-2197",
+        "teamId": "eastern-illinois-panthers",
+        "franchiseId": 2197,
+        "season": 2007
+    },
+    {
+        "id": "2007-2198",
+        "teamId": "eastern-kentucky-colonels",
+        "franchiseId": 2198,
+        "season": 2007
+    },
+    {
+        "id": "2007-2199",
+        "teamId": "eastern-michigan-eagles",
+        "franchiseId": 2199,
+        "season": 2007
+    },
+    {
+        "id": "2007-2201",
+        "teamId": "eastern-new-mexico-greyhounds",
+        "franchiseId": 2201,
+        "season": 2007
+    },
+    {
+        "id": "2007-2202",
+        "teamId": "eastern-oregon-mountaineers",
+        "franchiseId": 2202,
+        "season": 2007
+    },
+    {
+        "id": "2007-2205",
+        "teamId": "edinboro-fighting-scots",
+        "franchiseId": 2205,
+        "season": 2007
+    },
+    {
+        "id": "2007-2207",
+        "teamId": "elizabeth-city-state-vikings",
+        "franchiseId": 2207,
+        "season": 2007
+    },
+    {
+        "id": "2007-2210",
+        "teamId": "elon-phoenix",
+        "franchiseId": 2210,
+        "season": 2007
+    },
+    {
+        "id": "2007-2213",
+        "teamId": "emory-henry-wasps",
+        "franchiseId": 2213,
+        "season": 2007
+    },
+    {
+        "id": "2007-2214",
+        "teamId": "emporia-state-hornets",
+        "franchiseId": 2214,
+        "season": 2007
+    },
+    {
+        "id": "2007-2220",
+        "teamId": "fayetteville-state-broncos",
+        "franchiseId": 2220,
+        "season": 2007
+    },
+    {
+        "id": "2007-2221",
+        "teamId": "fdu-florham-devils",
+        "franchiseId": 2221,
+        "season": 2007
+    },
+    {
+        "id": "2007-2222",
+        "teamId": "ferris-state-bulldogs",
+        "franchiseId": 2222,
+        "season": 2007
+    },
+    {
+        "id": "2007-2224",
+        "teamId": "findlay-oilers",
+        "franchiseId": 2224,
+        "season": 2007
+    },
+    {
+        "id": "2007-2226",
+        "teamId": "florida-atlantic-owls",
+        "franchiseId": 2226,
+        "season": 2007
+    },
+    {
+        "id": "2007-2229",
+        "teamId": "florida-intl-golden-panthers",
+        "franchiseId": 2229,
+        "season": 2007
+    },
+    {
+        "id": "2007-2230",
+        "teamId": "fordham-rams",
+        "franchiseId": 2230,
+        "season": 2007
+    },
+    {
+        "id": "2007-2231",
+        "teamId": "fort-hays-state-tigers",
+        "franchiseId": 2231,
+        "season": 2007
+    },
+    {
+        "id": "2007-2232",
+        "teamId": "fort-valley-state-wildcats",
+        "franchiseId": 2232,
+        "season": 2007
+    },
+    {
+        "id": "2007-2233",
+        "teamId": "franklin-grizzlies",
+        "franchiseId": 2233,
+        "season": 2007
+    },
+    {
+        "id": "2007-2234",
+        "teamId": "franklin-marshall-diplomats",
+        "franchiseId": 2234,
+        "season": 2007
+    },
+    {
+        "id": "2007-2237",
+        "teamId": "fort-lewis-skyhawks",
+        "franchiseId": 2237,
+        "season": 2007
+    },
+    {
+        "id": "2007-2241",
+        "teamId": "gardner-webb-bulldogs",
+        "franchiseId": 2241,
+        "season": 2007
+    },
+    {
+        "id": "2007-2244",
+        "teamId": "george-mason-patriots",
+        "franchiseId": 2244,
+        "season": 2007
+    },
+    {
+        "id": "2007-2248",
+        "teamId": "gettysburg-bullets",
+        "franchiseId": 2248,
+        "season": 2007
+    },
+    {
+        "id": "2007-2249",
+        "teamId": "glenville-state-pioneers",
+        "franchiseId": 2249,
+        "season": 2007
+    },
+    {
+        "id": "2007-2256",
+        "teamId": "greensboro-pride",
+        "franchiseId": 2256,
+        "season": 2007
+    },
+    {
+        "id": "2007-2257",
+        "teamId": "greenville-panthers",
+        "franchiseId": 2257,
+        "season": 2007
+    },
+    {
+        "id": "2007-2258",
+        "teamId": "guilford-quakers",
+        "franchiseId": 2258,
+        "season": 2007
+    },
+    {
+        "id": "2007-2261",
+        "teamId": "hampton-pirates",
+        "franchiseId": 2261,
+        "season": 2007
+    },
+    {
+        "id": "2007-2262",
+        "teamId": "hanover-panthers",
+        "franchiseId": 2262,
+        "season": 2007
+    },
+    {
+        "id": "2007-2264",
+        "teamId": "harding-bison",
+        "franchiseId": 2264,
+        "season": 2007
+    },
+    {
+        "id": "2007-2271",
+        "teamId": "henderson-state-reddies",
+        "franchiseId": 2271,
+        "season": 2007
+    },
+    {
+        "id": "2007-2273",
+        "teamId": "hillsdale-chargers",
+        "franchiseId": 2273,
+        "season": 2007
+    },
+    {
+        "id": "2007-2274",
+        "teamId": "hiram-terriers",
+        "franchiseId": 2274,
+        "season": 2007
+    },
+    {
+        "id": "2007-2275",
+        "teamId": "hofstra-pride",
+        "franchiseId": 2275,
+        "season": 2007
+    },
+    {
+        "id": "2007-2278",
+        "teamId": "humboldt-state-lumberjacks",
+        "franchiseId": 2278,
+        "season": 2007
+    },
+    {
+        "id": "2007-2280",
+        "teamId": "husson-eagles",
+        "franchiseId": 2280,
+        "season": 2007
+    },
+    {
+        "id": "2007-2283",
+        "teamId": "benedictine-il-eagles",
+        "franchiseId": 2283,
+        "season": 2007
+    },
+    {
+        "id": "2007-2286",
+        "teamId": "illinois-college-blueboys",
+        "franchiseId": 2286,
+        "season": 2007
+    },
+    {
+        "id": "2007-2287",
+        "teamId": "illinois-state-redbirds",
+        "franchiseId": 2287,
+        "season": 2007
+    },
+    {
+        "id": "2007-2291",
+        "teamId": "indiana-pa-crimson-hawks",
+        "franchiseId": 2291,
+        "season": 2007
+    },
+    {
+        "id": "2007-2292",
+        "teamId": "indianapolis-greyhounds",
+        "franchiseId": 2292,
+        "season": 2007
+    },
+    {
+        "id": "2007-2294",
+        "teamId": "iowa-hawkeyes",
+        "franchiseId": 2294,
+        "season": 2007
+    },
+    {
+        "id": "2007-2296",
+        "teamId": "jackson-state-tigers",
+        "franchiseId": 2296,
+        "season": 2007
+    },
+    {
+        "id": "2007-2302",
+        "teamId": "john-carroll-blue-streaks",
+        "franchiseId": 2302,
+        "season": 2007
+    },
+    {
+        "id": "2007-2304",
+        "teamId": "johnson-c-smith-golden-bulls",
+        "franchiseId": 2304,
+        "season": 2007
+    },
+    {
+        "id": "2007-2305",
+        "teamId": "kansas-jayhawks",
+        "franchiseId": 2305,
+        "season": 2007
+    },
+    {
+        "id": "2007-2306",
+        "teamId": "kansas-state-wildcats",
+        "franchiseId": 2306,
+        "season": 2007
+    },
+    {
+        "id": "2007-2309",
+        "teamId": "kent-state-golden-flashes",
+        "franchiseId": 2309,
+        "season": 2007
+    },
+    {
+        "id": "2007-2310",
+        "teamId": "kentucky-state-thorobreds",
+        "franchiseId": 2310,
+        "season": 2007
+    },
+    {
+        "id": "2007-2315",
+        "teamId": "kutztown-golden-bears",
+        "franchiseId": 2315,
+        "season": 2007
+    },
+    {
+        "id": "2007-2316",
+        "teamId": "kentucky-wesleyan-panthers",
+        "franchiseId": 2316,
+        "season": 2007
+    },
+    {
+        "id": "2007-2318",
+        "teamId": "la-verne-leopards",
+        "franchiseId": 2318,
+        "season": 2007
+    },
+    {
+        "id": "2007-2323",
+        "teamId": "lane-dragons",
+        "franchiseId": 2323,
+        "season": 2007
+    },
+    {
+        "id": "2007-2325",
+        "teamId": "la-salle-explorers",
+        "franchiseId": 2325,
+        "season": 2007
+    },
+    {
+        "id": "2007-2329",
+        "teamId": "lehigh-mountain-hawks",
+        "franchiseId": 2329,
+        "season": 2007
+    },
+    {
+        "id": "2007-2331",
+        "teamId": "lenoir-rhyne-bears",
+        "franchiseId": 2331,
+        "season": 2007
+    },
+    {
+        "id": "2007-2333",
+        "teamId": "lewis-clark-pioneers",
+        "franchiseId": 2333,
+        "season": 2007
+    },
+    {
+        "id": "2007-2335",
+        "teamId": "liberty-flames",
+        "franchiseId": 2335,
+        "season": 2007
+    },
+    {
+        "id": "2007-2347",
+        "teamId": "louisiana-college-wildcats",
+        "franchiseId": 2347,
+        "season": 2007
+    },
+    {
+        "id": "2007-2348",
+        "teamId": "louisiana-tech-bulldogs",
+        "franchiseId": 2348,
+        "season": 2007
+    },
+    {
+        "id": "2007-2349",
+        "teamId": "umass-lowell-river-hawks",
+        "franchiseId": 2349,
+        "season": 2007
+    },
+    {
+        "id": "2007-2354",
+        "teamId": "lycoming-warriors",
+        "franchiseId": 2354,
+        "season": 2007
+    },
+    {
+        "id": "2007-2359",
+        "teamId": "macalester-scots",
+        "franchiseId": 2359,
+        "season": 2007
+    },
+    {
+        "id": "2007-2362",
+        "teamId": "manchester-spartans",
+        "franchiseId": 2362,
+        "season": 2007
+    },
+    {
+        "id": "2007-2364",
+        "teamId": "minnesota-state-mavericks",
+        "franchiseId": 2364,
+        "season": 2007
+    },
+    {
+        "id": "2007-2365",
+        "teamId": "mansfield-mountaineers",
+        "franchiseId": 2365,
+        "season": 2007
+    },
+    {
+        "id": "2007-2366",
+        "teamId": "marian-knights",
+        "franchiseId": 2366,
+        "season": 2007
+    },
+    {
+        "id": "2007-2368",
+        "teamId": "marist-red-foxes",
+        "franchiseId": 2368,
+        "season": 2007
+    },
+    {
+        "id": "2007-2369",
+        "teamId": "mars-hill-lions",
+        "franchiseId": 2369,
+        "season": 2007
+    },
+    {
+        "id": "2007-2371",
+        "teamId": "mary-hardin-baylor-crusaders",
+        "franchiseId": 2371,
+        "season": 2007
+    },
+    {
+        "id": "2007-2373",
+        "teamId": "maryville-tn-fighting-scots",
+        "franchiseId": 2373,
+        "season": 2007
+    },
+    {
+        "id": "2007-2377",
+        "teamId": "mcneese-state-cowboys",
+        "franchiseId": 2377,
+        "season": 2007
+    },
+    {
+        "id": "2007-2381",
+        "teamId": "menlo-oaks",
+        "franchiseId": 2381,
+        "season": 2007
+    },
+    {
+        "id": "2007-2383",
+        "teamId": "merchant-marine-mariners",
+        "franchiseId": 2383,
+        "season": 2007
+    },
+    {
+        "id": "2007-2385",
+        "teamId": "mercyhurst-lakers",
+        "franchiseId": 2385,
+        "season": 2007
+    },
+    {
+        "id": "2007-2390",
+        "teamId": "miami-hurricanes",
+        "franchiseId": 2390,
+        "season": 2007
+    },
+    {
+        "id": "2007-2392",
+        "teamId": "michigan-tech-huskies",
+        "franchiseId": 2392,
+        "season": 2007
+    },
+    {
+        "id": "2007-2393",
+        "teamId": "middle-tennessee-blue-raiders",
+        "franchiseId": 2393,
+        "season": 2007
+    },
+    {
+        "id": "2007-2394",
+        "teamId": "middlebury-panthers",
+        "franchiseId": 2394,
+        "season": 2007
+    },
+    {
+        "id": "2007-2395",
+        "teamId": "midwestern-state-mustangs",
+        "franchiseId": 2395,
+        "season": 2007
+    },
+    {
+        "id": "2007-2396",
+        "teamId": "miles-golden-bears",
+        "franchiseId": 2396,
+        "season": 2007
+    },
+    {
+        "id": "2007-2398",
+        "teamId": "millsaps-majors",
+        "franchiseId": 2398,
+        "season": 2007
+    },
+    {
+        "id": "2007-2399",
+        "teamId": "minnesota-morris-cougars",
+        "franchiseId": 2399,
+        "season": 2007
+    },
+    {
+        "id": "2007-2400",
+        "teamId": "mississippi-valley-state-delta-devils",
+        "franchiseId": 2400,
+        "season": 2007
+    },
+    {
+        "id": "2007-2401",
+        "teamId": "mississippi-college-choctaws",
+        "franchiseId": 2401,
+        "season": 2007
+    },
+    {
+        "id": "2007-2402",
+        "teamId": "missouri-st-miners",
+        "franchiseId": 2402,
+        "season": 2007
+    },
+    {
+        "id": "2007-2403",
+        "teamId": "missouri-southern-state-lions",
+        "franchiseId": 2403,
+        "season": 2007
+    },
+    {
+        "id": "2007-2405",
+        "teamId": "monmouth-hawks",
+        "franchiseId": 2405,
+        "season": 2007
+    },
+    {
+        "id": "2007-2413",
+        "teamId": "morehead-state-eagles",
+        "franchiseId": 2413,
+        "season": 2007
+    },
+    {
+        "id": "2007-2415",
+        "teamId": "morgan-state-bears",
+        "franchiseId": 2415,
+        "season": 2007
+    },
+    {
+        "id": "2007-2416",
+        "teamId": "morningside-chiefs",
+        "franchiseId": 2416,
+        "season": 2007
+    },
+    {
+        "id": "2007-2419",
+        "teamId": "mount-st-joseph-lions",
+        "franchiseId": 2419,
+        "season": 2007
+    },
+    {
+        "id": "2007-2422",
+        "teamId": "muhlenberg-mules",
+        "franchiseId": 2422,
+        "season": 2007
+    },
+    {
+        "id": "2007-2424",
+        "teamId": "new-mexico-highlands-cowboys",
+        "franchiseId": 2424,
+        "season": 2007
+    },
+    {
+        "id": "2007-2426",
+        "teamId": "navy-midshipmen",
+        "franchiseId": 2426,
+        "season": 2007
+    },
+    {
+        "id": "2007-2428",
+        "teamId": "north-carolina-central-eagles",
+        "franchiseId": 2428,
+        "season": 2007
+    },
+    {
+        "id": "2007-2433",
+        "teamId": "louisiana-monroe-warhawks",
+        "franchiseId": 2433,
+        "season": 2007
+    },
+    {
+        "id": "2007-2437",
+        "teamId": "nebraska-omaha-mavericks",
+        "franchiseId": 2437,
+        "season": 2007
+    },
+    {
+        "id": "2007-2438",
+        "teamId": "nebraska-kearney-lopers",
+        "franchiseId": 2438,
+        "season": 2007
+    },
+    {
+        "id": "2007-2439",
+        "teamId": "unlv-rebels",
+        "franchiseId": 2439,
+        "season": 2007
+    },
+    {
+        "id": "2007-2440",
+        "teamId": "nevada-wolf-pack",
+        "franchiseId": 2440,
+        "season": 2007
+    },
+    {
+        "id": "2007-2441",
+        "teamId": "new-haven-chargers",
+        "franchiseId": 2441,
+        "season": 2007
+    },
+    {
+        "id": "2007-2442",
+        "teamId": "college-of-new-jersey-lions",
+        "franchiseId": 2442,
+        "season": 2007
+    },
+    {
+        "id": "2007-2444",
+        "teamId": "newberry-wolves",
+        "franchiseId": 2444,
+        "season": 2007
+    },
+    {
+        "id": "2007-2447",
+        "teamId": "nicholls-state-colonels",
+        "franchiseId": 2447,
+        "season": 2007
+    },
+    {
+        "id": "2007-2448",
+        "teamId": "north-carolina-at-aggies",
+        "franchiseId": 2448,
+        "season": 2007
+    },
+    {
+        "id": "2007-2449",
+        "teamId": "north-dakota-state-bison",
+        "franchiseId": 2449,
+        "season": 2007
+    },
+    {
+        "id": "2007-2450",
+        "teamId": "norfolk-state-spartans",
+        "franchiseId": 2450,
+        "season": 2007
+    },
+    {
+        "id": "2007-2453",
+        "teamId": "north-alabama-lions",
+        "franchiseId": 2453,
+        "season": 2007
+    },
+    {
+        "id": "2007-2458",
+        "teamId": "northern-colorado-bears",
+        "franchiseId": 2458,
+        "season": 2007
+    },
+    {
+        "id": "2007-2459",
+        "teamId": "northern-illinois-huskies",
+        "franchiseId": 2459,
+        "season": 2007
+    },
+    {
+        "id": "2007-2460",
+        "teamId": "northern-iowa-panthers",
+        "franchiseId": 2460,
+        "season": 2007
+    },
+    {
+        "id": "2007-2464",
+        "teamId": "northern-arizona-lumberjacks",
+        "franchiseId": 2464,
+        "season": 2007
+    },
+    {
+        "id": "2007-2466",
+        "teamId": "northwestern-state-demons",
+        "franchiseId": 2466,
+        "season": 2007
+    },
+    {
+        "id": "2007-2467",
+        "teamId": "norwich-cadets",
+        "franchiseId": 2467,
+        "season": 2007
+    },
+    {
+        "id": "2007-2475",
+        "teamId": "occidental-tigers",
+        "franchiseId": 2475,
+        "season": 2007
+    },
+    {
+        "id": "2007-2483",
+        "teamId": "oregon-ducks",
+        "franchiseId": 2483,
+        "season": 2007
+    },
+    {
+        "id": "2007-2486",
+        "teamId": "pacific-lutheran-lutes",
+        "franchiseId": 2486,
+        "season": 2007
+    },
+    {
+        "id": "2007-2487",
+        "teamId": "pace-setters",
+        "franchiseId": 2487,
+        "season": 2007
+    },
+    {
+        "id": "2007-2502",
+        "teamId": "portland-state-vikings",
+        "franchiseId": 2502,
+        "season": 2007
+    },
+    {
+        "id": "2007-2504",
+        "teamId": "prairie-view-am-panthers",
+        "franchiseId": 2504,
+        "season": 2007
+    },
+    {
+        "id": "2007-2506",
+        "teamId": "presbyterian-college-blue-hose",
+        "franchiseId": 2506,
+        "season": 2007
+    },
+    {
+        "id": "2007-2508",
+        "teamId": "puget-sound-loggers",
+        "franchiseId": 2508,
+        "season": 2007
+    },
+    {
+        "id": "2007-2509",
+        "teamId": "purdue-boilermakers",
+        "franchiseId": 2509,
+        "season": 2007
+    },
+    {
+        "id": "2007-2516",
+        "teamId": "randolph-macon-yellow-jackets",
+        "franchiseId": 2516,
+        "season": 2007
+    },
+    {
+        "id": "2007-2519",
+        "teamId": "rhodes-lynx",
+        "franchiseId": 2519,
+        "season": 2007
+    },
+    {
+        "id": "2007-2523",
+        "teamId": "robert-morris-colonials",
+        "franchiseId": 2523,
+        "season": 2007
+    },
+    {
+        "id": "2007-2524",
+        "teamId": "rockford-regents",
+        "franchiseId": 2524,
+        "season": 2007
+    },
+    {
+        "id": "2007-2528",
+        "teamId": "rensselaer-engineers",
+        "franchiseId": 2528,
+        "season": 2007
+    },
+    {
+        "id": "2007-2529",
+        "teamId": "sacred-heart-pioneers",
+        "franchiseId": 2529,
+        "season": 2007
+    },
+    {
+        "id": "2007-2532",
+        "teamId": "salisbury-sea-gulls",
+        "franchiseId": 2532,
+        "season": 2007
+    },
+    {
+        "id": "2007-2534",
+        "teamId": "sam-houston-state-bearkats",
+        "franchiseId": 2534,
+        "season": 2007
+    },
+    {
+        "id": "2007-2535",
+        "teamId": "samford-bulldogs",
+        "franchiseId": 2535,
+        "season": 2007
+    },
+    {
+        "id": "2007-2542",
+        "teamId": "savannah-state-tigers",
+        "franchiseId": 2542,
+        "season": 2007
+    },
+    {
+        "id": "2007-2545",
+        "teamId": "southeastern-louisiana-lions",
+        "franchiseId": 2545,
+        "season": 2007
+    },
+    {
+        "id": "2007-2546",
+        "teamId": "southeast-missouri-state-redhawks",
+        "franchiseId": 2546,
+        "season": 2007
+    },
+    {
+        "id": "2007-2551",
+        "teamId": "shaw-bears",
+        "franchiseId": 2551,
+        "season": 2007
+    },
+    {
+        "id": "2007-2553",
+        "teamId": "sewanee-univ-of-the-south-tigers",
+        "franchiseId": 2553,
+        "season": 2007
+    },
+    {
+        "id": "2007-2557",
+        "teamId": "coast-guard-bears",
+        "franchiseId": 2557,
+        "season": 2007
+    },
+    {
+        "id": "2007-2559",
+        "teamId": "shippensburg-raiders",
+        "franchiseId": 2559,
+        "season": 2007
+    },
+    {
+        "id": "2007-2564",
+        "teamId": "simpson-college-storm",
+        "franchiseId": 2564,
+        "season": 2007
+    },
+    {
+        "id": "2007-2567",
+        "teamId": "smu-mustangs",
+        "franchiseId": 2567,
+        "season": 2007
+    },
+    {
+        "id": "2007-2568",
+        "teamId": "southern-arkansas-muleriders",
+        "franchiseId": 2568,
+        "season": 2007
+    },
+    {
+        "id": "2007-2569",
+        "teamId": "south-carolina-state-bulldogs",
+        "franchiseId": 2569,
+        "season": 2007
+    },
+    {
+        "id": "2007-2571",
+        "teamId": "south-dakota-state-jackrabbits",
+        "franchiseId": 2571,
+        "season": 2007
+    },
+    {
+        "id": "2007-2572",
+        "teamId": "southern-mississippi-golden-eagles",
+        "franchiseId": 2572,
+        "season": 2007
+    },
+    {
+        "id": "2007-2579",
+        "teamId": "south-carolina-gamecocks",
+        "franchiseId": 2579,
+        "season": 2007
+    },
+    {
+        "id": "2007-2582",
+        "teamId": "southern-jaguars",
+        "franchiseId": 2582,
+        "season": 2007
+    },
+    {
+        "id": "2007-2583",
+        "teamId": "southern-connecticut-state-owls",
+        "franchiseId": 2583,
+        "season": 2007
+    },
+    {
+        "id": "2007-2586",
+        "teamId": "southwest-baptist-bearcats",
+        "franchiseId": 2586,
+        "season": 2007
+    },
+    {
+        "id": "2007-2587",
+        "teamId": "southwest-minnesota-state-mustangs",
+        "franchiseId": 2587,
+        "season": 2007
+    },
+    {
+        "id": "2007-2594",
+        "teamId": "st-cloud-state-huskies",
+        "franchiseId": 2594,
+        "season": 2007
+    },
+    {
+        "id": "2007-2598",
+        "teamId": "st-francis-pa-red-flash",
+        "franchiseId": 2598,
+        "season": 2007
+    },
+    {
+        "id": "2007-2600",
+        "teamId": "st-johns-mn-johnnies",
+        "franchiseId": 2600,
+        "season": 2007
+    },
+    {
+        "id": "2007-2601",
+        "teamId": "st-josephs-in-pumas",
+        "franchiseId": 2601,
+        "season": 2007
+    },
+    {
+        "id": "2007-2611",
+        "teamId": "st-pauls-college-tigers",
+        "franchiseId": 2611,
+        "season": 2007
+    },
+    {
+        "id": "2007-2612",
+        "teamId": "st-peters-peacocks",
+        "franchiseId": 2612,
+        "season": 2007
+    },
+    {
+        "id": "2007-2617",
+        "teamId": "stephen-f-austin-lumberjacks",
+        "franchiseId": 2617,
+        "season": 2007
+    },
+    {
+        "id": "2007-2619",
+        "teamId": "stony-brook-seawolves",
+        "franchiseId": 2619,
+        "season": 2007
+    },
+    {
+        "id": "2007-2623",
+        "teamId": "missouri-state-bears",
+        "franchiseId": 2623,
+        "season": 2007
+    },
+    {
+        "id": "2007-2627",
+        "teamId": "tarleton-state-texans",
+        "franchiseId": 2627,
+        "season": 2007
+    },
+    {
+        "id": "2007-2628",
+        "teamId": "tcu-horned-frogs",
+        "franchiseId": 2628,
+        "season": 2007
+    },
+    {
+        "id": "2007-2630",
+        "teamId": "tennessee-martin-skyhawks",
+        "franchiseId": 2630,
+        "season": 2007
+    },
+    {
+        "id": "2007-2633",
+        "teamId": "tennessee-volunteers",
+        "franchiseId": 2633,
+        "season": 2007
+    },
+    {
+        "id": "2007-2634",
+        "teamId": "tennessee-state-tigers",
+        "franchiseId": 2634,
+        "season": 2007
+    },
+    {
+        "id": "2007-2635",
+        "teamId": "tennessee-tech-golden-eagles",
+        "franchiseId": 2635,
+        "season": 2007
+    },
+    {
+        "id": "2007-2638",
+        "teamId": "utep-miners",
+        "franchiseId": 2638,
+        "season": 2007
+    },
+    {
+        "id": "2007-2639",
+        "teamId": "texas-lutheran-bulldogs",
+        "franchiseId": 2639,
+        "season": 2007
+    },
+    {
+        "id": "2007-2640",
+        "teamId": "texas-southern-tigers",
+        "franchiseId": 2640,
+        "season": 2007
+    },
+    {
+        "id": "2007-2641",
+        "teamId": "texas-tech-red-raiders",
+        "franchiseId": 2641,
+        "season": 2007
+    },
+    {
+        "id": "2007-2643",
+        "teamId": "the-citadel-bulldogs",
+        "franchiseId": 2643,
+        "season": 2007
+    },
+    {
+        "id": "2007-2644",
+        "teamId": "thiel-college-tomcats",
+        "franchiseId": 2644,
+        "season": 2007
+    },
+    {
+        "id": "2007-2646",
+        "teamId": "thomas-more-saints",
+        "franchiseId": 2646,
+        "season": 2007
+    },
+    {
+        "id": "2007-2649",
+        "teamId": "toledo-rockets",
+        "franchiseId": 2649,
+        "season": 2007
+    },
+    {
+        "id": "2007-2652",
+        "teamId": "trinity-il-trojans",
+        "franchiseId": 2652,
+        "season": 2007
+    },
+    {
+        "id": "2007-2653",
+        "teamId": "troy-trojans",
+        "franchiseId": 2653,
+        "season": 2007
+    },
+    {
+        "id": "2007-2654",
+        "teamId": "truman-state-bulldogs",
+        "franchiseId": 2654,
+        "season": 2007
+    },
+    {
+        "id": "2007-2655",
+        "teamId": "tulane-green-wave",
+        "franchiseId": 2655,
+        "season": 2007
+    },
+    {
+        "id": "2007-2657",
+        "teamId": "tuskegee-golden-tigers",
+        "franchiseId": 2657,
+        "season": 2007
+    },
+    {
+        "id": "2007-2658",
+        "teamId": "texas-am-kingsville-javelinas",
+        "franchiseId": 2658,
+        "season": 2007
+    },
+    {
+        "id": "2007-2667",
+        "teamId": "ursinus-bears",
+        "franchiseId": 2667,
+        "season": 2007
+    },
+    {
+        "id": "2007-2673",
+        "teamId": "valdosta-state-blazers",
+        "franchiseId": 2673,
+        "season": 2007
+    },
+    {
+        "id": "2007-2674",
+        "teamId": "valparaiso-crusaders",
+        "franchiseId": 2674,
+        "season": 2007
+    },
+    {
+        "id": "2007-2676",
+        "teamId": "virginia-union-panthers",
+        "franchiseId": 2676,
+        "season": 2007
+    },
+    {
+        "id": "2007-2678",
+        "teamId": "vmi-keydets",
+        "franchiseId": 2678,
+        "season": 2007
+    },
+    {
+        "id": "2007-2681",
+        "teamId": "wagner-seahawks",
+        "franchiseId": 2681,
+        "season": 2007
+    },
+    {
+        "id": "2007-2685",
+        "teamId": "wartburg-knights",
+        "franchiseId": 2685,
+        "season": 2007
+    },
+    {
+        "id": "2007-2686",
+        "teamId": "washington-jefferson-presidents",
+        "franchiseId": 2686,
+        "season": 2007
+    },
+    {
+        "id": "2007-2687",
+        "teamId": "washburn-ichabods",
+        "franchiseId": 2687,
+        "season": 2007
+    },
+    {
+        "id": "2007-2688",
+        "teamId": "washington-lee-generals",
+        "franchiseId": 2688,
+        "season": 2007
+    },
+    {
+        "id": "2007-2692",
+        "teamId": "weber-state-wildcats",
+        "franchiseId": 2692,
+        "season": 2007
+    },
+    {
+        "id": "2007-2695",
+        "teamId": "west-alabama-tigers",
+        "franchiseId": 2695,
+        "season": 2007
+    },
+    {
+        "id": "2007-2698",
+        "teamId": "west-georgia-wolves",
+        "franchiseId": 2698,
+        "season": 2007
+    },
+    {
+        "id": "2007-2699",
+        "teamId": "west-liberty-hilltoppers",
+        "franchiseId": 2699,
+        "season": 2007
+    },
+    {
+        "id": "2007-2700",
+        "teamId": "mcdaniel-college-terrors",
+        "franchiseId": 2700,
+        "season": 2007
+    },
+    {
+        "id": "2007-2702",
+        "teamId": "western-new-england-golden-bears",
+        "franchiseId": 2702,
+        "season": 2007
+    },
+    {
+        "id": "2007-2703",
+        "teamId": "western-new-mexico-mustangs",
+        "franchiseId": 2703,
+        "season": 2007
+    },
+    {
+        "id": "2007-2704",
+        "teamId": "west-texas-am-buffaloes",
+        "franchiseId": 2704,
+        "season": 2007
+    },
+    {
+        "id": "2007-2706",
+        "teamId": "west-virginia-tech-golden-bears",
+        "franchiseId": 2706,
+        "season": 2007
+    },
+    {
+        "id": "2007-2707",
+        "teamId": "wv-state-yellow-jackets",
+        "franchiseId": 2707,
+        "season": 2007
+    },
+    {
+        "id": "2007-2710",
+        "teamId": "western-illinois-leathernecks",
+        "franchiseId": 2710,
+        "season": 2007
+    },
+    {
+        "id": "2007-2711",
+        "teamId": "western-michigan-broncos",
+        "franchiseId": 2711,
+        "season": 2007
+    },
+    {
+        "id": "2007-2714",
+        "teamId": "western-state-mountaineers",
+        "franchiseId": 2714,
+        "season": 2007
+    },
+    {
+        "id": "2007-2717",
+        "teamId": "western-carolina-catamounts",
+        "franchiseId": 2717,
+        "season": 2007
+    },
+    {
+        "id": "2007-2721",
+        "teamId": "whitworth-pirates",
+        "franchiseId": 2721,
+        "season": 2007
+    },
+    {
+        "id": "2007-2723",
+        "teamId": "uw-river-falls-falcons",
+        "franchiseId": 2723,
+        "season": 2007
+    },
+    {
+        "id": "2007-2725",
+        "teamId": "widener-pride",
+        "franchiseId": 2725,
+        "season": 2007
+    },
+    {
+        "id": "2007-2729",
+        "teamId": "william-mary-tribe",
+        "franchiseId": 2729,
+        "season": 2007
+    },
+    {
+        "id": "2007-2731",
+        "teamId": "williams-ephs",
+        "franchiseId": 2731,
+        "season": 2007
+    },
+    {
+        "id": "2007-2733",
+        "teamId": "wilmington-oh-quakers",
+        "franchiseId": 2733,
+        "season": 2007
+    },
+    {
+        "id": "2007-2736",
+        "teamId": "winston-salem-rams",
+        "franchiseId": 2736,
+        "season": 2007
+    },
+    {
+        "id": "2007-2738",
+        "teamId": "wisconsin-eau-claire-blugolds",
+        "franchiseId": 2738,
+        "season": 2007
+    },
+    {
+        "id": "2007-2740",
+        "teamId": "wisconsin-la-crosse-eagles",
+        "franchiseId": 2740,
+        "season": 2007
+    },
+    {
+        "id": "2007-2741",
+        "teamId": "wisconsin-lutheran-warriors",
+        "franchiseId": 2741,
+        "season": 2007
+    },
+    {
+        "id": "2007-2743",
+        "teamId": "wisconsin-stevens-point-pointers",
+        "franchiseId": 2743,
+        "season": 2007
+    },
+    {
+        "id": "2007-2744",
+        "teamId": "uw-stout-blue-devils",
+        "franchiseId": 2744,
+        "season": 2007
+    },
+    {
+        "id": "2007-2745",
+        "teamId": "uw-whitewater-warhawks",
+        "franchiseId": 2745,
+        "season": 2007
+    },
+    {
+        "id": "2007-2746",
+        "teamId": "wittenberg-tigers",
+        "franchiseId": 2746,
+        "season": 2007
+    },
+    {
+        "id": "2007-2747",
+        "teamId": "wofford-terriers",
+        "franchiseId": 2747,
+        "season": 2007
+    },
+    {
+        "id": "2007-2748",
+        "teamId": "wooster-fighting-scots",
+        "franchiseId": 2748,
+        "season": 2007
+    },
+    {
+        "id": "2007-2749",
+        "teamId": "worcester-polytechnic-engineers",
+        "franchiseId": 2749,
+        "season": 2007
+    },
+    {
+        "id": "2007-2751",
+        "teamId": "wyoming-cowboys",
+        "franchiseId": 2751,
+        "season": 2007
+    },
+    {
+        "id": "2007-2754",
+        "teamId": "youngstown-state-penguins",
+        "franchiseId": 2754,
+        "season": 2007
+    },
+    {
+        "id": "2007-2755",
+        "teamId": "grambling-state-tigers",
+        "franchiseId": 2755,
+        "season": 2007
+    },
+    {
+        "id": "2007-2758",
+        "teamId": "howard-payne-yellow-jackets",
+        "franchiseId": 2758,
+        "season": 2007
+    },
+    {
+        "id": "2007-2770",
+        "teamId": "manitoba-bisons",
+        "franchiseId": 2770,
+        "season": 2007
+    },
+    {
+        "id": "2007-2771",
+        "teamId": "merrimack-warriors",
+        "franchiseId": 2771,
+        "season": 2007
+    },
+    {
+        "id": "2007-2772",
+        "teamId": "minnesota-crookston-golden-eagles",
+        "franchiseId": 2772,
+        "season": 2007
+    },
+    {
+        "id": "2007-2776",
+        "teamId": "salve-regina-seahawks",
+        "franchiseId": 2776,
+        "season": 2007
+    },
+    {
+        "id": "2007-2779",
+        "teamId": "st-lawrence-saints",
+        "franchiseId": 2779,
+        "season": 2007
+    },
+    {
+        "id": "2007-2781",
+        "teamId": "brockport-state-ny-golden-eagles",
+        "franchiseId": 2781,
+        "season": 2007
+    },
+    {
+        "id": "2007-2782",
+        "teamId": "suny-cortland-red-dragons",
+        "franchiseId": 2782,
+        "season": 2007
+    },
+    {
+        "id": "2007-2790",
+        "teamId": "albion-britons",
+        "franchiseId": 2790,
+        "season": 2007
+    },
+    {
+        "id": "2007-2800",
+        "teamId": "alma-college-scots",
+        "franchiseId": 2800,
+        "season": 2007
+    },
+    {
+        "id": "2007-2802",
+        "teamId": "bethel-mn-royals",
+        "franchiseId": 2802,
+        "season": 2007
+    },
+    {
+        "id": "2007-2803",
+        "teamId": "bryant-bulldogs",
+        "franchiseId": 2803,
+        "season": 2007
+    },
+    {
+        "id": "2007-2804",
+        "teamId": "chowan-braves",
+        "franchiseId": 2804,
+        "season": 2007
+    },
+    {
+        "id": "2007-2805",
+        "teamId": "clark-atlanta-panthers",
+        "franchiseId": 2805,
+        "season": 2007
+    },
+    {
+        "id": "2007-2808",
+        "teamId": "delaware-valley-aggies",
+        "franchiseId": 2808,
+        "season": 2007
+    },
+    {
+        "id": "2007-2810",
+        "teamId": "hardin-simmons-cowboys",
+        "franchiseId": 2810,
+        "season": 2007
+    },
+    {
+        "id": "2007-2812",
+        "teamId": "hope-flying-dutchmen",
+        "franchiseId": 2812,
+        "season": 2007
+    },
+    {
+        "id": "2007-2817",
+        "teamId": "minnesota-st-moorhead-dragon",
+        "franchiseId": 2817,
+        "season": 2007
+    },
+    {
+        "id": "2007-2818",
+        "teamId": "montclair-state-red-hawks",
+        "franchiseId": 2818,
+        "season": 2007
+    },
+    {
+        "id": "2007-2822",
+        "teamId": "north-greenville-crusaders",
+        "franchiseId": 2822,
+        "season": 2007
+    },
+    {
+        "id": "2007-2824",
+        "teamId": "ok-panhandle-st-aggies",
+        "franchiseId": 2824,
+        "season": 2007
+    },
+    {
+        "id": "2007-2825",
+        "teamId": "quincy-hawks",
+        "franchiseId": 2825,
+        "season": 2007
+    },
+    {
+        "id": "2007-2827",
+        "teamId": "rowan-profs",
+        "franchiseId": 2827,
+        "season": 2007
+    },
+    {
+        "id": "2007-2828",
+        "teamId": "shenandoah-hornets",
+        "franchiseId": 2828,
+        "season": 2007
+    },
+    {
+        "id": "2007-2830",
+        "teamId": "st-anselm-hawks",
+        "franchiseId": 2830,
+        "season": 2007
+    },
+    {
+        "id": "2007-2832",
+        "teamId": "st-norbert-green-knights",
+        "franchiseId": 2832,
+        "season": 2007
+    },
+    {
+        "id": "2007-2834",
+        "teamId": "sul-ross-state-lobos",
+        "franchiseId": 2834,
+        "season": 2007
+    },
+    {
+        "id": "2007-2837",
+        "teamId": "texas-am-commerce-lions",
+        "franchiseId": 2837,
+        "season": 2007
+    },
+    {
+        "id": "2007-2838",
+        "teamId": "tiffin-dragons",
+        "franchiseId": 2838,
+        "season": 2007
+    },
+    {
+        "id": "2007-2839",
+        "teamId": "tusculum-pioneers",
+        "franchiseId": 2839,
+        "season": 2007
+    },
+    {
+        "id": "2007-2843",
+        "teamId": "western-connecticut-state-colonials",
+        "franchiseId": 2843,
+        "season": 2007
+    },
+    {
+        "id": "2007-2844",
+        "teamId": "wayne-state-ne-wildcats",
+        "franchiseId": 2844,
+        "season": 2007
+    },
+    {
+        "id": "2007-2845",
+        "teamId": "waynesburg-yellow-jackets",
+        "franchiseId": 2845,
+        "season": 2007
+    },
+    {
+        "id": "2007-2846",
+        "teamId": "wesley-college-wolverines",
+        "franchiseId": 2846,
+        "season": 2007
+    },
+    {
+        "id": "2007-2847",
+        "teamId": "western-washington-vikings",
+        "franchiseId": 2847,
+        "season": 2007
+    },
+    {
+        "id": "2007-2848",
+        "teamId": "western-oregon-wolves",
+        "franchiseId": 2848,
+        "season": 2007
+    },
+    {
+        "id": "2007-2849",
+        "teamId": "westminster-pa-titans",
+        "franchiseId": 2849,
+        "season": 2007
+    },
+    {
+        "id": "2007-2850",
+        "teamId": "whittier-poets",
+        "franchiseId": 2850,
+        "season": 2007
+    },
+    {
+        "id": "2007-2851",
+        "teamId": "winona-state-warriors",
+        "franchiseId": 2851,
+        "season": 2007
+    },
+    {
+        "id": "2007-2858",
+        "teamId": "california-pa-vulcans",
+        "franchiseId": 2858,
+        "season": 2007
+    },
+    {
+        "id": "2007-2871",
+        "teamId": "kean-cougars",
+        "franchiseId": 2871,
+        "season": 2007
+    },
+    {
+        "id": "2007-2876",
+        "teamId": "lincoln-mo-blue-tigers",
+        "franchiseId": 2876,
+        "season": 2007
+    },
+    {
+        "id": "2007-2882",
+        "teamId": "unc-pembroke-braves",
+        "franchiseId": 2882,
+        "season": 2007
+    },
+    {
+        "id": "2007-2884",
+        "teamId": "nichols-bison",
+        "franchiseId": 2884,
+        "season": 2007
+    },
+    {
+        "id": "2007-2886",
+        "teamId": "northwood-mi-timberwolves",
+        "franchiseId": 2886,
+        "season": 2007
+    },
+    {
+        "id": "2007-2888",
+        "teamId": "ouachita-baptist-tigers",
+        "franchiseId": 2888,
+        "season": 2007
+    },
+    {
+        "id": "2007-2891",
+        "teamId": "ripon-red-hawks",
+        "franchiseId": 2891,
+        "season": 2007
+    },
+    {
+        "id": "2007-2900",
+        "teamId": "st-thomas-mn-tommies",
+        "franchiseId": 2900,
+        "season": 2007
+    },
+    {
+        "id": "2007-2909",
+        "teamId": "westfield-state-owls",
+        "franchiseId": 2909,
+        "season": 2007
+    },
+    {
+        "id": "2007-2913",
+        "teamId": "brevard-college-tornados",
+        "franchiseId": 2913,
+        "season": 2007
+    },
+    {
+        "id": "2007-2919",
+        "teamId": "monmouth-il-fighting-scots",
+        "franchiseId": 2919,
+        "season": 2007
+    },
+    {
+        "id": "2007-2923",
+        "teamId": "pomona-pitzer-sagehens",
+        "franchiseId": 2923,
+        "season": 2007
+    },
+    {
+        "id": "2007-2927",
+        "teamId": "southwestern-oklahoma-bulldogs",
+        "franchiseId": 2927,
+        "season": 2007
+    },
+    {
+        "id": "2007-2930",
+        "teamId": "willamette-bearcats",
+        "franchiseId": 2930,
+        "season": 2007
+    },
+    {
+        "id": "2007-2938",
+        "teamId": "huntingdon-hawks",
+        "franchiseId": 2938,
+        "season": 2007
+    },
+    {
+        "id": "2007-2940",
+        "teamId": "livingstone-blue-bears",
+        "franchiseId": 2940,
+        "season": 2007
+    },
+    {
+        "id": "2007-2948",
+        "teamId": "stillman-tigers",
+        "franchiseId": 2948,
+        "season": 2007
+    },
+    {
+        "id": "2007-2951",
+        "teamId": "suny-maritime-privateers",
+        "franchiseId": 2951,
+        "season": 2007
+    },
+    {
+        "id": "2007-2963",
+        "teamId": "case-western-reserve-spartans",
+        "franchiseId": 2963,
+        "season": 2007
+    },
+    {
+        "id": "2007-2964",
+        "teamId": "central-dutch",
+        "franchiseId": 2964,
+        "season": 2007
+    },
+    {
+        "id": "2007-2967",
+        "teamId": "framingham-state-rams",
+        "franchiseId": 2967,
+        "season": 2007
+    },
+    {
+        "id": "2007-2968",
+        "teamId": "gustavus-adolphus-golden-gusties",
+        "franchiseId": 2968,
+        "season": 2007
+    },
+    {
+        "id": "2007-2970",
+        "teamId": "william-paterson-pioneers",
+        "franchiseId": 2970,
+        "season": 2007
+    },
+    {
+        "id": "2007-2972",
+        "teamId": "plymouth-state-panthers",
+        "franchiseId": 2972,
+        "season": 2007
+    },
+    {
+        "id": "2007-2974",
+        "teamId": "shepherd-rams",
+        "franchiseId": 2974,
+        "season": 2007
+    },
+    {
+        "id": "2007-2977",
+        "teamId": "trinity-ct-bantams",
+        "franchiseId": 2977,
+        "season": 2007
+    },
+    {
+        "id": "2007-2980",
+        "teamId": "ohio-wesleyan-battling-bishops",
+        "franchiseId": 2980,
+        "season": 2007
+    },
+    {
+        "id": "2007-2986",
+        "teamId": "fairmont-state-falcons",
+        "franchiseId": 2986,
+        "season": 2007
+    },
+    {
+        "id": "2007-3066",
+        "teamId": "concordia-st-paul-golden-bears",
+        "franchiseId": 3066,
+        "season": 2007
+    },
+    {
+        "id": "2007-3071",
+        "teamId": "north-central-cardinals",
+        "franchiseId": 3071,
+        "season": 2007
+    },
+    {
+        "id": "2007-3080",
+        "teamId": "waldorf-warriors",
+        "franchiseId": 3080,
+        "season": 2007
+    },
+    {
+        "id": "2007-3099",
+        "teamId": "concordia-al-hornets",
+        "franchiseId": 3099,
+        "season": 2007
+    },
+    {
+        "id": "2007-3101",
+        "teamId": "dixie-state-red-storm",
+        "franchiseId": 3101,
+        "season": 2007
+    },
+    {
+        "id": "2007-3110",
+        "teamId": "morrisville-state-mustangs",
+        "franchiseId": 3110,
+        "season": 2007
+    },
+    {
+        "id": "2007-3111",
+        "teamId": "apprentice-school-builders",
+        "franchiseId": 3111,
+        "season": 2007
+    },
+    {
+        "id": "2007-3112",
+        "teamId": "christopher-newport-captains",
+        "franchiseId": 3112,
+        "season": 2007
+    }
+]

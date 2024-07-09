@@ -1,0 +1,2906 @@
+[
+    {
+        "id": "2003-2",
+        "teamId": "auburn-tigers",
+        "franchiseId": 2,
+        "season": 2003
+    },
+    {
+        "id": "2003-5",
+        "teamId": "uab-blazers",
+        "franchiseId": 5,
+        "season": 2003
+    },
+    {
+        "id": "2003-8",
+        "teamId": "arkansas-razorbacks",
+        "franchiseId": 8,
+        "season": 2003
+    },
+    {
+        "id": "2003-9",
+        "teamId": "arizona-state-sun-devils",
+        "franchiseId": 9,
+        "season": 2003
+    },
+    {
+        "id": "2003-11",
+        "teamId": "colorado-mesa-mavericks",
+        "franchiseId": 11,
+        "season": 2003
+    },
+    {
+        "id": "2003-12",
+        "teamId": "arizona-wildcats",
+        "franchiseId": 12,
+        "season": 2003
+    },
+    {
+        "id": "2003-13",
+        "teamId": "cal-poly-mustangs",
+        "franchiseId": 13,
+        "season": 2003
+    },
+    {
+        "id": "2003-16",
+        "teamId": "sacramento-state-hornets",
+        "franchiseId": 16,
+        "season": 2003
+    },
+    {
+        "id": "2003-21",
+        "teamId": "san-diego-state-aztecs",
+        "franchiseId": 21,
+        "season": 2003
+    },
+    {
+        "id": "2003-23",
+        "teamId": "san-jose-state-spartans",
+        "franchiseId": 23,
+        "season": 2003
+    },
+    {
+        "id": "2003-24",
+        "teamId": "stanford-cardinal",
+        "franchiseId": 24,
+        "season": 2003
+    },
+    {
+        "id": "2003-25",
+        "teamId": "california-golden-bears",
+        "franchiseId": 25,
+        "season": 2003
+    },
+    {
+        "id": "2003-26",
+        "teamId": "ucla-bruins",
+        "franchiseId": 26,
+        "season": 2003
+    },
+    {
+        "id": "2003-29",
+        "teamId": "redlands-bulldogs",
+        "franchiseId": 29,
+        "season": 2003
+    },
+    {
+        "id": "2003-30",
+        "teamId": "usc-trojans",
+        "franchiseId": 30,
+        "season": 2003
+    },
+    {
+        "id": "2003-36",
+        "teamId": "colorado-state-rams",
+        "franchiseId": 36,
+        "season": 2003
+    },
+    {
+        "id": "2003-38",
+        "teamId": "colorado-buffaloes",
+        "franchiseId": 38,
+        "season": 2003
+    },
+    {
+        "id": "2003-41",
+        "teamId": "connecticut-huskies",
+        "franchiseId": 41,
+        "season": 2003
+    },
+    {
+        "id": "2003-43",
+        "teamId": "yale-bulldogs",
+        "franchiseId": 43,
+        "season": 2003
+    },
+    {
+        "id": "2003-46",
+        "teamId": "georgetown-hoyas",
+        "franchiseId": 46,
+        "season": 2003
+    },
+    {
+        "id": "2003-47",
+        "teamId": "howard-bison",
+        "franchiseId": 47,
+        "season": 2003
+    },
+    {
+        "id": "2003-48",
+        "teamId": "delaware-fightin-blue-hens",
+        "franchiseId": 48,
+        "season": 2003
+    },
+    {
+        "id": "2003-50",
+        "teamId": "florida-am-rattlers",
+        "franchiseId": 50,
+        "season": 2003
+    },
+    {
+        "id": "2003-52",
+        "teamId": "florida-state-seminoles",
+        "franchiseId": 52,
+        "season": 2003
+    },
+    {
+        "id": "2003-55",
+        "teamId": "jacksonville-state-gamecocks",
+        "franchiseId": 55,
+        "season": 2003
+    },
+    {
+        "id": "2003-57",
+        "teamId": "florida-gators",
+        "franchiseId": 57,
+        "season": 2003
+    },
+    {
+        "id": "2003-58",
+        "teamId": "south-florida-bulls",
+        "franchiseId": 58,
+        "season": 2003
+    },
+    {
+        "id": "2003-59",
+        "teamId": "georgia-tech-yellow-jackets",
+        "franchiseId": 59,
+        "season": 2003
+    },
+    {
+        "id": "2003-60",
+        "teamId": "morehouse-tigers",
+        "franchiseId": 60,
+        "season": 2003
+    },
+    {
+        "id": "2003-61",
+        "teamId": "georgia-bulldogs",
+        "franchiseId": 61,
+        "season": 2003
+    },
+    {
+        "id": "2003-62",
+        "teamId": "hawaii-rainbow-warriors",
+        "franchiseId": 62,
+        "season": 2003
+    },
+    {
+        "id": "2003-66",
+        "teamId": "iowa-state-cyclones",
+        "franchiseId": 66,
+        "season": 2003
+    },
+    {
+        "id": "2003-68",
+        "teamId": "boise-state-broncos",
+        "franchiseId": 68,
+        "season": 2003
+    },
+    {
+        "id": "2003-70",
+        "teamId": "idaho-vandals",
+        "franchiseId": 70,
+        "season": 2003
+    },
+    {
+        "id": "2003-77",
+        "teamId": "northwestern-wildcats",
+        "franchiseId": 77,
+        "season": 2003
+    },
+    {
+        "id": "2003-79",
+        "teamId": "southern-illinois-salukis",
+        "franchiseId": 79,
+        "season": 2003
+    },
+    {
+        "id": "2003-80",
+        "teamId": "chicago-maroons",
+        "franchiseId": 80,
+        "season": 2003
+    },
+    {
+        "id": "2003-81",
+        "teamId": "springfield-pride",
+        "franchiseId": 81,
+        "season": 2003
+    },
+    {
+        "id": "2003-84",
+        "teamId": "indiana-hoosiers",
+        "franchiseId": 84,
+        "season": 2003
+    },
+    {
+        "id": "2003-86",
+        "teamId": "rose-hulman-engineers",
+        "franchiseId": 86,
+        "season": 2003
+    },
+    {
+        "id": "2003-87",
+        "teamId": "notre-dame-fighting-irish",
+        "franchiseId": 87,
+        "season": 2003
+    },
+    {
+        "id": "2003-89",
+        "teamId": "wabash-college-little-giants",
+        "franchiseId": 89,
+        "season": 2003
+    },
+    {
+        "id": "2003-90",
+        "teamId": "pittsburg-state-gorillas",
+        "franchiseId": 90,
+        "season": 2003
+    },
+    {
+        "id": "2003-93",
+        "teamId": "murray-state-racers",
+        "franchiseId": 93,
+        "season": 2003
+    },
+    {
+        "id": "2003-96",
+        "teamId": "kentucky-wildcats",
+        "franchiseId": 96,
+        "season": 2003
+    },
+    {
+        "id": "2003-97",
+        "teamId": "louisville-cardinals",
+        "franchiseId": 97,
+        "season": 2003
+    },
+    {
+        "id": "2003-98",
+        "teamId": "western-kentucky-hilltoppers",
+        "franchiseId": 98,
+        "season": 2003
+    },
+    {
+        "id": "2003-99",
+        "teamId": "lsu-tigers",
+        "franchiseId": 99,
+        "season": 2003
+    },
+    {
+        "id": "2003-103",
+        "teamId": "boston-college-eagles",
+        "franchiseId": 103,
+        "season": 2003
+    },
+    {
+        "id": "2003-107",
+        "teamId": "holy-cross-crusaders",
+        "franchiseId": 107,
+        "season": 2003
+    },
+    {
+        "id": "2003-108",
+        "teamId": "harvard-crimson",
+        "franchiseId": 108,
+        "season": 2003
+    },
+    {
+        "id": "2003-109",
+        "teamId": "mit-engineers",
+        "franchiseId": 109,
+        "season": 2003
+    },
+    {
+        "id": "2003-111",
+        "teamId": "northeastern-huskies",
+        "franchiseId": 111,
+        "season": 2003
+    },
+    {
+        "id": "2003-113",
+        "teamId": "massachusetts-minutemen",
+        "franchiseId": 113,
+        "season": 2003
+    },
+    {
+        "id": "2003-119",
+        "teamId": "towson-tigers",
+        "franchiseId": 119,
+        "season": 2003
+    },
+    {
+        "id": "2003-120",
+        "teamId": "maryland-terrapins",
+        "franchiseId": 120,
+        "season": 2003
+    },
+    {
+        "id": "2003-125",
+        "teamId": "grand-valley-state-lakers",
+        "franchiseId": 125,
+        "season": 2003
+    },
+    {
+        "id": "2003-126",
+        "teamId": "kalamazoo-hornets",
+        "franchiseId": 126,
+        "season": 2003
+    },
+    {
+        "id": "2003-127",
+        "teamId": "michigan-state-spartans",
+        "franchiseId": 127,
+        "season": 2003
+    },
+    {
+        "id": "2003-128",
+        "teamId": "northern-michigan-wildcats",
+        "franchiseId": 128,
+        "season": 2003
+    },
+    {
+        "id": "2003-129",
+        "teamId": "saginaw-valley-cardinals",
+        "franchiseId": 129,
+        "season": 2003
+    },
+    {
+        "id": "2003-130",
+        "teamId": "michigan-wolverines",
+        "franchiseId": 130,
+        "season": 2003
+    },
+    {
+        "id": "2003-131",
+        "teamId": "wayne-state-mi-warriors",
+        "franchiseId": 131,
+        "season": 2003
+    },
+    {
+        "id": "2003-134",
+        "teamId": "minnesota-duluth-bulldogs",
+        "franchiseId": 134,
+        "season": 2003
+    },
+    {
+        "id": "2003-135",
+        "teamId": "minnesota-golden-gophers",
+        "franchiseId": 135,
+        "season": 2003
+    },
+    {
+        "id": "2003-137",
+        "teamId": "missouri-western-griffons",
+        "franchiseId": 137,
+        "season": 2003
+    },
+    {
+        "id": "2003-142",
+        "teamId": "missouri-tigers",
+        "franchiseId": 142,
+        "season": 2003
+    },
+    {
+        "id": "2003-145",
+        "teamId": "ole-miss-rebels",
+        "franchiseId": 145,
+        "season": 2003
+    },
+    {
+        "id": "2003-147",
+        "teamId": "montana-state-bobcats",
+        "franchiseId": 147,
+        "season": 2003
+    },
+    {
+        "id": "2003-148",
+        "teamId": "montana-tech-orediggers",
+        "franchiseId": 148,
+        "season": 2003
+    },
+    {
+        "id": "2003-149",
+        "teamId": "montana-grizzlies",
+        "franchiseId": 149,
+        "season": 2003
+    },
+    {
+        "id": "2003-150",
+        "teamId": "duke-blue-devils",
+        "franchiseId": 150,
+        "season": 2003
+    },
+    {
+        "id": "2003-151",
+        "teamId": "east-carolina-pirates",
+        "franchiseId": 151,
+        "season": 2003
+    },
+    {
+        "id": "2003-152",
+        "teamId": "nc-state-wolfpack",
+        "franchiseId": 152,
+        "season": 2003
+    },
+    {
+        "id": "2003-153",
+        "teamId": "north-carolina-tar-heels",
+        "franchiseId": 153,
+        "season": 2003
+    },
+    {
+        "id": "2003-154",
+        "teamId": "wake-forest-demon-deacons",
+        "franchiseId": 154,
+        "season": 2003
+    },
+    {
+        "id": "2003-158",
+        "teamId": "nebraska-cornhuskers",
+        "franchiseId": 158,
+        "season": 2003
+    },
+    {
+        "id": "2003-159",
+        "teamId": "dartmouth-big-green",
+        "franchiseId": 159,
+        "season": 2003
+    },
+    {
+        "id": "2003-160",
+        "teamId": "new-hampshire-wildcats",
+        "franchiseId": 160,
+        "season": 2003
+    },
+    {
+        "id": "2003-163",
+        "teamId": "princeton-tigers",
+        "franchiseId": 163,
+        "season": 2003
+    },
+    {
+        "id": "2003-164",
+        "teamId": "rutgers-scarlet-knights",
+        "franchiseId": 164,
+        "season": 2003
+    },
+    {
+        "id": "2003-166",
+        "teamId": "new-mexico-state-aggies",
+        "franchiseId": 166,
+        "season": 2003
+    },
+    {
+        "id": "2003-167",
+        "teamId": "new-mexico-lobos",
+        "franchiseId": 167,
+        "season": 2003
+    },
+    {
+        "id": "2003-171",
+        "teamId": "columbia-lions",
+        "franchiseId": 171,
+        "season": 2003
+    },
+    {
+        "id": "2003-172",
+        "teamId": "cornell-big-red",
+        "franchiseId": 172,
+        "season": 2003
+    },
+    {
+        "id": "2003-173",
+        "teamId": "hartwick-hawks",
+        "franchiseId": 173,
+        "season": 2003
+    },
+    {
+        "id": "2003-183",
+        "teamId": "syracuse-orange",
+        "franchiseId": 183,
+        "season": 2003
+    },
+    {
+        "id": "2003-184",
+        "teamId": "rochester-yellow-jackets",
+        "franchiseId": 184,
+        "season": 2003
+    },
+    {
+        "id": "2003-189",
+        "teamId": "bowling-green-falcons",
+        "franchiseId": 189,
+        "season": 2003
+    },
+    {
+        "id": "2003-193",
+        "teamId": "miami-oh-redhawks",
+        "franchiseId": 193,
+        "season": 2003
+    },
+    {
+        "id": "2003-194",
+        "teamId": "ohio-state-buckeyes",
+        "franchiseId": 194,
+        "season": 2003
+    },
+    {
+        "id": "2003-195",
+        "teamId": "ohio-bobcats",
+        "franchiseId": 195,
+        "season": 2003
+    },
+    {
+        "id": "2003-197",
+        "teamId": "oklahoma-state-cowboys",
+        "franchiseId": 197,
+        "season": 2003
+    },
+    {
+        "id": "2003-199",
+        "teamId": "southeastern-oklahoma-savage-storm",
+        "franchiseId": 199,
+        "season": 2003
+    },
+    {
+        "id": "2003-201",
+        "teamId": "oklahoma-sooners",
+        "franchiseId": 201,
+        "season": 2003
+    },
+    {
+        "id": "2003-202",
+        "teamId": "tulsa-golden-hurricane",
+        "franchiseId": 202,
+        "season": 2003
+    },
+    {
+        "id": "2003-204",
+        "teamId": "oregon-state-beavers",
+        "franchiseId": 204,
+        "season": 2003
+    },
+    {
+        "id": "2003-209",
+        "teamId": "lock-haven-bald-eagles",
+        "franchiseId": 209,
+        "season": 2003
+    },
+    {
+        "id": "2003-210",
+        "teamId": "millersville-marauders",
+        "franchiseId": 210,
+        "season": 2003
+    },
+    {
+        "id": "2003-213",
+        "teamId": "penn-state-nittany-lions",
+        "franchiseId": 213,
+        "season": 2003
+    },
+    {
+        "id": "2003-215",
+        "teamId": "slippery-rock-the-rock",
+        "franchiseId": 215,
+        "season": 2003
+    },
+    {
+        "id": "2003-218",
+        "teamId": "temple-owls",
+        "franchiseId": 218,
+        "season": 2003
+    },
+    {
+        "id": "2003-219",
+        "teamId": "penn-quakers",
+        "franchiseId": 219,
+        "season": 2003
+    },
+    {
+        "id": "2003-221",
+        "teamId": "pittsburgh-panthers",
+        "franchiseId": 221,
+        "season": 2003
+    },
+    {
+        "id": "2003-222",
+        "teamId": "villanova-wildcats",
+        "franchiseId": 222,
+        "season": 2003
+    },
+    {
+        "id": "2003-223",
+        "teamId": "west-chester-golden-rams",
+        "franchiseId": 223,
+        "season": 2003
+    },
+    {
+        "id": "2003-225",
+        "teamId": "brown-bears",
+        "franchiseId": 225,
+        "season": 2003
+    },
+    {
+        "id": "2003-227",
+        "teamId": "rhode-island-rams",
+        "franchiseId": 227,
+        "season": 2003
+    },
+    {
+        "id": "2003-228",
+        "teamId": "clemson-tigers",
+        "franchiseId": 228,
+        "season": 2003
+    },
+    {
+        "id": "2003-231",
+        "teamId": "furman-paladins",
+        "franchiseId": 231,
+        "season": 2003
+    },
+    {
+        "id": "2003-233",
+        "teamId": "south-dakota-coyotes",
+        "franchiseId": 233,
+        "season": 2003
+    },
+    {
+        "id": "2003-235",
+        "teamId": "memphis-tigers",
+        "franchiseId": 235,
+        "season": 2003
+    },
+    {
+        "id": "2003-236",
+        "teamId": "chattanooga-mocs",
+        "franchiseId": 236,
+        "season": 2003
+    },
+    {
+        "id": "2003-237",
+        "teamId": "union-dutchmen",
+        "franchiseId": 237,
+        "season": 2003
+    },
+    {
+        "id": "2003-238",
+        "teamId": "vanderbilt-commodores",
+        "franchiseId": 238,
+        "season": 2003
+    },
+    {
+        "id": "2003-239",
+        "teamId": "baylor-bears",
+        "franchiseId": 239,
+        "season": 2003
+    },
+    {
+        "id": "2003-242",
+        "teamId": "rice-owls",
+        "franchiseId": 242,
+        "season": 2003
+    },
+    {
+        "id": "2003-245",
+        "teamId": "texas-am-aggies",
+        "franchiseId": 245,
+        "season": 2003
+    },
+    {
+        "id": "2003-248",
+        "teamId": "houston-cougars",
+        "franchiseId": 248,
+        "season": 2003
+    },
+    {
+        "id": "2003-249",
+        "teamId": "north-texas-mean-green",
+        "franchiseId": 249,
+        "season": 2003
+    },
+    {
+        "id": "2003-251",
+        "teamId": "texas-longhorns",
+        "franchiseId": 251,
+        "season": 2003
+    },
+    {
+        "id": "2003-252",
+        "teamId": "byu-cougars",
+        "franchiseId": 252,
+        "season": 2003
+    },
+    {
+        "id": "2003-253",
+        "teamId": "southern-utah-thunderbirds",
+        "franchiseId": 253,
+        "season": 2003
+    },
+    {
+        "id": "2003-254",
+        "teamId": "utah-utes",
+        "franchiseId": 254,
+        "season": 2003
+    },
+    {
+        "id": "2003-256",
+        "teamId": "james-madison-dukes",
+        "franchiseId": 256,
+        "season": 2003
+    },
+    {
+        "id": "2003-257",
+        "teamId": "richmond-spiders",
+        "franchiseId": 257,
+        "season": 2003
+    },
+    {
+        "id": "2003-258",
+        "teamId": "virginia-cavaliers",
+        "franchiseId": 258,
+        "season": 2003
+    },
+    {
+        "id": "2003-259",
+        "teamId": "virginia-tech-hokies",
+        "franchiseId": 259,
+        "season": 2003
+    },
+    {
+        "id": "2003-264",
+        "teamId": "washington-huskies",
+        "franchiseId": 264,
+        "season": 2003
+    },
+    {
+        "id": "2003-265",
+        "teamId": "washington-state-cougars",
+        "franchiseId": 265,
+        "season": 2003
+    },
+    {
+        "id": "2003-271",
+        "teamId": "uw-oshkosh-titans",
+        "franchiseId": 271,
+        "season": 2003
+    },
+    {
+        "id": "2003-272",
+        "teamId": "wisconsin-platteville-pioneers",
+        "franchiseId": 272,
+        "season": 2003
+    },
+    {
+        "id": "2003-275",
+        "teamId": "wisconsin-badgers",
+        "franchiseId": 275,
+        "season": 2003
+    },
+    {
+        "id": "2003-276",
+        "teamId": "marshall-thundering-herd",
+        "franchiseId": 276,
+        "season": 2003
+    },
+    {
+        "id": "2003-277",
+        "teamId": "west-virginia-mountaineers",
+        "franchiseId": 277,
+        "season": 2003
+    },
+    {
+        "id": "2003-278",
+        "teamId": "fresno-state-bulldogs",
+        "franchiseId": 278,
+        "season": 2003
+    },
+    {
+        "id": "2003-282",
+        "teamId": "indiana-state-sycamores",
+        "franchiseId": 282,
+        "season": 2003
+    },
+    {
+        "id": "2003-284",
+        "teamId": "stonehill-chieftains",
+        "franchiseId": 284,
+        "season": 2003
+    },
+    {
+        "id": "2003-290",
+        "teamId": "georgia-southern-eagles",
+        "franchiseId": 290,
+        "season": 2003
+    },
+    {
+        "id": "2003-294",
+        "teamId": "jacksonville-dolphins",
+        "franchiseId": 294,
+        "season": 2003
+    },
+    {
+        "id": "2003-297",
+        "teamId": "hampden-sydney-tigers",
+        "franchiseId": 297,
+        "season": 2003
+    },
+    {
+        "id": "2003-301",
+        "teamId": "san-diego-toreros",
+        "franchiseId": 301,
+        "season": 2003
+    },
+    {
+        "id": "2003-302",
+        "teamId": "uc-davis-aggies",
+        "franchiseId": 302,
+        "season": 2003
+    },
+    {
+        "id": "2003-304",
+        "teamId": "idaho-state-bengals",
+        "franchiseId": 304,
+        "season": 2003
+    },
+    {
+        "id": "2003-309",
+        "teamId": "louisiana-ragin-cajuns",
+        "franchiseId": 309,
+        "season": 2003
+    },
+    {
+        "id": "2003-311",
+        "teamId": "maine-black-bears",
+        "franchiseId": 311,
+        "season": 2003
+    },
+    {
+        "id": "2003-314",
+        "teamId": "iona-gaels",
+        "franchiseId": 314,
+        "season": 2003
+    },
+    {
+        "id": "2003-322",
+        "teamId": "lafayette-leopards",
+        "franchiseId": 322,
+        "season": 2003
+    },
+    {
+        "id": "2003-324",
+        "teamId": "coastal-carolina-chanticleers",
+        "franchiseId": 324,
+        "season": 2003
+    },
+    {
+        "id": "2003-326",
+        "teamId": "texas-state-bobcats",
+        "franchiseId": 326,
+        "season": 2003
+    },
+    {
+        "id": "2003-328",
+        "teamId": "utah-state-aggies",
+        "franchiseId": 328,
+        "season": 2003
+    },
+    {
+        "id": "2003-330",
+        "teamId": "virginia-state-trojans",
+        "franchiseId": 330,
+        "season": 2003
+    },
+    {
+        "id": "2003-331",
+        "teamId": "eastern-washington-eagles",
+        "franchiseId": 331,
+        "season": 2003
+    },
+    {
+        "id": "2003-333",
+        "teamId": "alabama-crimson-tide",
+        "franchiseId": 333,
+        "season": 2003
+    },
+    {
+        "id": "2003-341",
+        "teamId": "frostburg-state-bobcats",
+        "franchiseId": 341,
+        "season": 2003
+    },
+    {
+        "id": "2003-344",
+        "teamId": "mississippi-state-bulldogs",
+        "franchiseId": 344,
+        "season": 2003
+    },
+    {
+        "id": "2003-349",
+        "teamId": "army-black-knights",
+        "franchiseId": 349,
+        "season": 2003
+    },
+    {
+        "id": "2003-351",
+        "teamId": "wingate-bulldogs",
+        "franchiseId": 351,
+        "season": 2003
+    },
+    {
+        "id": "2003-356",
+        "teamId": "illinois-fighting-illini",
+        "franchiseId": 356,
+        "season": 2003
+    },
+    {
+        "id": "2003-365",
+        "teamId": "alfred-saxons",
+        "franchiseId": 365,
+        "season": 2003
+    },
+    {
+        "id": "2003-367",
+        "teamId": "gannon-golden-knights",
+        "franchiseId": 367,
+        "season": 2003
+    },
+    {
+        "id": "2003-386",
+        "teamId": "trinity-tx-tigers",
+        "franchiseId": 386,
+        "season": 2003
+    },
+    {
+        "id": "2003-399",
+        "teamId": "albany-great-danes",
+        "franchiseId": 399,
+        "season": 2003
+    },
+    {
+        "id": "2003-426",
+        "teamId": "mount-union-raiders",
+        "franchiseId": 426,
+        "season": 2003
+    },
+    {
+        "id": "2003-427",
+        "teamId": "ohio-northern-polar-bears",
+        "franchiseId": 427,
+        "season": 2003
+    },
+    {
+        "id": "2003-487",
+        "teamId": "bacone-college-warriors",
+        "franchiseId": 487,
+        "season": 2003
+    },
+    {
+        "id": "2003-511",
+        "teamId": "cumberland-college-indians",
+        "franchiseId": 511,
+        "season": 2003
+    },
+    {
+        "id": "2003-569",
+        "teamId": "montana-state-northern-lights",
+        "franchiseId": 569,
+        "season": 2003
+    },
+    {
+        "id": "2003-2000",
+        "teamId": "abilene-christian-wildcats",
+        "franchiseId": 2000,
+        "season": 2003
+    },
+    {
+        "id": "2003-2001",
+        "teamId": "adams-state-grizzlies",
+        "franchiseId": 2001,
+        "season": 2003
+    },
+    {
+        "id": "2003-2005",
+        "teamId": "air-force-falcons",
+        "franchiseId": 2005,
+        "season": 2003
+    },
+    {
+        "id": "2003-2006",
+        "teamId": "akron-zips",
+        "franchiseId": 2006,
+        "season": 2003
+    },
+    {
+        "id": "2003-2010",
+        "teamId": "alabama-am-bulldogs",
+        "franchiseId": 2010,
+        "season": 2003
+    },
+    {
+        "id": "2003-2011",
+        "teamId": "alabama-state-hornets",
+        "franchiseId": 2011,
+        "season": 2003
+    },
+    {
+        "id": "2003-2013",
+        "teamId": "albany-state-ga-golden-rams",
+        "franchiseId": 2013,
+        "season": 2003
+    },
+    {
+        "id": "2003-2016",
+        "teamId": "alcorn-state-braves",
+        "franchiseId": 2016,
+        "season": 2003
+    },
+    {
+        "id": "2003-2018",
+        "teamId": "allegheny-golden-gators",
+        "franchiseId": 2018,
+        "season": 2003
+    },
+    {
+        "id": "2003-2019",
+        "teamId": "allen-yellow-jackets",
+        "franchiseId": 2019,
+        "season": 2003
+    },
+    {
+        "id": "2003-2022",
+        "teamId": "american-international-yellow-jackets",
+        "franchiseId": 2022,
+        "season": 2003
+    },
+    {
+        "id": "2003-2025",
+        "teamId": "angelo-state-rams",
+        "franchiseId": 2025,
+        "season": 2003
+    },
+    {
+        "id": "2003-2026",
+        "teamId": "appalachian-state-mountaineers",
+        "franchiseId": 2026,
+        "season": 2003
+    },
+    {
+        "id": "2003-2028",
+        "teamId": "arkansas-monticello-weevils",
+        "franchiseId": 2028,
+        "season": 2003
+    },
+    {
+        "id": "2003-2029",
+        "teamId": "arkansas-pine-bluff-golden-lions",
+        "franchiseId": 2029,
+        "season": 2003
+    },
+    {
+        "id": "2003-2032",
+        "teamId": "arkansas-state-red-wolves",
+        "franchiseId": 2032,
+        "season": 2003
+    },
+    {
+        "id": "2003-2038",
+        "teamId": "assumption-greyhounds",
+        "franchiseId": 2038,
+        "season": 2003
+    },
+    {
+        "id": "2003-2042",
+        "teamId": "augustana-il-vikings",
+        "franchiseId": 2042,
+        "season": 2003
+    },
+    {
+        "id": "2003-2043",
+        "teamId": "augustana-sd-vikings",
+        "franchiseId": 2043,
+        "season": 2003
+    },
+    {
+        "id": "2003-2044",
+        "teamId": "aurora-spartans",
+        "franchiseId": 2044,
+        "season": 2003
+    },
+    {
+        "id": "2003-2046",
+        "teamId": "austin-peay-governors",
+        "franchiseId": 2046,
+        "season": 2003
+    },
+    {
+        "id": "2003-2049",
+        "teamId": "azusa-pacific-cougars",
+        "franchiseId": 2049,
+        "season": 2003
+    },
+    {
+        "id": "2003-2050",
+        "teamId": "ball-state-cardinals",
+        "franchiseId": 2050,
+        "season": 2003
+    },
+    {
+        "id": "2003-2060",
+        "teamId": "bentley-falcons",
+        "franchiseId": 2060,
+        "season": 2003
+    },
+    {
+        "id": "2003-2064",
+        "teamId": "bethel-tn-wildcats",
+        "franchiseId": 2064,
+        "season": 2003
+    },
+    {
+        "id": "2003-2065",
+        "teamId": "bethune-cookman-wildcats",
+        "franchiseId": 2065,
+        "season": 2003
+    },
+    {
+        "id": "2003-2071",
+        "teamId": "bloomsburg-huskies",
+        "franchiseId": 2071,
+        "season": 2003
+    },
+    {
+        "id": "2003-2075",
+        "teamId": "bowie-state-bulldogs",
+        "franchiseId": 2075,
+        "season": 2003
+    },
+    {
+        "id": "2003-2080",
+        "teamId": "brit-columbia-thunderbirds",
+        "franchiseId": 2080,
+        "season": 2003
+    },
+    {
+        "id": "2003-2083",
+        "teamId": "bucknell-bison",
+        "franchiseId": 2083,
+        "season": 2003
+    },
+    {
+        "id": "2003-2084",
+        "teamId": "buffalo-bulls",
+        "franchiseId": 2084,
+        "season": 2003
+    },
+    {
+        "id": "2003-2085",
+        "teamId": "buffalo-state-bengals",
+        "franchiseId": 2085,
+        "season": 2003
+    },
+    {
+        "id": "2003-2086",
+        "teamId": "butler-bulldogs",
+        "franchiseId": 2086,
+        "season": 2003
+    },
+    {
+        "id": "2003-2089",
+        "teamId": "liu-post-pioneers",
+        "franchiseId": 2089,
+        "season": 2003
+    },
+    {
+        "id": "2003-2094",
+        "teamId": "cal-lutheran-kingsmen",
+        "franchiseId": 2094,
+        "season": 2003
+    },
+    {
+        "id": "2003-2098",
+        "teamId": "campbellsville-tigers",
+        "franchiseId": 2098,
+        "season": 2003
+    },
+    {
+        "id": "2003-2099",
+        "teamId": "canisius-golden-griffins",
+        "franchiseId": 2099,
+        "season": 2003
+    },
+    {
+        "id": "2003-2104",
+        "teamId": "carroll-mt-fighting-saints",
+        "franchiseId": 2104,
+        "season": 2003
+    },
+    {
+        "id": "2003-2105",
+        "teamId": "carson-newman-eagles",
+        "franchiseId": 2105,
+        "season": 2003
+    },
+    {
+        "id": "2003-2106",
+        "teamId": "carthage-redmen",
+        "franchiseId": 2106,
+        "season": 2003
+    },
+    {
+        "id": "2003-2107",
+        "teamId": "catawba-indians",
+        "franchiseId": 2107,
+        "season": 2003
+    },
+    {
+        "id": "2003-2108",
+        "teamId": "catholic-university-cardinals",
+        "franchiseId": 2108,
+        "season": 2003
+    },
+    {
+        "id": "2003-2110",
+        "teamId": "central-arkansas-bears",
+        "franchiseId": 2110,
+        "season": 2003
+    },
+    {
+        "id": "2003-2115",
+        "teamId": "central-connecticut-blue-devils",
+        "franchiseId": 2115,
+        "season": 2003
+    },
+    {
+        "id": "2003-2116",
+        "teamId": "ucf-knights",
+        "franchiseId": 2116,
+        "season": 2003
+    },
+    {
+        "id": "2003-2117",
+        "teamId": "central-michigan-chippewas",
+        "franchiseId": 2117,
+        "season": 2003
+    },
+    {
+        "id": "2003-2118",
+        "teamId": "central-missouri-state-mules",
+        "franchiseId": 2118,
+        "season": 2003
+    },
+    {
+        "id": "2003-2120",
+        "teamId": "central-washington-wildcats",
+        "franchiseId": 2120,
+        "season": 2003
+    },
+    {
+        "id": "2003-2121",
+        "teamId": "centre-colonels",
+        "franchiseId": 2121,
+        "season": 2003
+    },
+    {
+        "id": "2003-2122",
+        "teamId": "central-oklahoma-bronchos",
+        "franchiseId": 2122,
+        "season": 2003
+    },
+    {
+        "id": "2003-2123",
+        "teamId": "chadron-state-eagles",
+        "franchiseId": 2123,
+        "season": 2003
+    },
+    {
+        "id": "2003-2127",
+        "teamId": "charleston-southern-buccaneers",
+        "franchiseId": 2127,
+        "season": 2003
+    },
+    {
+        "id": "2003-2128",
+        "teamId": "charleston-wv-golden-eagles",
+        "franchiseId": 2128,
+        "season": 2003
+    },
+    {
+        "id": "2003-2129",
+        "teamId": "cheyney-wolves",
+        "franchiseId": 2129,
+        "season": 2003
+    },
+    {
+        "id": "2003-2132",
+        "teamId": "cincinnati-bearcats",
+        "franchiseId": 2132,
+        "season": 2003
+    },
+    {
+        "id": "2003-2134",
+        "teamId": "clarion-golden-eagles",
+        "franchiseId": 2134,
+        "season": 2003
+    },
+    {
+        "id": "2003-2142",
+        "teamId": "colgate-raiders",
+        "franchiseId": 2142,
+        "season": 2003
+    },
+    {
+        "id": "2003-2146",
+        "teamId": "colorado-mines-orediggers",
+        "franchiseId": 2146,
+        "season": 2003
+    },
+    {
+        "id": "2003-2148",
+        "teamId": "concord-mountain-lions",
+        "franchiseId": 2148,
+        "season": 2003
+    },
+    {
+        "id": "2003-2152",
+        "teamId": "concordia-mn-cobbers",
+        "franchiseId": 2152,
+        "season": 2003
+    },
+    {
+        "id": "2003-2161",
+        "teamId": "cumberland-bulldogs",
+        "franchiseId": 2161,
+        "season": 2003
+    },
+    {
+        "id": "2003-2166",
+        "teamId": "davidson-wildcats",
+        "franchiseId": 2166,
+        "season": 2003
+    },
+    {
+        "id": "2003-2168",
+        "teamId": "dayton-flyers",
+        "franchiseId": 2168,
+        "season": 2003
+    },
+    {
+        "id": "2003-2169",
+        "teamId": "delaware-state-hornets",
+        "franchiseId": 2169,
+        "season": 2003
+    },
+    {
+        "id": "2003-2170",
+        "teamId": "delta-state-statesmen",
+        "franchiseId": 2170,
+        "season": 2003
+    },
+    {
+        "id": "2003-2177",
+        "teamId": "district-of-col-firebirds",
+        "franchiseId": 2177,
+        "season": 2003
+    },
+    {
+        "id": "2003-2181",
+        "teamId": "drake-bulldogs",
+        "franchiseId": 2181,
+        "season": 2003
+    },
+    {
+        "id": "2003-2184",
+        "teamId": "duquesne-dukes",
+        "franchiseId": 2184,
+        "season": 2003
+    },
+    {
+        "id": "2003-2191",
+        "teamId": "east-central-tigers",
+        "franchiseId": 2191,
+        "season": 2003
+    },
+    {
+        "id": "2003-2193",
+        "teamId": "east-tennessee-state-buccaneers",
+        "franchiseId": 2193,
+        "season": 2003
+    },
+    {
+        "id": "2003-2197",
+        "teamId": "eastern-illinois-panthers",
+        "franchiseId": 2197,
+        "season": 2003
+    },
+    {
+        "id": "2003-2198",
+        "teamId": "eastern-kentucky-colonels",
+        "franchiseId": 2198,
+        "season": 2003
+    },
+    {
+        "id": "2003-2199",
+        "teamId": "eastern-michigan-eagles",
+        "franchiseId": 2199,
+        "season": 2003
+    },
+    {
+        "id": "2003-2201",
+        "teamId": "eastern-new-mexico-greyhounds",
+        "franchiseId": 2201,
+        "season": 2003
+    },
+    {
+        "id": "2003-2202",
+        "teamId": "eastern-oregon-mountaineers",
+        "franchiseId": 2202,
+        "season": 2003
+    },
+    {
+        "id": "2003-2205",
+        "teamId": "edinboro-fighting-scots",
+        "franchiseId": 2205,
+        "season": 2003
+    },
+    {
+        "id": "2003-2206",
+        "teamId": "edward-waters-tigers",
+        "franchiseId": 2206,
+        "season": 2003
+    },
+    {
+        "id": "2003-2210",
+        "teamId": "elon-phoenix",
+        "franchiseId": 2210,
+        "season": 2003
+    },
+    {
+        "id": "2003-2213",
+        "teamId": "emory-henry-wasps",
+        "franchiseId": 2213,
+        "season": 2003
+    },
+    {
+        "id": "2003-2217",
+        "teamId": "fairfield-stags",
+        "franchiseId": 2217,
+        "season": 2003
+    },
+    {
+        "id": "2003-2220",
+        "teamId": "fayetteville-state-broncos",
+        "franchiseId": 2220,
+        "season": 2003
+    },
+    {
+        "id": "2003-2226",
+        "teamId": "florida-atlantic-owls",
+        "franchiseId": 2226,
+        "season": 2003
+    },
+    {
+        "id": "2003-2229",
+        "teamId": "florida-intl-golden-panthers",
+        "franchiseId": 2229,
+        "season": 2003
+    },
+    {
+        "id": "2003-2230",
+        "teamId": "fordham-rams",
+        "franchiseId": 2230,
+        "season": 2003
+    },
+    {
+        "id": "2003-2232",
+        "teamId": "fort-valley-state-wildcats",
+        "franchiseId": 2232,
+        "season": 2003
+    },
+    {
+        "id": "2003-2233",
+        "teamId": "franklin-grizzlies",
+        "franchiseId": 2233,
+        "season": 2003
+    },
+    {
+        "id": "2003-2234",
+        "teamId": "franklin-marshall-diplomats",
+        "franchiseId": 2234,
+        "season": 2003
+    },
+    {
+        "id": "2003-2237",
+        "teamId": "fort-lewis-skyhawks",
+        "franchiseId": 2237,
+        "season": 2003
+    },
+    {
+        "id": "2003-2241",
+        "teamId": "gardner-webb-bulldogs",
+        "franchiseId": 2241,
+        "season": 2003
+    },
+    {
+        "id": "2003-2242",
+        "teamId": "geneva-college-golden-tornadoes",
+        "franchiseId": 2242,
+        "season": 2003
+    },
+    {
+        "id": "2003-2245",
+        "teamId": "georgetown-ky-tigers",
+        "franchiseId": 2245,
+        "season": 2003
+    },
+    {
+        "id": "2003-2249",
+        "teamId": "glenville-state-pioneers",
+        "franchiseId": 2249,
+        "season": 2003
+    },
+    {
+        "id": "2003-2256",
+        "teamId": "greensboro-pride",
+        "franchiseId": 2256,
+        "season": 2003
+    },
+    {
+        "id": "2003-2258",
+        "teamId": "guilford-quakers",
+        "franchiseId": 2258,
+        "season": 2003
+    },
+    {
+        "id": "2003-2261",
+        "teamId": "hampton-pirates",
+        "franchiseId": 2261,
+        "season": 2003
+    },
+    {
+        "id": "2003-2264",
+        "teamId": "harding-bison",
+        "franchiseId": 2264,
+        "season": 2003
+    },
+    {
+        "id": "2003-2271",
+        "teamId": "henderson-state-reddies",
+        "franchiseId": 2271,
+        "season": 2003
+    },
+    {
+        "id": "2003-2273",
+        "teamId": "hillsdale-chargers",
+        "franchiseId": 2273,
+        "season": 2003
+    },
+    {
+        "id": "2003-2275",
+        "teamId": "hofstra-pride",
+        "franchiseId": 2275,
+        "season": 2003
+    },
+    {
+        "id": "2003-2278",
+        "teamId": "humboldt-state-lumberjacks",
+        "franchiseId": 2278,
+        "season": 2003
+    },
+    {
+        "id": "2003-2283",
+        "teamId": "benedictine-il-eagles",
+        "franchiseId": 2283,
+        "season": 2003
+    },
+    {
+        "id": "2003-2287",
+        "teamId": "illinois-state-redbirds",
+        "franchiseId": 2287,
+        "season": 2003
+    },
+    {
+        "id": "2003-2291",
+        "teamId": "indiana-pa-crimson-hawks",
+        "franchiseId": 2291,
+        "season": 2003
+    },
+    {
+        "id": "2003-2292",
+        "teamId": "indianapolis-greyhounds",
+        "franchiseId": 2292,
+        "season": 2003
+    },
+    {
+        "id": "2003-2294",
+        "teamId": "iowa-hawkeyes",
+        "franchiseId": 2294,
+        "season": 2003
+    },
+    {
+        "id": "2003-2295",
+        "teamId": "iowa-wesleyan-tigers",
+        "franchiseId": 2295,
+        "season": 2003
+    },
+    {
+        "id": "2003-2296",
+        "teamId": "jackson-state-tigers",
+        "franchiseId": 2296,
+        "season": 2003
+    },
+    {
+        "id": "2003-2304",
+        "teamId": "johnson-c-smith-golden-bulls",
+        "franchiseId": 2304,
+        "season": 2003
+    },
+    {
+        "id": "2003-2305",
+        "teamId": "kansas-jayhawks",
+        "franchiseId": 2305,
+        "season": 2003
+    },
+    {
+        "id": "2003-2306",
+        "teamId": "kansas-state-wildcats",
+        "franchiseId": 2306,
+        "season": 2003
+    },
+    {
+        "id": "2003-2309",
+        "teamId": "kent-state-golden-flashes",
+        "franchiseId": 2309,
+        "season": 2003
+    },
+    {
+        "id": "2003-2310",
+        "teamId": "kentucky-state-thorobreds",
+        "franchiseId": 2310,
+        "season": 2003
+    },
+    {
+        "id": "2003-2315",
+        "teamId": "kutztown-golden-bears",
+        "franchiseId": 2315,
+        "season": 2003
+    },
+    {
+        "id": "2003-2316",
+        "teamId": "kentucky-wesleyan-panthers",
+        "franchiseId": 2316,
+        "season": 2003
+    },
+    {
+        "id": "2003-2318",
+        "teamId": "la-verne-leopards",
+        "franchiseId": 2318,
+        "season": 2003
+    },
+    {
+        "id": "2003-2321",
+        "teamId": "lambuth-eagles",
+        "franchiseId": 2321,
+        "season": 2003
+    },
+    {
+        "id": "2003-2323",
+        "teamId": "lane-dragons",
+        "franchiseId": 2323,
+        "season": 2003
+    },
+    {
+        "id": "2003-2324",
+        "teamId": "langston-lions",
+        "franchiseId": 2324,
+        "season": 2003
+    },
+    {
+        "id": "2003-2325",
+        "teamId": "la-salle-explorers",
+        "franchiseId": 2325,
+        "season": 2003
+    },
+    {
+        "id": "2003-2329",
+        "teamId": "lehigh-mountain-hawks",
+        "franchiseId": 2329,
+        "season": 2003
+    },
+    {
+        "id": "2003-2331",
+        "teamId": "lenoir-rhyne-bears",
+        "franchiseId": 2331,
+        "season": 2003
+    },
+    {
+        "id": "2003-2335",
+        "teamId": "liberty-flames",
+        "franchiseId": 2335,
+        "season": 2003
+    },
+    {
+        "id": "2003-2348",
+        "teamId": "louisiana-tech-bulldogs",
+        "franchiseId": 2348,
+        "season": 2003
+    },
+    {
+        "id": "2003-2349",
+        "teamId": "umass-lowell-river-hawks",
+        "franchiseId": 2349,
+        "season": 2003
+    },
+    {
+        "id": "2003-2364",
+        "teamId": "minnesota-state-mavericks",
+        "franchiseId": 2364,
+        "season": 2003
+    },
+    {
+        "id": "2003-2368",
+        "teamId": "marist-red-foxes",
+        "franchiseId": 2368,
+        "season": 2003
+    },
+    {
+        "id": "2003-2369",
+        "teamId": "mars-hill-lions",
+        "franchiseId": 2369,
+        "season": 2003
+    },
+    {
+        "id": "2003-2373",
+        "teamId": "maryville-tn-fighting-scots",
+        "franchiseId": 2373,
+        "season": 2003
+    },
+    {
+        "id": "2003-2377",
+        "teamId": "mcneese-state-cowboys",
+        "franchiseId": 2377,
+        "season": 2003
+    },
+    {
+        "id": "2003-2381",
+        "teamId": "menlo-oaks",
+        "franchiseId": 2381,
+        "season": 2003
+    },
+    {
+        "id": "2003-2383",
+        "teamId": "merchant-marine-mariners",
+        "franchiseId": 2383,
+        "season": 2003
+    },
+    {
+        "id": "2003-2390",
+        "teamId": "miami-hurricanes",
+        "franchiseId": 2390,
+        "season": 2003
+    },
+    {
+        "id": "2003-2393",
+        "teamId": "middle-tennessee-blue-raiders",
+        "franchiseId": 2393,
+        "season": 2003
+    },
+    {
+        "id": "2003-2395",
+        "teamId": "midwestern-state-mustangs",
+        "franchiseId": 2395,
+        "season": 2003
+    },
+    {
+        "id": "2003-2396",
+        "teamId": "miles-golden-bears",
+        "franchiseId": 2396,
+        "season": 2003
+    },
+    {
+        "id": "2003-2399",
+        "teamId": "minnesota-morris-cougars",
+        "franchiseId": 2399,
+        "season": 2003
+    },
+    {
+        "id": "2003-2400",
+        "teamId": "mississippi-valley-state-delta-devils",
+        "franchiseId": 2400,
+        "season": 2003
+    },
+    {
+        "id": "2003-2401",
+        "teamId": "mississippi-college-choctaws",
+        "franchiseId": 2401,
+        "season": 2003
+    },
+    {
+        "id": "2003-2402",
+        "teamId": "missouri-st-miners",
+        "franchiseId": 2402,
+        "season": 2003
+    },
+    {
+        "id": "2003-2403",
+        "teamId": "missouri-southern-state-lions",
+        "franchiseId": 2403,
+        "season": 2003
+    },
+    {
+        "id": "2003-2405",
+        "teamId": "monmouth-hawks",
+        "franchiseId": 2405,
+        "season": 2003
+    },
+    {
+        "id": "2003-2413",
+        "teamId": "morehead-state-eagles",
+        "franchiseId": 2413,
+        "season": 2003
+    },
+    {
+        "id": "2003-2415",
+        "teamId": "morgan-state-bears",
+        "franchiseId": 2415,
+        "season": 2003
+    },
+    {
+        "id": "2003-2416",
+        "teamId": "morningside-chiefs",
+        "franchiseId": 2416,
+        "season": 2003
+    },
+    {
+        "id": "2003-2417",
+        "teamId": "morris-brown-wolverines",
+        "franchiseId": 2417,
+        "season": 2003
+    },
+    {
+        "id": "2003-2424",
+        "teamId": "new-mexico-highlands-cowboys",
+        "franchiseId": 2424,
+        "season": 2003
+    },
+    {
+        "id": "2003-2426",
+        "teamId": "navy-midshipmen",
+        "franchiseId": 2426,
+        "season": 2003
+    },
+    {
+        "id": "2003-2428",
+        "teamId": "north-carolina-central-eagles",
+        "franchiseId": 2428,
+        "season": 2003
+    },
+    {
+        "id": "2003-2433",
+        "teamId": "louisiana-monroe-warhawks",
+        "franchiseId": 2433,
+        "season": 2003
+    },
+    {
+        "id": "2003-2437",
+        "teamId": "nebraska-omaha-mavericks",
+        "franchiseId": 2437,
+        "season": 2003
+    },
+    {
+        "id": "2003-2439",
+        "teamId": "unlv-rebels",
+        "franchiseId": 2439,
+        "season": 2003
+    },
+    {
+        "id": "2003-2440",
+        "teamId": "nevada-wolf-pack",
+        "franchiseId": 2440,
+        "season": 2003
+    },
+    {
+        "id": "2003-2441",
+        "teamId": "new-haven-chargers",
+        "franchiseId": 2441,
+        "season": 2003
+    },
+    {
+        "id": "2003-2442",
+        "teamId": "college-of-new-jersey-lions",
+        "franchiseId": 2442,
+        "season": 2003
+    },
+    {
+        "id": "2003-2444",
+        "teamId": "newberry-wolves",
+        "franchiseId": 2444,
+        "season": 2003
+    },
+    {
+        "id": "2003-2447",
+        "teamId": "nicholls-state-colonels",
+        "franchiseId": 2447,
+        "season": 2003
+    },
+    {
+        "id": "2003-2448",
+        "teamId": "north-carolina-at-aggies",
+        "franchiseId": 2448,
+        "season": 2003
+    },
+    {
+        "id": "2003-2449",
+        "teamId": "north-dakota-state-bison",
+        "franchiseId": 2449,
+        "season": 2003
+    },
+    {
+        "id": "2003-2450",
+        "teamId": "norfolk-state-spartans",
+        "franchiseId": 2450,
+        "season": 2003
+    },
+    {
+        "id": "2003-2453",
+        "teamId": "north-alabama-lions",
+        "franchiseId": 2453,
+        "season": 2003
+    },
+    {
+        "id": "2003-2458",
+        "teamId": "northern-colorado-bears",
+        "franchiseId": 2458,
+        "season": 2003
+    },
+    {
+        "id": "2003-2459",
+        "teamId": "northern-illinois-huskies",
+        "franchiseId": 2459,
+        "season": 2003
+    },
+    {
+        "id": "2003-2460",
+        "teamId": "northern-iowa-panthers",
+        "franchiseId": 2460,
+        "season": 2003
+    },
+    {
+        "id": "2003-2463",
+        "teamId": "cs-northridge-matadors",
+        "franchiseId": 2463,
+        "season": 2003
+    },
+    {
+        "id": "2003-2464",
+        "teamId": "northern-arizona-lumberjacks",
+        "franchiseId": 2464,
+        "season": 2003
+    },
+    {
+        "id": "2003-2466",
+        "teamId": "northwestern-state-demons",
+        "franchiseId": 2466,
+        "season": 2003
+    },
+    {
+        "id": "2003-2471",
+        "teamId": "northwestern-ia-red-raiders",
+        "franchiseId": 2471,
+        "season": 2003
+    },
+    {
+        "id": "2003-2483",
+        "teamId": "oregon-ducks",
+        "franchiseId": 2483,
+        "season": 2003
+    },
+    {
+        "id": "2003-2487",
+        "teamId": "pace-setters",
+        "franchiseId": 2487,
+        "season": 2003
+    },
+    {
+        "id": "2003-2491",
+        "teamId": "paul-quinn-tigers",
+        "franchiseId": 2491,
+        "season": 2003
+    },
+    {
+        "id": "2003-2502",
+        "teamId": "portland-state-vikings",
+        "franchiseId": 2502,
+        "season": 2003
+    },
+    {
+        "id": "2003-2504",
+        "teamId": "prairie-view-am-panthers",
+        "franchiseId": 2504,
+        "season": 2003
+    },
+    {
+        "id": "2003-2506",
+        "teamId": "presbyterian-college-blue-hose",
+        "franchiseId": 2506,
+        "season": 2003
+    },
+    {
+        "id": "2003-2508",
+        "teamId": "puget-sound-loggers",
+        "franchiseId": 2508,
+        "season": 2003
+    },
+    {
+        "id": "2003-2509",
+        "teamId": "purdue-boilermakers",
+        "franchiseId": 2509,
+        "season": 2003
+    },
+    {
+        "id": "2003-2516",
+        "teamId": "randolph-macon-yellow-jackets",
+        "franchiseId": 2516,
+        "season": 2003
+    },
+    {
+        "id": "2003-2523",
+        "teamId": "robert-morris-colonials",
+        "franchiseId": 2523,
+        "season": 2003
+    },
+    {
+        "id": "2003-2529",
+        "teamId": "sacred-heart-pioneers",
+        "franchiseId": 2529,
+        "season": 2003
+    },
+    {
+        "id": "2003-2530",
+        "teamId": "salem-spirits",
+        "franchiseId": 2530,
+        "season": 2003
+    },
+    {
+        "id": "2003-2532",
+        "teamId": "salisbury-sea-gulls",
+        "franchiseId": 2532,
+        "season": 2003
+    },
+    {
+        "id": "2003-2534",
+        "teamId": "sam-houston-state-bearkats",
+        "franchiseId": 2534,
+        "season": 2003
+    },
+    {
+        "id": "2003-2535",
+        "teamId": "samford-bulldogs",
+        "franchiseId": 2535,
+        "season": 2003
+    },
+    {
+        "id": "2003-2542",
+        "teamId": "savannah-state-tigers",
+        "franchiseId": 2542,
+        "season": 2003
+    },
+    {
+        "id": "2003-2545",
+        "teamId": "southeastern-louisiana-lions",
+        "franchiseId": 2545,
+        "season": 2003
+    },
+    {
+        "id": "2003-2546",
+        "teamId": "southeast-missouri-state-redhawks",
+        "franchiseId": 2546,
+        "season": 2003
+    },
+    {
+        "id": "2003-2553",
+        "teamId": "sewanee-univ-of-the-south-tigers",
+        "franchiseId": 2553,
+        "season": 2003
+    },
+    {
+        "id": "2003-2561",
+        "teamId": "siena-saints",
+        "franchiseId": 2561,
+        "season": 2003
+    },
+    {
+        "id": "2003-2564",
+        "teamId": "simpson-college-storm",
+        "franchiseId": 2564,
+        "season": 2003
+    },
+    {
+        "id": "2003-2567",
+        "teamId": "smu-mustangs",
+        "franchiseId": 2567,
+        "season": 2003
+    },
+    {
+        "id": "2003-2569",
+        "teamId": "south-carolina-state-bulldogs",
+        "franchiseId": 2569,
+        "season": 2003
+    },
+    {
+        "id": "2003-2571",
+        "teamId": "south-dakota-state-jackrabbits",
+        "franchiseId": 2571,
+        "season": 2003
+    },
+    {
+        "id": "2003-2572",
+        "teamId": "southern-miss-golden-eagles",
+        "franchiseId": 2572,
+        "season": 2003
+    },
+    {
+        "id": "2003-2579",
+        "teamId": "south-carolina-gamecocks",
+        "franchiseId": 2579,
+        "season": 2003
+    },
+    {
+        "id": "2003-2582",
+        "teamId": "southern-jaguars",
+        "franchiseId": 2582,
+        "season": 2003
+    },
+    {
+        "id": "2003-2583",
+        "teamId": "southern-connecticut-state-owls",
+        "franchiseId": 2583,
+        "season": 2003
+    },
+    {
+        "id": "2003-2584",
+        "teamId": "southern-oregon-raiders",
+        "franchiseId": 2584,
+        "season": 2003
+    },
+    {
+        "id": "2003-2586",
+        "teamId": "southwest-baptist-bearcats",
+        "franchiseId": 2586,
+        "season": 2003
+    },
+    {
+        "id": "2003-2587",
+        "teamId": "southwest-minnesota-state-mustangs",
+        "franchiseId": 2587,
+        "season": 2003
+    },
+    {
+        "id": "2003-2591",
+        "teamId": "st-ambrose-fighting-bees",
+        "franchiseId": 2591,
+        "season": 2003
+    },
+    {
+        "id": "2003-2594",
+        "teamId": "st-cloud-state-huskies",
+        "franchiseId": 2594,
+        "season": 2003
+    },
+    {
+        "id": "2003-2598",
+        "teamId": "st-francis-pa-red-flash",
+        "franchiseId": 2598,
+        "season": 2003
+    },
+    {
+        "id": "2003-2599",
+        "teamId": "st-johns-red-storm",
+        "franchiseId": 2599,
+        "season": 2003
+    },
+    {
+        "id": "2003-2601",
+        "teamId": "st-josephs-in-pumas",
+        "franchiseId": 2601,
+        "season": 2003
+    },
+    {
+        "id": "2003-2608",
+        "teamId": "st-marys-ca-gaels",
+        "franchiseId": 2608,
+        "season": 2003
+    },
+    {
+        "id": "2003-2612",
+        "teamId": "st-peters-peacocks",
+        "franchiseId": 2612,
+        "season": 2003
+    },
+    {
+        "id": "2003-2615",
+        "teamId": "st-xavier-il-cougars",
+        "franchiseId": 2615,
+        "season": 2003
+    },
+    {
+        "id": "2003-2617",
+        "teamId": "stephen-f-austin-lumberjacks",
+        "franchiseId": 2617,
+        "season": 2003
+    },
+    {
+        "id": "2003-2619",
+        "teamId": "stony-brook-seawolves",
+        "franchiseId": 2619,
+        "season": 2003
+    },
+    {
+        "id": "2003-2623",
+        "teamId": "missouri-state-bears",
+        "franchiseId": 2623,
+        "season": 2003
+    },
+    {
+        "id": "2003-2627",
+        "teamId": "tarleton-state-texans",
+        "franchiseId": 2627,
+        "season": 2003
+    },
+    {
+        "id": "2003-2628",
+        "teamId": "tcu-horned-frogs",
+        "franchiseId": 2628,
+        "season": 2003
+    },
+    {
+        "id": "2003-2630",
+        "teamId": "tennessee-martin-skyhawks",
+        "franchiseId": 2630,
+        "season": 2003
+    },
+    {
+        "id": "2003-2633",
+        "teamId": "tennessee-volunteers",
+        "franchiseId": 2633,
+        "season": 2003
+    },
+    {
+        "id": "2003-2634",
+        "teamId": "tennessee-state-tigers",
+        "franchiseId": 2634,
+        "season": 2003
+    },
+    {
+        "id": "2003-2635",
+        "teamId": "tennessee-tech-golden-eagles",
+        "franchiseId": 2635,
+        "season": 2003
+    },
+    {
+        "id": "2003-2637",
+        "teamId": "texas-college-steers",
+        "franchiseId": 2637,
+        "season": 2003
+    },
+    {
+        "id": "2003-2638",
+        "teamId": "utep-miners",
+        "franchiseId": 2638,
+        "season": 2003
+    },
+    {
+        "id": "2003-2640",
+        "teamId": "texas-southern-tigers",
+        "franchiseId": 2640,
+        "season": 2003
+    },
+    {
+        "id": "2003-2641",
+        "teamId": "texas-tech-red-raiders",
+        "franchiseId": 2641,
+        "season": 2003
+    },
+    {
+        "id": "2003-2643",
+        "teamId": "the-citadel-bulldogs",
+        "franchiseId": 2643,
+        "season": 2003
+    },
+    {
+        "id": "2003-2644",
+        "teamId": "thiel-college-tomcats",
+        "franchiseId": 2644,
+        "season": 2003
+    },
+    {
+        "id": "2003-2649",
+        "teamId": "toledo-rockets",
+        "franchiseId": 2649,
+        "season": 2003
+    },
+    {
+        "id": "2003-2651",
+        "teamId": "trine-thunder",
+        "franchiseId": 2651,
+        "season": 2003
+    },
+    {
+        "id": "2003-2653",
+        "teamId": "troy-trojans",
+        "franchiseId": 2653,
+        "season": 2003
+    },
+    {
+        "id": "2003-2654",
+        "teamId": "truman-state-bulldogs",
+        "franchiseId": 2654,
+        "season": 2003
+    },
+    {
+        "id": "2003-2655",
+        "teamId": "tulane-green-wave",
+        "franchiseId": 2655,
+        "season": 2003
+    },
+    {
+        "id": "2003-2657",
+        "teamId": "tuskegee-golden-tigers",
+        "franchiseId": 2657,
+        "season": 2003
+    },
+    {
+        "id": "2003-2658",
+        "teamId": "texas-am-kingsville-javelinas",
+        "franchiseId": 2658,
+        "season": 2003
+    },
+    {
+        "id": "2003-2666",
+        "teamId": "urbana-blue-knights",
+        "franchiseId": 2666,
+        "season": 2003
+    },
+    {
+        "id": "2003-2667",
+        "teamId": "ursinus-bears",
+        "franchiseId": 2667,
+        "season": 2003
+    },
+    {
+        "id": "2003-2673",
+        "teamId": "valdosta-state-blazers",
+        "franchiseId": 2673,
+        "season": 2003
+    },
+    {
+        "id": "2003-2674",
+        "teamId": "valparaiso-crusaders",
+        "franchiseId": 2674,
+        "season": 2003
+    },
+    {
+        "id": "2003-2676",
+        "teamId": "virginia-union-panthers",
+        "franchiseId": 2676,
+        "season": 2003
+    },
+    {
+        "id": "2003-2678",
+        "teamId": "vmi-keydets",
+        "franchiseId": 2678,
+        "season": 2003
+    },
+    {
+        "id": "2003-2681",
+        "teamId": "wagner-seahawks",
+        "franchiseId": 2681,
+        "season": 2003
+    },
+    {
+        "id": "2003-2686",
+        "teamId": "washington-jefferson-presidents",
+        "franchiseId": 2686,
+        "season": 2003
+    },
+    {
+        "id": "2003-2687",
+        "teamId": "washburn-ichabods",
+        "franchiseId": 2687,
+        "season": 2003
+    },
+    {
+        "id": "2003-2688",
+        "teamId": "washington-lee-generals",
+        "franchiseId": 2688,
+        "season": 2003
+    },
+    {
+        "id": "2003-2691",
+        "teamId": "webber-international-warriors",
+        "franchiseId": 2691,
+        "season": 2003
+    },
+    {
+        "id": "2003-2692",
+        "teamId": "weber-state-wildcats",
+        "franchiseId": 2692,
+        "season": 2003
+    },
+    {
+        "id": "2003-2695",
+        "teamId": "west-alabama-tigers",
+        "franchiseId": 2695,
+        "season": 2003
+    },
+    {
+        "id": "2003-2698",
+        "teamId": "west-georgia-wolves",
+        "franchiseId": 2698,
+        "season": 2003
+    },
+    {
+        "id": "2003-2699",
+        "teamId": "west-liberty-hilltoppers",
+        "franchiseId": 2699,
+        "season": 2003
+    },
+    {
+        "id": "2003-2700",
+        "teamId": "mcdaniel-college-terrors",
+        "franchiseId": 2700,
+        "season": 2003
+    },
+    {
+        "id": "2003-2701",
+        "teamId": "montana-western-bulldogs",
+        "franchiseId": 2701,
+        "season": 2003
+    },
+    {
+        "id": "2003-2702",
+        "teamId": "western-new-england-golden-bears",
+        "franchiseId": 2702,
+        "season": 2003
+    },
+    {
+        "id": "2003-2703",
+        "teamId": "western-new-mexico-mustangs",
+        "franchiseId": 2703,
+        "season": 2003
+    },
+    {
+        "id": "2003-2704",
+        "teamId": "west-texas-am-buffaloes",
+        "franchiseId": 2704,
+        "season": 2003
+    },
+    {
+        "id": "2003-2706",
+        "teamId": "west-virginia-tech-golden-bears",
+        "franchiseId": 2706,
+        "season": 2003
+    },
+    {
+        "id": "2003-2707",
+        "teamId": "wv-state-yellow-jackets",
+        "franchiseId": 2707,
+        "season": 2003
+    },
+    {
+        "id": "2003-2710",
+        "teamId": "western-illinois-leathernecks",
+        "franchiseId": 2710,
+        "season": 2003
+    },
+    {
+        "id": "2003-2711",
+        "teamId": "western-michigan-broncos",
+        "franchiseId": 2711,
+        "season": 2003
+    },
+    {
+        "id": "2003-2714",
+        "teamId": "western-state-mountaineers",
+        "franchiseId": 2714,
+        "season": 2003
+    },
+    {
+        "id": "2003-2717",
+        "teamId": "western-carolina-catamounts",
+        "franchiseId": 2717,
+        "season": 2003
+    },
+    {
+        "id": "2003-2725",
+        "teamId": "widener-pride",
+        "franchiseId": 2725,
+        "season": 2003
+    },
+    {
+        "id": "2003-2729",
+        "teamId": "william-mary-tribe",
+        "franchiseId": 2729,
+        "season": 2003
+    },
+    {
+        "id": "2003-2736",
+        "teamId": "winston-salem-rams",
+        "franchiseId": 2736,
+        "season": 2003
+    },
+    {
+        "id": "2003-2738",
+        "teamId": "wisconsin-eau-claire-blugolds",
+        "franchiseId": 2738,
+        "season": 2003
+    },
+    {
+        "id": "2003-2740",
+        "teamId": "wisconsin-la-crosse-eagles",
+        "franchiseId": 2740,
+        "season": 2003
+    },
+    {
+        "id": "2003-2741",
+        "teamId": "wisconsin-lutheran-warriors",
+        "franchiseId": 2741,
+        "season": 2003
+    },
+    {
+        "id": "2003-2743",
+        "teamId": "wisconsin-stevens-point-pointers",
+        "franchiseId": 2743,
+        "season": 2003
+    },
+    {
+        "id": "2003-2745",
+        "teamId": "uw-whitewater-warhawks",
+        "franchiseId": 2745,
+        "season": 2003
+    },
+    {
+        "id": "2003-2746",
+        "teamId": "wittenberg-tigers",
+        "franchiseId": 2746,
+        "season": 2003
+    },
+    {
+        "id": "2003-2747",
+        "teamId": "wofford-terriers",
+        "franchiseId": 2747,
+        "season": 2003
+    },
+    {
+        "id": "2003-2751",
+        "teamId": "wyoming-cowboys",
+        "franchiseId": 2751,
+        "season": 2003
+    },
+    {
+        "id": "2003-2754",
+        "teamId": "youngstown-state-penguins",
+        "franchiseId": 2754,
+        "season": 2003
+    },
+    {
+        "id": "2003-2755",
+        "teamId": "grambling-state-tigers",
+        "franchiseId": 2755,
+        "season": 2003
+    },
+    {
+        "id": "2003-2758",
+        "teamId": "howard-payne-yellow-jackets",
+        "franchiseId": 2758,
+        "season": 2003
+    },
+    {
+        "id": "2003-2790",
+        "teamId": "albion-britons",
+        "franchiseId": 2790,
+        "season": 2003
+    },
+    {
+        "id": "2003-2800",
+        "teamId": "alma-college-scots",
+        "franchiseId": 2800,
+        "season": 2003
+    },
+    {
+        "id": "2003-2803",
+        "teamId": "bryant-bulldogs",
+        "franchiseId": 2803,
+        "season": 2003
+    },
+    {
+        "id": "2003-2804",
+        "teamId": "chowan-braves",
+        "franchiseId": 2804,
+        "season": 2003
+    },
+    {
+        "id": "2003-2805",
+        "teamId": "clark-atlanta-panthers",
+        "franchiseId": 2805,
+        "season": 2003
+    },
+    {
+        "id": "2003-2812",
+        "teamId": "hope-flying-dutchmen",
+        "franchiseId": 2812,
+        "season": 2003
+    },
+    {
+        "id": "2003-2815",
+        "teamId": "lindenwood-lions",
+        "franchiseId": 2815,
+        "season": 2003
+    },
+    {
+        "id": "2003-2816",
+        "teamId": "mckendree-bearcats",
+        "franchiseId": 2816,
+        "season": 2003
+    },
+    {
+        "id": "2003-2817",
+        "teamId": "minnesota-st-moorhead-dragon",
+        "franchiseId": 2817,
+        "season": 2003
+    },
+    {
+        "id": "2003-2818",
+        "teamId": "montclair-state-red-hawks",
+        "franchiseId": 2818,
+        "season": 2003
+    },
+    {
+        "id": "2003-2820",
+        "teamId": "new-jersey-city-univ-gothic-knights",
+        "franchiseId": 2820,
+        "season": 2003
+    },
+    {
+        "id": "2003-2822",
+        "teamId": "north-greenville-crusaders",
+        "franchiseId": 2822,
+        "season": 2003
+    },
+    {
+        "id": "2003-2823",
+        "teamId": "northwestern-oklahoma-state-rangers",
+        "franchiseId": 2823,
+        "season": 2003
+    },
+    {
+        "id": "2003-2824",
+        "teamId": "ok-panhandle-st-aggies",
+        "franchiseId": 2824,
+        "season": 2003
+    },
+    {
+        "id": "2003-2825",
+        "teamId": "quincy-hawks",
+        "franchiseId": 2825,
+        "season": 2003
+    },
+    {
+        "id": "2003-2826",
+        "teamId": "rocky-mountain-bears",
+        "franchiseId": 2826,
+        "season": 2003
+    },
+    {
+        "id": "2003-2827",
+        "teamId": "rowan-profs",
+        "franchiseId": 2827,
+        "season": 2003
+    },
+    {
+        "id": "2003-2828",
+        "teamId": "shenandoah-hornets",
+        "franchiseId": 2828,
+        "season": 2003
+    },
+    {
+        "id": "2003-2829",
+        "teamId": "simon-fraser-clansmen",
+        "franchiseId": 2829,
+        "season": 2003
+    },
+    {
+        "id": "2003-2830",
+        "teamId": "st-anselm-hawks",
+        "franchiseId": 2830,
+        "season": 2003
+    },
+    {
+        "id": "2003-2831",
+        "teamId": "st-francis-in-cougars",
+        "franchiseId": 2831,
+        "season": 2003
+    },
+    {
+        "id": "2003-2832",
+        "teamId": "st-norbert-green-knights",
+        "franchiseId": 2832,
+        "season": 2003
+    },
+    {
+        "id": "2003-2837",
+        "teamId": "texas-am-commerce-lions",
+        "franchiseId": 2837,
+        "season": 2003
+    },
+    {
+        "id": "2003-2838",
+        "teamId": "tiffin-dragons",
+        "franchiseId": 2838,
+        "season": 2003
+    },
+    {
+        "id": "2003-2839",
+        "teamId": "tusculum-pioneers",
+        "franchiseId": 2839,
+        "season": 2003
+    },
+    {
+        "id": "2003-2841",
+        "teamId": "union-college-dutchmen",
+        "franchiseId": 2841,
+        "season": 2003
+    },
+    {
+        "id": "2003-2842",
+        "teamId": "uva-wise-highland-cavaliers",
+        "franchiseId": 2842,
+        "season": 2003
+    },
+    {
+        "id": "2003-2843",
+        "teamId": "western-connecticut-state-colonials",
+        "franchiseId": 2843,
+        "season": 2003
+    },
+    {
+        "id": "2003-2844",
+        "teamId": "wayne-state-ne-wildcats",
+        "franchiseId": 2844,
+        "season": 2003
+    },
+    {
+        "id": "2003-2845",
+        "teamId": "waynesburg-yellow-jackets",
+        "franchiseId": 2845,
+        "season": 2003
+    },
+    {
+        "id": "2003-2846",
+        "teamId": "wesley-college-wolverines",
+        "franchiseId": 2846,
+        "season": 2003
+    },
+    {
+        "id": "2003-2847",
+        "teamId": "western-washington-vikings",
+        "franchiseId": 2847,
+        "season": 2003
+    },
+    {
+        "id": "2003-2848",
+        "teamId": "western-oregon-wolves",
+        "franchiseId": 2848,
+        "season": 2003
+    },
+    {
+        "id": "2003-2849",
+        "teamId": "westminster-pa-titans",
+        "franchiseId": 2849,
+        "season": 2003
+    },
+    {
+        "id": "2003-2850",
+        "teamId": "whittier-poets",
+        "franchiseId": 2850,
+        "season": 2003
+    },
+    {
+        "id": "2003-2851",
+        "teamId": "winona-state-warriors",
+        "franchiseId": 2851,
+        "season": 2003
+    },
+    {
+        "id": "2003-2858",
+        "teamId": "california-pa-vulcans",
+        "franchiseId": 2858,
+        "season": 2003
+    },
+    {
+        "id": "2003-2876",
+        "teamId": "lincoln-mo-blue-tigers",
+        "franchiseId": 2876,
+        "season": 2003
+    },
+    {
+        "id": "2003-2888",
+        "teamId": "ouachita-baptist-tigers",
+        "franchiseId": 2888,
+        "season": 2003
+    },
+    {
+        "id": "2003-2907",
+        "teamId": "trinity-international-il-trojans",
+        "franchiseId": 2907,
+        "season": 2003
+    },
+    {
+        "id": "2003-2912",
+        "teamId": "william-penn-statesmen",
+        "franchiseId": 2912,
+        "season": 2003
+    },
+    {
+        "id": "2003-2922",
+        "teamId": "olivet-nazarene-tigers",
+        "franchiseId": 2922,
+        "season": 2003
+    },
+    {
+        "id": "2003-2927",
+        "teamId": "southwestern-oklahoma-bulldogs",
+        "franchiseId": 2927,
+        "season": 2003
+    },
+    {
+        "id": "2003-2940",
+        "teamId": "livingstone-blue-bears",
+        "franchiseId": 2940,
+        "season": 2003
+    },
+    {
+        "id": "2003-2948",
+        "teamId": "stillman-tigers",
+        "franchiseId": 2948,
+        "season": 2003
+    },
+    {
+        "id": "2003-2965",
+        "teamId": "clarke-college-crusaders",
+        "franchiseId": 2965,
+        "season": 2003
+    },
+    {
+        "id": "2003-2986",
+        "teamId": "fairmont-state-falcons",
+        "franchiseId": 2986,
+        "season": 2003
+    },
+    {
+        "id": "2003-3080",
+        "teamId": "waldorf-warriors",
+        "franchiseId": 3080,
+        "season": 2003
+    }
+]

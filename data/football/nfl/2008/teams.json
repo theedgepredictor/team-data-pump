@@ -1,0 +1,194 @@
+[
+    {
+        "id": "2008-1",
+        "teamId": "atlanta-falcons",
+        "franchiseId": 1,
+        "season": 2008
+    },
+    {
+        "id": "2008-2",
+        "teamId": "buffalo-bills",
+        "franchiseId": 2,
+        "season": 2008
+    },
+    {
+        "id": "2008-3",
+        "teamId": "chicago-bears",
+        "franchiseId": 3,
+        "season": 2008
+    },
+    {
+        "id": "2008-4",
+        "teamId": "cincinnati-bengals",
+        "franchiseId": 4,
+        "season": 2008
+    },
+    {
+        "id": "2008-5",
+        "teamId": "cleveland-browns",
+        "franchiseId": 5,
+        "season": 2008
+    },
+    {
+        "id": "2008-6",
+        "teamId": "dallas-cowboys",
+        "franchiseId": 6,
+        "season": 2008
+    },
+    {
+        "id": "2008-7",
+        "teamId": "denver-broncos",
+        "franchiseId": 7,
+        "season": 2008
+    },
+    {
+        "id": "2008-8",
+        "teamId": "detroit-lions",
+        "franchiseId": 8,
+        "season": 2008
+    },
+    {
+        "id": "2008-9",
+        "teamId": "green-bay-packers",
+        "franchiseId": 9,
+        "season": 2008
+    },
+    {
+        "id": "2008-10",
+        "teamId": "tennessee-titans",
+        "franchiseId": 10,
+        "season": 2008
+    },
+    {
+        "id": "2008-11",
+        "teamId": "indianapolis-colts",
+        "franchiseId": 11,
+        "season": 2008
+    },
+    {
+        "id": "2008-12",
+        "teamId": "kansas-city-chiefs",
+        "franchiseId": 12,
+        "season": 2008
+    },
+    {
+        "id": "2008-13",
+        "teamId": "oakland-raiders",
+        "franchiseId": 13,
+        "season": 2008
+    },
+    {
+        "id": "2008-14",
+        "teamId": "st-louis-rams",
+        "franchiseId": 14,
+        "season": 2008
+    },
+    {
+        "id": "2008-15",
+        "teamId": "miami-dolphins",
+        "franchiseId": 15,
+        "season": 2008
+    },
+    {
+        "id": "2008-16",
+        "teamId": "minnesota-vikings",
+        "franchiseId": 16,
+        "season": 2008
+    },
+    {
+        "id": "2008-17",
+        "teamId": "new-england-patriots",
+        "franchiseId": 17,
+        "season": 2008
+    },
+    {
+        "id": "2008-18",
+        "teamId": "new-orleans-saints",
+        "franchiseId": 18,
+        "season": 2008
+    },
+    {
+        "id": "2008-19",
+        "teamId": "new-york-giants",
+        "franchiseId": 19,
+        "season": 2008
+    },
+    {
+        "id": "2008-20",
+        "teamId": "new-york-jets",
+        "franchiseId": 20,
+        "season": 2008
+    },
+    {
+        "id": "2008-21",
+        "teamId": "philadelphia-eagles",
+        "franchiseId": 21,
+        "season": 2008
+    },
+    {
+        "id": "2008-22",
+        "teamId": "arizona-cardinals",
+        "franchiseId": 22,
+        "season": 2008
+    },
+    {
+        "id": "2008-23",
+        "teamId": "pittsburgh-steelers",
+        "franchiseId": 23,
+        "season": 2008
+    },
+    {
+        "id": "2008-24",
+        "teamId": "san-diego-chargers",
+        "franchiseId": 24,
+        "season": 2008
+    },
+    {
+        "id": "2008-25",
+        "teamId": "san-francisco-49ers",
+        "franchiseId": 25,
+        "season": 2008
+    },
+    {
+        "id": "2008-26",
+        "teamId": "seattle-seahawks",
+        "franchiseId": 26,
+        "season": 2008
+    },
+    {
+        "id": "2008-27",
+        "teamId": "tampa-bay-buccaneers",
+        "franchiseId": 27,
+        "season": 2008
+    },
+    {
+        "id": "2008-28",
+        "teamId": "washington-redskins",
+        "franchiseId": 28,
+        "season": 2008
+    },
+    {
+        "id": "2008-29",
+        "teamId": "carolina-panthers",
+        "franchiseId": 29,
+        "season": 2008
+    },
+    {
+        "id": "2008-30",
+        "teamId": "jacksonville-jaguars",
+        "franchiseId": 30,
+        "season": 2008
+    },
+    {
+        "id": "2008-33",
+        "teamId": "baltimore-ravens",
+        "franchiseId": 33,
+        "season": 2008
+    },
+    {
+        "id": "2008-34",
+        "teamId": "houston-texans",
+        "franchiseId": 34,
+        "season": 2008
+    }
+]
