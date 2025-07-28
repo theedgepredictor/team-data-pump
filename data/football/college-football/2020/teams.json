@@ -181,7 +181,7 @@
     },
     {
         "id": "2020-48",
-        "teamId": "delaware-fightin-blue-hens",
+        "teamId": "delaware-blue-hens",
         "franchiseId": 48,
         "season": 2020
     },
@@ -1615,13 +1615,13 @@
     },
     {
         "id": "2020-512",
-        "teamId": "dakota-state-dakota-st",
+        "teamId": "dakota-state-trojans",
         "franchiseId": 512,
         "season": 2020
     },
     {
         "id": "2020-513",
-        "teamId": "dakota-wesleyan",
+        "teamId": "dakota-wesleyan-tigers",
         "franchiseId": 513,
         "season": 2020
     },
@@ -2773,7 +2773,7 @@
     },
     {
         "id": "2020-2369",
-        "teamId": "mars-hill-mountain-lions",
+        "teamId": "mars-hill-lions",
         "franchiseId": 2369,
         "season": 2020
     },

@@ -1,2 +1,2 @@
 Requests==2.31.0
-espn-api-orm>=0.0.7
+espn-api-orm>=0.0.8

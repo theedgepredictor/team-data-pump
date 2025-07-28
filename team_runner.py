@@ -6,7 +6,7 @@ from espn_api_orm.team.api import ESPNTeamAPI
 from espn_api_orm.league.api import ESPNLeagueAPI
 from espn_api_orm.consts import ESPNSportLeagueTypes
 
-from src.utils import get_json_file, put_json_file
+from src.utils import get_json_file, put_json_file, get_value
 
 
 def make_team(team):
@@ -26,9 +26,11 @@ def make_team(team):
         'shortDisplayName': team.shortDisplayName.strip() if team.shortDisplayName else None,
         'color': team.color.strip() if team.color else None,
         'alternateColor': team.alternateColor.strip() if team.alternateColor else None,
+        'logo': team.logos[0].href if team.logos else None,
+        'altLogo': team.logos[1].href if team.logos else None,
         'isActive': team.isActive,
         'isAllStar': team.isAllStar,
-        'college': team.college.strip() if team.college else None,
+        'college': team.college.strip() if isinstance(team.college, str) else (get_value("http://sports.core.api.espn.com/v2/colleges",team.college) if isinstance(team.college, dict) else None),
         'venueId': team.venue.id if team.venue else None,
     }
 
@@ -126,3 +128,6 @@ def main():
 
         # Write teams to file
         put_json_file(teams_path, teams)
+
+if __name__ == "__main__":
+    main()

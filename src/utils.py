@@ -44,3 +44,6 @@ def get_json_file(path):
 def put_json_file(path, data):
     with open(path, 'w') as file:
         json.dump(data, file, indent=4)
+
+def get_value(url, val):
+    return val["$ref"].replace(f"{url.replace('https', 'http')}/", '').split('?')[0]

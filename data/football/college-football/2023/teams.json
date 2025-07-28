@@ -181,7 +181,7 @@
     },
     {
         "id": "2023-48",
-        "teamId": "delaware-fightin-blue-hens",
+        "teamId": "delaware-blue-hens",
         "franchiseId": 48,
         "season": 2023
     },
@@ -1609,13 +1609,13 @@
     },
     {
         "id": "2023-512",
-        "teamId": "dakota-state-dakota-st",
+        "teamId": "dakota-state-trojans",
         "franchiseId": 512,
         "season": 2023
     },
     {
         "id": "2023-513",
-        "teamId": "dakota-wesleyan",
+        "teamId": "dakota-wesleyan-tigers",
         "franchiseId": 513,
         "season": 2023
     },
@@ -2767,7 +2767,7 @@
     },
     {
         "id": "2023-2369",
-        "teamId": "mars-hill-mountain-lions",
+        "teamId": "mars-hill-lions",
         "franchiseId": 2369,
         "season": 2023
     },
@@ -3366,6 +3366,12 @@
         "season": 2023
     },
     {
+        "id": "2023-2617",
+        "teamId": "stephen-f-austin-lumberjacks",
+        "franchiseId": 2617,
+        "season": 2023
+    },
+    {
         "id": "2023-2619",
         "teamId": "stony-brook-seawolves",
         "franchiseId": 2619,
@@ -3961,7 +3967,7 @@
     },
     {
         "id": "2023-2827",
-        "teamId": "rowan-owls",
+        "teamId": "rowan-profs",
         "franchiseId": 2827,
         "season": 2023
     },

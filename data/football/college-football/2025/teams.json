@@ -1,4778 +1,4838 @@
 [
     {
-        "id": "2022-2",
+        "id": "2025-2",
         "teamId": "auburn-tigers",
         "franchiseId": 2,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-3",
-        "teamId": "birmingham-southern-panthers",
-        "franchiseId": 3,
-        "season": 2022
-    },
-    {
-        "id": "2022-5",
+        "id": "2025-5",
         "teamId": "uab-blazers",
         "franchiseId": 5,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-6",
+        "id": "2025-6",
         "teamId": "south-alabama-jaguars",
         "franchiseId": 6,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-7",
-        "teamId": "amherst-college-mammoths",
+        "id": "2025-7",
+        "teamId": "amherst-mammoths",
         "franchiseId": 7,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-8",
+        "id": "2025-8",
         "teamId": "arkansas-razorbacks",
         "franchiseId": 8,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-9",
+        "id": "2025-9",
         "teamId": "arizona-state-sun-devils",
         "franchiseId": 9,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-11",
+        "id": "2025-11",
         "teamId": "colorado-mesa-mavericks",
         "franchiseId": 11,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-12",
+        "id": "2025-12",
         "teamId": "arizona-wildcats",
         "franchiseId": 12,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-13",
+        "id": "2025-13",
         "teamId": "cal-poly-mustangs",
         "franchiseId": 13,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-15",
+        "id": "2025-15",
         "teamId": "anna-maria-college-amcats",
         "franchiseId": 15,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-16",
+        "id": "2025-16",
         "teamId": "sacramento-state-hornets",
         "franchiseId": 16,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-17",
+        "id": "2025-17",
         "teamId": "claremont-mudd-scripps-college-stags",
         "franchiseId": 17,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-18",
-        "teamId": "bridgewater-state-ma-bears",
+        "id": "2025-18",
+        "teamId": "bridgewater-state-bears",
         "franchiseId": 18,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-21",
+        "id": "2025-21",
         "teamId": "san-diego-state-aztecs",
         "franchiseId": 21,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-23",
+        "id": "2025-23",
         "teamId": "san-jose-state-spartans",
         "franchiseId": 23,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-24",
+        "id": "2025-24",
         "teamId": "stanford-cardinal",
         "franchiseId": 24,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-25",
+        "id": "2025-25",
         "teamId": "california-golden-bears",
         "franchiseId": 25,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-26",
+        "id": "2025-26",
         "teamId": "ucla-bruins",
         "franchiseId": 26,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-29",
+        "id": "2025-29",
         "teamId": "redlands-bulldogs",
         "franchiseId": 29,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-30",
+        "id": "2025-30",
         "teamId": "usc-trojans",
         "franchiseId": 30,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-32",
+        "id": "2025-32",
         "teamId": "carroll-wi-pioneers",
         "franchiseId": 32,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-33",
+        "id": "2025-33",
         "teamId": "colby-college-white-mules",
         "franchiseId": 33,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-36",
+        "id": "2025-36",
         "teamId": "colorado-state-rams",
         "franchiseId": 36,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-38",
+        "id": "2025-38",
         "teamId": "colorado-buffaloes",
         "franchiseId": 38,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-40",
+        "id": "2025-40",
         "teamId": "curry-college-colonels",
         "franchiseId": 40,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-41",
+        "id": "2025-41",
         "teamId": "uconn-huskies",
         "franchiseId": 41,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-43",
+        "id": "2025-43",
         "teamId": "yale-bulldogs",
         "franchiseId": 43,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-46",
+        "id": "2025-46",
         "teamId": "georgetown-hoyas",
         "franchiseId": 46,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-47",
+        "id": "2025-47",
         "teamId": "howard-bison",
         "franchiseId": 47,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-48",
+        "id": "2025-48",
         "teamId": "delaware-blue-hens",
         "franchiseId": 48,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-49",
+        "id": "2025-49",
         "teamId": "dubuque-spartans",
         "franchiseId": 49,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-50",
+        "id": "2025-50",
         "teamId": "florida-am-rattlers",
         "franchiseId": 50,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-52",
+        "id": "2025-52",
         "teamId": "florida-state-seminoles",
         "franchiseId": 52,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-55",
+        "id": "2025-55",
         "teamId": "jacksonville-state-gamecocks",
         "franchiseId": 55,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-56",
+        "id": "2025-56",
         "teamId": "stetson-hatters",
         "franchiseId": 56,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-57",
+        "id": "2025-57",
         "teamId": "florida-gators",
         "franchiseId": 57,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-58",
+        "id": "2025-58",
         "teamId": "south-florida-bulls",
         "franchiseId": 58,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-59",
+        "id": "2025-59",
         "teamId": "georgia-tech-yellow-jackets",
         "franchiseId": 59,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-60",
+        "id": "2025-60",
         "teamId": "morehouse-college-maroon-tigers",
         "franchiseId": 60,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-61",
+        "id": "2025-61",
         "teamId": "georgia-bulldogs",
         "franchiseId": 61,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-62",
+        "id": "2025-62",
         "teamId": "hawaii-rainbow-warriors",
         "franchiseId": 62,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-63",
+        "id": "2025-63",
         "teamId": "buena-vista-beavers",
         "franchiseId": 63,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-65",
+        "id": "2025-65",
         "teamId": "grinnell-pioneers",
         "franchiseId": 65,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-66",
+        "id": "2025-66",
         "teamId": "iowa-state-cyclones",
         "franchiseId": 66,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-67",
+        "id": "2025-67",
         "teamId": "luther-norse",
         "franchiseId": 67,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-68",
+        "id": "2025-68",
         "teamId": "boise-state-broncos",
         "franchiseId": 68,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-70",
+        "id": "2025-70",
         "teamId": "idaho-vandals",
         "franchiseId": 70,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-72",
+        "id": "2025-72",
         "teamId": "elmhurst-bluejays",
         "franchiseId": 72,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-74",
+        "id": "2025-74",
         "teamId": "millikin-big-blue",
         "franchiseId": 74,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-75",
+        "id": "2025-75",
         "teamId": "north-park-vikings",
         "franchiseId": 75,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-77",
+        "id": "2025-77",
         "teamId": "northwestern-wildcats",
         "franchiseId": 77,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-79",
+        "id": "2025-79",
         "teamId": "southern-illinois-salukis",
         "franchiseId": 79,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-80",
+        "id": "2025-80",
         "teamId": "chicago-maroons",
         "franchiseId": 80,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-81",
-        "teamId": "springfield-college-pride",
+        "id": "2025-81",
+        "teamId": "springfield-pride",
         "franchiseId": 81,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-83",
+        "id": "2025-83",
         "teamId": "depauw-tigers",
         "franchiseId": 83,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-84",
+        "id": "2025-84",
         "teamId": "indiana-hoosiers",
         "franchiseId": 84,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-86",
+        "id": "2025-86",
         "teamId": "rose-hulman-fightin-engineers",
         "franchiseId": 86,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-87",
+        "id": "2025-87",
         "teamId": "notre-dame-fighting-irish",
         "franchiseId": 87,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-89",
+        "id": "2025-89",
         "teamId": "wabash-college-little-giants",
         "franchiseId": 89,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-90",
+        "id": "2025-90",
         "teamId": "pittsburg-state-gorillas",
         "franchiseId": 90,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-93",
+        "id": "2025-93",
         "teamId": "murray-state-racers",
         "franchiseId": 93,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-95",
+        "id": "2025-95",
         "teamId": "pikeville-bears",
         "franchiseId": 95,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-96",
+        "id": "2025-96",
         "teamId": "kentucky-wildcats",
         "franchiseId": 96,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-97",
+        "id": "2025-97",
         "teamId": "louisville-cardinals",
         "franchiseId": 97,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-98",
+        "id": "2025-98",
         "teamId": "western-kentucky-hilltoppers",
         "franchiseId": 98,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-99",
+        "id": "2025-99",
         "teamId": "lsu-tigers",
         "franchiseId": 99,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-101",
+        "id": "2025-101",
         "teamId": "eureka-college-red-devils",
         "franchiseId": 101,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-103",
+        "id": "2025-103",
         "teamId": "boston-college-eagles",
         "franchiseId": 103,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-107",
+        "id": "2025-107",
         "teamId": "holy-cross-crusaders",
         "franchiseId": 107,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-108",
+        "id": "2025-108",
         "teamId": "harvard-crimson",
         "franchiseId": 108,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-109",
+        "id": "2025-109",
         "teamId": "mit-engineers",
         "franchiseId": 109,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-110",
+        "id": "2025-110",
         "teamId": "mass-maritime-buccaneers",
         "franchiseId": 110,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-112",
-        "teamId": "tufts-university-jumbos",
+        "id": "2025-112",
+        "teamId": "tufts-jumbos",
         "franchiseId": 112,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-113",
+        "id": "2025-113",
         "teamId": "massachusetts-minutemen",
         "franchiseId": 113,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-114",
+        "id": "2025-114",
         "teamId": "fitchburg-state-falcons",
         "franchiseId": 114,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-118",
-        "teamId": "johns-hopkins-blue-jays",
+        "id": "2025-118",
+        "teamId": "johns-hopkins-university-blue-jays",
         "franchiseId": 118,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-119",
+        "id": "2025-119",
         "teamId": "towson-tigers",
         "franchiseId": 119,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-120",
+        "id": "2025-120",
         "teamId": "maryland-terrapins",
         "franchiseId": 120,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-121",
+        "id": "2025-121",
         "teamId": "bates-college-bobcats",
         "franchiseId": 121,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-124",
+        "id": "2025-124",
         "teamId": "augsburg-auggies",
         "franchiseId": 124,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-125",
+        "id": "2025-125",
         "teamId": "grand-valley-state-lakers",
         "franchiseId": 125,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-126",
+        "id": "2025-126",
         "teamId": "kalamazoo-hornets",
         "franchiseId": 126,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-127",
+        "id": "2025-127",
         "teamId": "michigan-state-spartans",
         "franchiseId": 127,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-128",
+        "id": "2025-128",
         "teamId": "northern-michigan-wildcats",
         "franchiseId": 128,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-129",
-        "teamId": "saginaw-valley-cardinals",
+        "id": "2025-129",
+        "teamId": "saginaw-valley-state-cardinals",
         "franchiseId": 129,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-130",
+        "id": "2025-130",
         "teamId": "michigan-wolverines",
         "franchiseId": 130,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-131",
+        "id": "2025-131",
         "teamId": "wayne-state-mi-warriors",
         "franchiseId": 131,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-132",
+        "id": "2025-132",
         "teamId": "bemidji-state-beavers",
         "franchiseId": 132,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-133",
-        "teamId": "st-olaf-college-oles",
+        "id": "2025-133",
+        "teamId": "st-olaf-oles",
         "franchiseId": 133,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-134",
+        "id": "2025-134",
         "teamId": "minnesota-duluth-bulldogs",
         "franchiseId": 134,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-135",
+        "id": "2025-135",
         "teamId": "minnesota-golden-gophers",
         "franchiseId": 135,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-137",
+        "id": "2025-137",
         "teamId": "missouri-western-griffons",
         "franchiseId": 137,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-138",
+        "id": "2025-138",
         "teamId": "northwest-missouri-state-bearcats",
         "franchiseId": 138,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-142",
+        "id": "2025-142",
         "teamId": "missouri-tigers",
         "franchiseId": 142,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-143",
-        "teamId": "washington-missouri-bears",
+        "id": "2025-143",
+        "teamId": "washington-university-st-louis-bears",
         "franchiseId": 143,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-145",
+        "id": "2025-145",
         "teamId": "ole-miss-rebels",
         "franchiseId": 145,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-146",
+        "id": "2025-146",
         "teamId": "grove-city-college-wolverines",
         "franchiseId": 146,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-147",
+        "id": "2025-147",
         "teamId": "montana-state-bobcats",
         "franchiseId": 147,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-149",
+        "id": "2025-148",
+        "teamId": "montana-tech-orediggers",
+        "franchiseId": 148,
+        "season": 2025
+    },
+    {
+        "id": "2025-149",
         "teamId": "montana-grizzlies",
         "franchiseId": 149,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-150",
+        "id": "2025-150",
         "teamId": "duke-blue-devils",
         "franchiseId": 150,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-151",
+        "id": "2025-151",
         "teamId": "east-carolina-pirates",
         "franchiseId": 151,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-152",
+        "id": "2025-152",
         "teamId": "nc-state-wolfpack",
         "franchiseId": 152,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-153",
+        "id": "2025-153",
         "teamId": "north-carolina-tar-heels",
         "franchiseId": 153,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-154",
+        "id": "2025-154",
         "teamId": "wake-forest-demon-deacons",
         "franchiseId": 154,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-155",
+        "id": "2025-155",
         "teamId": "north-dakota-fighting-hawks",
         "franchiseId": 155,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-158",
+        "id": "2025-158",
         "teamId": "nebraska-cornhuskers",
         "franchiseId": 158,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-159",
+        "id": "2025-159",
         "teamId": "dartmouth-big-green",
         "franchiseId": 159,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-160",
+        "id": "2025-160",
         "teamId": "new-hampshire-wildcats",
         "franchiseId": 160,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-162",
+        "id": "2025-162",
         "teamId": "hamline-pipers",
         "franchiseId": 162,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-163",
+        "id": "2025-163",
         "teamId": "princeton-tigers",
         "franchiseId": 163,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-164",
+        "id": "2025-164",
         "teamId": "rutgers-scarlet-knights",
         "franchiseId": 164,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-166",
+        "id": "2025-166",
         "teamId": "new-mexico-state-aggies",
         "franchiseId": 166,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-167",
+        "id": "2025-167",
         "teamId": "new-mexico-lobos",
         "franchiseId": 167,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-171",
+        "id": "2025-171",
         "teamId": "columbia-lions",
         "franchiseId": 171,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-172",
+        "id": "2025-172",
         "teamId": "cornell-big-red",
         "franchiseId": 172,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-173",
+        "id": "2025-173",
         "teamId": "hartwick-hawks",
         "franchiseId": 173,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-174",
-        "teamId": "hobart-statesmen",
+        "id": "2025-174",
+        "teamId": "hobart-college-statesmen",
         "franchiseId": 174,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-175",
+        "id": "2025-175",
         "teamId": "ithaca-bombers",
         "franchiseId": 175,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-183",
+        "id": "2025-183",
         "teamId": "syracuse-orange",
         "franchiseId": 183,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-184",
-        "teamId": "rochester-yellow-jackets",
+        "id": "2025-184",
+        "teamId": "university-of-rochester-ny-yellow-jackets",
         "franchiseId": 184,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-188",
+        "id": "2025-188",
         "teamId": "baldwin-wallace-yellow-jackets",
         "franchiseId": 188,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-189",
+        "id": "2025-189",
         "teamId": "bowling-green-falcons",
         "franchiseId": 189,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-190",
+        "id": "2025-190",
         "teamId": "defiance-yellow-jackets",
         "franchiseId": 190,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-191",
+        "id": "2025-191",
         "teamId": "heidelberg-student-princes",
         "franchiseId": 191,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-193",
+        "id": "2025-193",
         "teamId": "miami-oh-redhawks",
         "franchiseId": 193,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-194",
+        "id": "2025-194",
         "teamId": "ohio-state-buckeyes",
         "franchiseId": 194,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-195",
+        "id": "2025-195",
         "teamId": "ohio-bobcats",
         "franchiseId": 195,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-196",
+        "id": "2025-196",
         "teamId": "northeastern-state-riverhawks",
         "franchiseId": 196,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-197",
+        "id": "2025-197",
         "teamId": "oklahoma-state-cowboys",
         "franchiseId": 197,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-199",
-        "teamId": "southeastern-oklahoma-savage-storm",
+        "id": "2025-199",
+        "teamId": "southeastern-oklahoma-state-savage-storm",
         "franchiseId": 199,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-200",
+        "id": "2025-200",
         "teamId": "southern-nazarene-crimson-storm",
         "franchiseId": 200,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-201",
+        "id": "2025-201",
         "teamId": "oklahoma-sooners",
         "franchiseId": 201,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-202",
+        "id": "2025-202",
         "teamId": "tulsa-golden-hurricane",
         "franchiseId": 202,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-203",
+        "id": "2025-203",
         "teamId": "linfield-wildcats",
         "franchiseId": 203,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-204",
+        "id": "2025-204",
         "teamId": "oregon-state-beavers",
         "franchiseId": 204,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-205",
+        "id": "2025-205",
         "teamId": "pacific-or-boxers",
         "franchiseId": 205,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-209",
-        "teamId": "lock-haven-bald-eagles",
+        "id": "2025-209",
+        "teamId": "lock-haven-university-bald-eagles",
         "franchiseId": 209,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-210",
-        "teamId": "millersville-university-marauders",
+        "id": "2025-210",
+        "teamId": "millersville-marauders",
         "franchiseId": 210,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-213",
+        "id": "2025-213",
         "teamId": "penn-state-nittany-lions",
         "franchiseId": 213,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-215",
+        "id": "2025-215",
         "teamId": "slippery-rock-the-rock",
         "franchiseId": 215,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-216",
-        "teamId": "susquehanna-university-river-hawks",
+        "id": "2025-216",
+        "teamId": "susquehanna-river-hawks",
         "franchiseId": 216,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-218",
+        "id": "2025-218",
         "teamId": "temple-owls",
         "franchiseId": 218,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-219",
+        "id": "2025-219",
         "teamId": "pennsylvania-quakers",
         "franchiseId": 219,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-221",
+        "id": "2025-221",
         "teamId": "pittsburgh-panthers",
         "franchiseId": 221,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-222",
+        "id": "2025-222",
         "teamId": "villanova-wildcats",
         "franchiseId": 222,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-223",
+        "id": "2025-223",
         "teamId": "west-chester-golden-rams",
         "franchiseId": 223,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-225",
+        "id": "2025-225",
         "teamId": "brown-bears",
         "franchiseId": 225,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-227",
+        "id": "2025-227",
         "teamId": "rhode-island-rams",
         "franchiseId": 227,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-228",
+        "id": "2025-228",
         "teamId": "clemson-tigers",
         "franchiseId": 228,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-231",
+        "id": "2025-231",
         "teamId": "furman-paladins",
         "franchiseId": 231,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-233",
+        "id": "2025-233",
         "teamId": "south-dakota-coyotes",
         "franchiseId": 233,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-235",
+        "id": "2025-235",
         "teamId": "memphis-tigers",
         "franchiseId": 235,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-236",
+        "id": "2025-236",
         "teamId": "chattanooga-mocs",
         "franchiseId": 236,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-237",
-        "teamId": "union-garnet-chargers",
+        "id": "2025-237",
+        "teamId": "union-ny-garnet-chargers",
         "franchiseId": 237,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-238",
+        "id": "2025-238",
         "teamId": "vanderbilt-commodores",
         "franchiseId": 238,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-239",
+        "id": "2025-239",
         "teamId": "baylor-bears",
         "franchiseId": 239,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-241",
+        "id": "2025-241",
         "teamId": "mcmurry-war-hawks",
         "franchiseId": 241,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-242",
+        "id": "2025-242",
         "teamId": "rice-owls",
         "franchiseId": 242,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-245",
+        "id": "2025-245",
         "teamId": "texas-am-aggies",
         "franchiseId": 245,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-246",
+        "id": "2025-246",
         "teamId": "juniata-eagles",
         "franchiseId": 246,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-247",
+        "id": "2025-247",
         "teamId": "kings-college-pa-monarchs",
         "franchiseId": 247,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-248",
+        "id": "2025-248",
         "teamId": "houston-cougars",
         "franchiseId": 248,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-249",
+        "id": "2025-249",
         "teamId": "north-texas-mean-green",
         "franchiseId": 249,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-251",
+        "id": "2025-251",
         "teamId": "texas-longhorns",
         "franchiseId": 251,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-252",
+        "id": "2025-252",
         "teamId": "byu-cougars",
         "franchiseId": 252,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-253",
+        "id": "2025-253",
         "teamId": "southern-utah-thunderbirds",
         "franchiseId": 253,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-254",
+        "id": "2025-254",
         "teamId": "utah-utes",
         "franchiseId": 254,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-255",
+        "id": "2025-255",
         "teamId": "knox-college-prairie-fire",
         "franchiseId": 255,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-256",
+        "id": "2025-256",
         "teamId": "james-madison-dukes",
         "franchiseId": 256,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-257",
+        "id": "2025-257",
         "teamId": "richmond-spiders",
         "franchiseId": 257,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-258",
+        "id": "2025-258",
         "teamId": "virginia-cavaliers",
         "franchiseId": 258,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-259",
+        "id": "2025-259",
         "teamId": "virginia-tech-hokies",
         "franchiseId": 259,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-262",
+        "id": "2025-262",
         "teamId": "lake-forest-foresters",
         "franchiseId": 262,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-263",
+        "id": "2025-263",
         "teamId": "loras-college-duhawks",
         "franchiseId": 263,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-264",
+        "id": "2025-264",
         "teamId": "washington-huskies",
         "franchiseId": 264,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-265",
+        "id": "2025-265",
         "teamId": "washington-state-cougars",
         "franchiseId": 265,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-266",
+        "id": "2025-266",
         "teamId": "beloit-college-buccaneers",
         "franchiseId": 266,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-267",
+        "id": "2025-267",
         "teamId": "southeastern-university-fires",
         "franchiseId": 267,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-268",
-        "teamId": "lawrence-vikings",
+        "id": "2025-268",
+        "teamId": "lawrence-university-vikings",
         "franchiseId": 268,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-271",
+        "id": "2025-271",
         "teamId": "wisconsin-oshkosh-titans",
         "franchiseId": 271,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-272",
+        "id": "2025-272",
         "teamId": "wisconsin-platteville-pioneers",
         "franchiseId": 272,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-275",
+        "id": "2025-274",
+        "teamId": "maine-maritime-mariners",
+        "franchiseId": 274,
+        "season": 2025
+    },
+    {
+        "id": "2025-275",
         "teamId": "wisconsin-badgers",
         "franchiseId": 275,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-276",
+        "id": "2025-276",
         "teamId": "marshall-thundering-herd",
         "franchiseId": 276,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-277",
+        "id": "2025-277",
         "teamId": "west-virginia-mountaineers",
         "franchiseId": 277,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-278",
+        "id": "2025-278",
         "teamId": "fresno-state-bulldogs",
         "franchiseId": 278,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-282",
+        "id": "2025-282",
         "teamId": "indiana-state-sycamores",
         "franchiseId": 282,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-284",
+        "id": "2025-284",
         "teamId": "stonehill-skyhawks",
         "franchiseId": 284,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-286",
-        "teamId": "nc-wesleyan-battling-bishops",
+        "id": "2025-286",
+        "teamId": "north-carolina-wesleyan-battling-bishops",
         "franchiseId": 286,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-290",
+        "id": "2025-290",
         "teamId": "georgia-southern-eagles",
         "franchiseId": 290,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-291",
+        "id": "2025-291",
         "teamId": "methodist-monarchs",
         "franchiseId": 291,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-293",
+        "id": "2025-292",
+        "teamId": "ut-rio-grande-valley-vaqueros",
+        "franchiseId": 292,
+        "season": 2025
+    },
+    {
+        "id": "2025-293",
         "teamId": "castleton-spartans",
         "franchiseId": 293,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-295",
+        "id": "2025-295",
         "teamId": "old-dominion-monarchs",
         "franchiseId": 295,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-297",
+        "id": "2025-297",
         "teamId": "hampden-sydney-tigers",
         "franchiseId": 297,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-301",
+        "id": "2025-301",
         "teamId": "san-diego-toreros",
         "franchiseId": 301,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-302",
+        "id": "2025-302",
         "teamId": "uc-davis-aggies",
         "franchiseId": 302,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-304",
+        "id": "2025-304",
         "teamId": "idaho-state-bengals",
         "franchiseId": 304,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-306",
+        "id": "2025-306",
         "teamId": "illinois-wesleyan-titans",
         "franchiseId": 306,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-308",
+        "id": "2025-308",
         "teamId": "ashland-eagles",
         "franchiseId": 308,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-309",
+        "id": "2025-309",
         "teamId": "louisiana-ragin-cajuns",
         "franchiseId": 309,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-311",
+        "id": "2025-311",
         "teamId": "maine-black-bears",
         "franchiseId": 311,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-316",
+        "id": "2025-316",
         "teamId": "dickinson-state-blue-hawks",
         "franchiseId": 316,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-317",
+        "id": "2025-317",
         "teamId": "marietta-pioneers",
         "franchiseId": 317,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-319",
+        "id": "2025-319",
         "teamId": "oklahoma-baptist-bison",
         "franchiseId": 319,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-322",
+        "id": "2025-322",
         "teamId": "lafayette-leopards",
         "franchiseId": 322,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-323",
+        "id": "2025-323",
         "teamId": "moravian-greyhounds",
         "franchiseId": 323,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-324",
+        "id": "2025-324",
         "teamId": "coastal-carolina-chanticleers",
         "franchiseId": 324,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-326",
+        "id": "2025-326",
         "teamId": "texas-state-bobcats",
         "franchiseId": 326,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-328",
+        "id": "2025-328",
         "teamId": "utah-state-aggies",
         "franchiseId": 328,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-330",
+        "id": "2025-330",
         "teamId": "virginia-state-trojans",
         "franchiseId": 330,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-331",
+        "id": "2025-331",
         "teamId": "eastern-washington-eagles",
         "franchiseId": 331,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-332",
+        "id": "2025-332",
         "teamId": "muskingum-fighting-muskies",
         "franchiseId": 332,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-333",
+        "id": "2025-333",
         "teamId": "alabama-crimson-tide",
         "franchiseId": 333,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-336",
-        "teamId": "wesleyan-university-cardinals",
+        "id": "2025-336",
+        "teamId": "wesleyan-university-ct-cardinals",
         "franchiseId": 336,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-338",
+        "id": "2025-338",
         "teamId": "kennesaw-state-owls",
         "franchiseId": 338,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-340",
+        "id": "2025-340",
         "teamId": "bowdoin-polar-bears",
         "franchiseId": 340,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-341",
+        "id": "2025-341",
         "teamId": "frostburg-state-bobcats",
         "franchiseId": 341,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-344",
+        "id": "2025-344",
         "teamId": "mississippi-state-bulldogs",
         "franchiseId": 344,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-348",
+        "id": "2025-348",
         "teamId": "hamilton-continentals",
         "franchiseId": 348,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-349",
+        "id": "2025-349",
         "teamId": "army-black-knights",
         "franchiseId": 349,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-351",
+        "id": "2025-351",
         "teamId": "wingate-bulldogs",
         "franchiseId": 351,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-352",
+        "id": "2025-352",
         "teamId": "kenyon-owls",
         "franchiseId": 352,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-354",
+        "id": "2025-354",
         "teamId": "olivet-college-comets",
         "franchiseId": 354,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-356",
+        "id": "2025-356",
         "teamId": "illinois-fighting-illini",
         "franchiseId": 356,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-359",
+        "id": "2025-359",
         "teamId": "otterbein-cardinals",
         "franchiseId": 359,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-363",
-        "teamId": "principia-college-panthers",
-        "franchiseId": 363,
-        "season": 2022
-    },
-    {
-        "id": "2022-365",
+        "id": "2025-365",
         "teamId": "alfred-saxons",
         "franchiseId": 365,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-366",
+        "id": "2025-366",
         "teamId": "ferrum-panthers",
         "franchiseId": 366,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-367",
+        "id": "2025-367",
         "teamId": "gannon-golden-knights",
         "franchiseId": 367,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-374",
-        "teamId": "st-john-fisher-college-cardinals",
+        "id": "2025-374",
+        "teamId": "st-john-fisher-university-cardinals",
         "franchiseId": 374,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-375",
+        "id": "2025-375",
         "teamId": "st-scholastica-saints",
         "franchiseId": 375,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-379",
+        "id": "2025-379",
         "teamId": "umass-dartmouth-corsairs",
         "franchiseId": 379,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-386",
-        "teamId": "trinity-university-tx-tigers",
+        "id": "2025-386",
+        "teamId": "trinity-tx-tigers",
         "franchiseId": 386,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-388",
+        "id": "2025-388",
         "teamId": "lebanon-valley-flying-dutchmen",
         "franchiseId": 388,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-389",
+        "id": "2025-389",
         "teamId": "upper-iowa-peacocks",
         "franchiseId": 389,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-390",
-        "teamId": "utica-college-pioneers",
+        "id": "2025-390",
+        "teamId": "utica-pioneers",
         "franchiseId": 390,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-391",
+        "id": "2025-391",
         "teamId": "oberlin-yeomen",
         "franchiseId": 391,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-395",
-        "teamId": "st-augustines-falcons",
-        "franchiseId": 395,
-        "season": 2022
-    },
-    {
-        "id": "2022-396",
-        "teamId": "wheaton-college-illinois-thunder",
+        "id": "2025-396",
+        "teamId": "wheaton-thunder",
         "franchiseId": 396,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-398",
+        "id": "2025-398",
         "teamId": "wilkes-university-colonels",
         "franchiseId": 398,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-399",
-        "teamId": "albany-great-danes",
+        "id": "2025-399",
+        "teamId": "ualbany-great-danes",
         "franchiseId": 399,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-402",
+        "id": "2025-402",
         "teamId": "worcester-state-college-lancers",
         "franchiseId": 402,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-409",
-        "teamId": "concordia-wi-falcons",
+        "id": "2025-409",
+        "teamId": "concordia-wisconsin-falcons",
         "franchiseId": 409,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-411",
+        "id": "2025-411",
         "teamId": "chapman-university-panthers",
         "franchiseId": 411,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-415",
-        "teamId": "george-fox-university-bruins",
+        "id": "2025-415",
+        "teamId": "george-fox-bruins",
         "franchiseId": 415,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-417",
+        "id": "2025-417",
         "teamId": "gallaudet-bison",
         "franchiseId": 417,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-418",
+        "id": "2025-418",
         "teamId": "hendrix-college-warriors",
         "franchiseId": 418,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-421",
-        "teamId": "maranatha-baptist-college-sabercats",
-        "franchiseId": 421,
-        "season": 2022
+        "id": "2025-419",
+        "teamId": "mid-america-nazarene-mid-am-nazarene",
+        "franchiseId": 419,
+        "season": 2025
     },
     {
-        "id": "2022-424",
-        "teamId": "capital-university-comets",
+        "id": "2025-424",
+        "teamId": "capital-comets",
         "franchiseId": 424,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-425",
+        "id": "2025-425",
         "teamId": "northern-state-wolves",
         "franchiseId": 425,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-426",
+        "id": "2025-426",
         "teamId": "mount-union-raiders",
         "franchiseId": 426,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-427",
+        "id": "2025-427",
         "teamId": "ohio-northern-polar-bears",
         "franchiseId": 427,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-433",
-        "teamId": "westminster-college-mo-blue-jays",
+        "id": "2025-433",
+        "teamId": "westminster-mo-blue-jays",
         "franchiseId": 433,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-437",
-        "teamId": "lake-erie-college-storm",
+        "id": "2025-437",
+        "teamId": "lake-erie-storm",
         "franchiseId": 437,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-446",
-        "teamId": "martin-luther-college-knights",
+        "id": "2025-446",
+        "teamId": "martin-luther-knights",
         "franchiseId": 446,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-452",
+        "id": "2025-452",
         "teamId": "endicott-college-gulls",
         "franchiseId": 452,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-455",
+        "id": "2025-455",
         "teamId": "west-virginia-wesleyan-bobcats",
         "franchiseId": 455,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-471",
-        "teamId": "stevenson-university-mustangs",
+        "id": "2025-471",
+        "teamId": "stevenson-mustangs",
         "franchiseId": 471,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-481",
-        "teamId": "mount-ida-college-mustangs",
-        "franchiseId": 481,
-        "season": 2022
-    },
-    {
-        "id": "2022-487",
-        "teamId": "bacone-college-bacone",
-        "franchiseId": 487,
-        "season": 2022
-    },
-    {
-        "id": "2022-488",
+        "id": "2025-488",
         "teamId": "baker-university-baker",
         "franchiseId": 488,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-490",
+        "id": "2025-490",
         "teamId": "benedict-college-tigers",
         "franchiseId": 490,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-492",
+        "id": "2025-492",
         "teamId": "bethany-ks-bethany-ks",
         "franchiseId": 492,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-495",
-        "teamId": "bluefield-college-ramblin-rams",
+        "id": "2025-495",
+        "teamId": "bluefield-university-ramblin-rams",
         "franchiseId": 495,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-509",
-        "teamId": "crown-polars",
+        "id": "2025-507",
+        "teamId": "concordia-nebraska-clippers",
+        "franchiseId": 507,
+        "season": 2025
+    },
+    {
+        "id": "2025-509",
+        "teamId": "crown-college-polars",
         "franchiseId": 509,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-510",
+        "id": "2025-510",
         "teamId": "culver-stockton-wildcats",
         "franchiseId": 510,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-511",
-        "teamId": "cumberland-college-indians",
+        "id": "2025-511",
+        "teamId": "cumberland-ky-indians",
         "franchiseId": 511,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-512",
-        "teamId": "dakota-state-trojans",
+        "id": "2025-512",
+        "teamId": "dakota-state-university-trojans",
         "franchiseId": 512,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-513",
+        "id": "2025-513",
         "teamId": "dakota-wesleyan-tigers",
         "franchiseId": 513,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-530",
+        "id": "2025-527",
+        "teamId": "friends-university-friends",
+        "franchiseId": 527,
+        "season": 2025
+    },
+    {
+        "id": "2025-530",
         "teamId": "graceland-university-graceland",
         "franchiseId": 530,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-535",
+        "id": "2025-535",
         "teamId": "haskell-indian-nations-jayhawks",
         "franchiseId": 535,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-547",
+        "id": "2025-536",
+        "teamId": "hastings-college-broncos",
+        "franchiseId": 536,
+        "season": 2025
+    },
+    {
+        "id": "2025-547",
         "teamId": "kansas-wesleyan-university-ks-wesleyan",
         "franchiseId": 547,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-548",
+        "id": "2025-548",
         "teamId": "lagrange-college-panthers",
         "franchiseId": 548,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-559",
+        "id": "2025-559",
         "teamId": "university-of-mary-marauders",
         "franchiseId": 559,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-561",
+        "id": "2025-561",
         "teamId": "mayville-state-comets",
         "franchiseId": 561,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-565",
+        "id": "2025-565",
         "teamId": "midland-university-midland-lutheran",
         "franchiseId": 565,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-568",
+        "id": "2025-568",
         "teamId": "minot-state-beavers",
         "franchiseId": 568,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-583",
-        "teamId": "univ-of-northwestern-st-paul-eagles",
+        "id": "2025-583",
+        "teamId": "northwestern-mn-eagles",
         "franchiseId": 583,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-587",
-        "teamId": "notre-dame-college-falcons",
-        "franchiseId": 587,
-        "season": 2022
+        "id": "2025-596",
+        "teamId": "peru-state-college-peru-state",
+        "franchiseId": 596,
+        "season": 2025
     },
     {
-        "id": "2022-597",
-        "teamId": "presentation-college-presentation",
-        "franchiseId": 597,
-        "season": 2022
-    },
-    {
-        "id": "2022-599",
+        "id": "2025-599",
         "teamId": "robert-morris-il-lakers",
         "franchiseId": 599,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-611",
+        "id": "2025-611",
         "teamId": "seton-hill-griffins",
         "franchiseId": 611,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-613",
+        "id": "2025-613",
         "teamId": "south-dakota-mines-hardrockers",
         "franchiseId": 613,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-616",
+        "id": "2025-616",
         "teamId": "southwestern-college-moundbuilders",
         "franchiseId": 616,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-618",
+        "id": "2025-618",
         "teamId": "sterling-college-sterling-ks",
         "franchiseId": 618,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-620",
+        "id": "2025-619",
+        "teamId": "tabor-college-tabor",
+        "franchiseId": 619,
+        "season": 2025
+    },
+    {
+        "id": "2025-620",
         "teamId": "taylor-trojans",
         "franchiseId": 620,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-625",
-        "teamId": "tiffin-university-dragons",
-        "franchiseId": 625,
-        "season": 2022
-    },
-    {
-        "id": "2022-628",
+        "id": "2025-628",
         "teamId": "valley-city-state-valley-city-st",
         "franchiseId": 628,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-630",
+        "id": "2025-630",
         "teamId": "wayland-baptist-pioneers",
         "franchiseId": 630,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2000",
+        "id": "2025-2000",
         "teamId": "abilene-christian-wildcats",
         "franchiseId": 2000,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2001",
+        "id": "2025-2001",
         "teamId": "adams-state-grizzlies",
         "franchiseId": 2001,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2003",
+        "id": "2025-2003",
         "teamId": "adrian-bulldogs",
         "franchiseId": 2003,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2005",
+        "id": "2025-2005",
         "teamId": "air-force-falcons",
         "franchiseId": 2005,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2006",
+        "id": "2025-2006",
         "teamId": "akron-zips",
         "franchiseId": 2006,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2010",
+        "id": "2025-2010",
         "teamId": "alabama-am-bulldogs",
         "franchiseId": 2010,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2011",
+        "id": "2025-2011",
         "teamId": "alabama-state-hornets",
         "franchiseId": 2011,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2013",
+        "id": "2025-2013",
         "teamId": "albany-state-golden-rams",
         "franchiseId": 2013,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2015",
+        "id": "2025-2015",
         "teamId": "albright-lions",
         "franchiseId": 2015,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2016",
+        "id": "2025-2016",
         "teamId": "alcorn-state-braves",
         "franchiseId": 2016,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2017",
-        "teamId": "alderson-broaddus-battlers",
-        "franchiseId": 2017,
-        "season": 2022
-    },
-    {
-        "id": "2022-2018",
+        "id": "2025-2018",
         "teamId": "allegheny-gators",
         "franchiseId": 2018,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2019",
+        "id": "2025-2019",
         "teamId": "allen-yellow-jackets",
         "franchiseId": 2019,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2022",
+        "id": "2025-2022",
         "teamId": "american-international-yellow-jackets",
         "franchiseId": 2022,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2023",
+        "id": "2025-2023",
         "teamId": "anderson-in-ravens",
         "franchiseId": 2023,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2025",
+        "id": "2025-2025",
         "teamId": "angelo-state-rams",
         "franchiseId": 2025,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2026",
-        "teamId": "appalachian-state-mountaineers",
+        "id": "2025-2026",
+        "teamId": "app-state-mountaineers",
         "franchiseId": 2026,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2028",
+        "id": "2025-2028",
         "teamId": "arkansas-monticello-boll-weevils",
         "franchiseId": 2028,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2029",
+        "id": "2025-2029",
         "teamId": "arkansas-pine-bluff-golden-lions",
         "franchiseId": 2029,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2032",
+        "id": "2025-2032",
         "teamId": "arkansas-state-red-wolves",
         "franchiseId": 2032,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2033",
+        "id": "2025-2033",
         "teamId": "arkansas-tech-wonder-boys",
         "franchiseId": 2033,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2038",
+        "id": "2025-2038",
         "teamId": "assumption-greyhounds",
         "franchiseId": 2038,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2042",
-        "teamId": "augustana-college-il-vikings",
+        "id": "2025-2042",
+        "teamId": "augustana-il-vikings",
         "franchiseId": 2042,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2043",
+        "id": "2025-2043",
         "teamId": "augustana-university-sd-vikings",
         "franchiseId": 2043,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2044",
+        "id": "2025-2044",
         "teamId": "aurora-spartans",
         "franchiseId": 2044,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2045",
-        "teamId": "austin-college-roos",
+        "id": "2025-2045",
+        "teamId": "austin-roos",
         "franchiseId": 2045,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2046",
+        "id": "2025-2046",
         "teamId": "austin-peay-governors",
         "franchiseId": 2046,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2047",
+        "id": "2025-2047",
         "teamId": "averett-cougars",
         "franchiseId": 2047,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2048",
+        "id": "2025-2048",
         "teamId": "avila-college-eagles",
         "franchiseId": 2048,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2049",
-        "teamId": "azusa-pacific-cougars",
-        "franchiseId": 2049,
-        "season": 2022
-    },
-    {
-        "id": "2022-2050",
+        "id": "2025-2050",
         "teamId": "ball-state-cardinals",
         "franchiseId": 2050,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2056",
-        "teamId": "belhaven-university-blazers",
+        "id": "2025-2056",
+        "teamId": "belhaven-blazers",
         "franchiseId": 2056,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2060",
+        "id": "2025-2060",
         "teamId": "bentley-falcons",
         "franchiseId": 2060,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2062",
+        "id": "2025-2062",
         "teamId": "bethany-wv-bison",
         "franchiseId": 2062,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2064",
+        "id": "2025-2064",
         "teamId": "bethel-tn-wildcats",
         "franchiseId": 2064,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2065",
+        "id": "2025-2065",
         "teamId": "bethune-cookman-wildcats",
         "franchiseId": 2065,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2069",
+        "id": "2025-2069",
         "teamId": "black-hills-state-yellow-jackets",
         "franchiseId": 2069,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2070",
-        "teamId": "blackburn-beavers",
-        "franchiseId": 2070,
-        "season": 2022
-    },
-    {
-        "id": "2022-2071",
+        "id": "2025-2071",
         "teamId": "bloomsburg-huskies",
         "franchiseId": 2071,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2074",
+        "id": "2025-2074",
         "teamId": "bluffton-beavers",
         "franchiseId": 2074,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2075",
+        "id": "2025-2075",
         "teamId": "bowie-state-bulldogs",
         "franchiseId": 2075,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2079",
-        "teamId": "bridgewater-college-va-eagles",
+        "id": "2025-2079",
+        "teamId": "bridgewater-va-eagles",
         "franchiseId": 2079,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2080",
+        "id": "2025-2080",
         "teamId": "british-columbia-british-col",
         "franchiseId": 2080,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2083",
+        "id": "2025-2083",
         "teamId": "bucknell-bison",
         "franchiseId": 2083,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2084",
+        "id": "2025-2084",
         "teamId": "buffalo-bulls",
         "franchiseId": 2084,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2085",
+        "id": "2025-2085",
         "teamId": "buffalo-state-bengals",
         "franchiseId": 2085,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2086",
+        "id": "2025-2086",
         "teamId": "butler-bulldogs",
         "franchiseId": 2086,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2094",
+        "id": "2025-2094",
         "teamId": "california-lutheran-kingsmen",
         "franchiseId": 2094,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2097",
+        "id": "2025-2097",
         "teamId": "campbell-fighting-camels",
         "franchiseId": 2097,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2101",
+        "id": "2025-2098",
+        "teamId": "campbellsville-tigers",
+        "franchiseId": 2098,
+        "season": 2025
+    },
+    {
+        "id": "2025-2101",
         "teamId": "carleton-college-knights",
         "franchiseId": 2101,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2102",
+        "id": "2025-2102",
         "teamId": "carnegie-mellon-tartans",
         "franchiseId": 2102,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2105",
+        "id": "2025-2104",
+        "teamId": "carroll-mt-fighting-saints",
+        "franchiseId": 2104,
+        "season": 2025
+    },
+    {
+        "id": "2025-2105",
         "teamId": "carson-newman-eagles",
         "franchiseId": 2105,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2106",
-        "teamId": "carthage-college-firebirds",
+        "id": "2025-2106",
+        "teamId": "carthage-firebirds",
         "franchiseId": 2106,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2107",
+        "id": "2025-2107",
         "teamId": "catawba-indians",
         "franchiseId": 2107,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2108",
-        "teamId": "catholic-university-cardinals",
+        "id": "2025-2108",
+        "teamId": "catholic-cardinals",
         "franchiseId": 2108,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2110",
+        "id": "2025-2110",
         "teamId": "central-arkansas-bears",
         "franchiseId": 2110,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2115",
+        "id": "2025-2115",
         "teamId": "central-connecticut-blue-devils",
         "franchiseId": 2115,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2116",
+        "id": "2025-2116",
         "teamId": "ucf-knights",
         "franchiseId": 2116,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2117",
+        "id": "2025-2117",
         "teamId": "central-michigan-chippewas",
         "franchiseId": 2117,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2118",
+        "id": "2025-2118",
         "teamId": "central-missouri-mules",
         "franchiseId": 2118,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2119",
+        "id": "2025-2119",
         "teamId": "central-state-oh-marauders",
         "franchiseId": 2119,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2120",
+        "id": "2025-2120",
         "teamId": "central-washington-wildcats",
         "franchiseId": 2120,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2121",
+        "id": "2025-2121",
         "teamId": "centre-college-colonels",
         "franchiseId": 2121,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2122",
+        "id": "2025-2122",
         "teamId": "central-oklahoma-bronchos",
         "franchiseId": 2122,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2123",
+        "id": "2025-2123",
         "teamId": "chadron-state-eagles",
         "franchiseId": 2123,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2127",
+        "id": "2025-2127",
         "teamId": "charleston-southern-buccaneers",
         "franchiseId": 2127,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2128",
-        "teamId": "charleston-wv-golden-eagles",
+        "id": "2025-2128",
+        "teamId": "university-of-charleston-wv-golden-eagles",
         "franchiseId": 2128,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2129",
-        "teamId": "cheyney-wolves",
-        "franchiseId": 2129,
-        "season": 2022
-    },
-    {
-        "id": "2022-2132",
+        "id": "2025-2132",
         "teamId": "cincinnati-bearcats",
         "franchiseId": 2132,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2134",
+        "id": "2025-2134",
         "teamId": "clarion-golden-eagles",
         "franchiseId": 2134,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2141",
+        "id": "2025-2141",
         "teamId": "coe-college-kohawks",
         "franchiseId": 2141,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2142",
+        "id": "2025-2142",
         "teamId": "colgate-raiders",
         "franchiseId": 2142,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2144",
-        "teamId": "colorado-college-tigers",
-        "franchiseId": 2144,
-        "season": 2022
-    },
-    {
-        "id": "2022-2146",
+        "id": "2025-2146",
         "teamId": "colorado-school-of-mines-orediggers",
         "franchiseId": 2146,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2148",
+        "id": "2025-2148",
         "teamId": "concord-mountain-lions",
         "franchiseId": 2148,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2151",
+        "id": "2025-2151",
         "teamId": "concordia-chicago-cougars",
         "franchiseId": 2151,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2152",
+        "id": "2025-2152",
         "teamId": "concordia-moorhead-cobbers",
         "franchiseId": 2152,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2155",
+        "id": "2025-2155",
         "teamId": "cornell-college-ia-rams",
         "franchiseId": 2155,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2161",
-        "teamId": "cumberland-bulldogs",
+        "id": "2025-2161",
+        "teamId": "cumberland-tn-bulldogs",
         "franchiseId": 2161,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2166",
+        "id": "2025-2166",
         "teamId": "davidson-wildcats",
         "franchiseId": 2166,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2168",
+        "id": "2025-2168",
         "teamId": "dayton-flyers",
         "franchiseId": 2168,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2169",
+        "id": "2025-2169",
         "teamId": "delaware-state-hornets",
         "franchiseId": 2169,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2170",
+        "id": "2025-2170",
         "teamId": "delta-state-statesmen",
         "franchiseId": 2170,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2171",
+        "id": "2025-2171",
         "teamId": "denison-big-red",
         "franchiseId": 2171,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2175",
-        "teamId": "dickinson-red-devils",
+        "id": "2025-2175",
+        "teamId": "dickinson-pa-red-devils",
         "franchiseId": 2175,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2181",
+        "id": "2025-2181",
         "teamId": "drake-bulldogs",
         "franchiseId": 2181,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2184",
+        "id": "2025-2184",
         "teamId": "duquesne-dukes",
         "franchiseId": 2184,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2188",
+        "id": "2025-2188",
         "teamId": "east-stroudsburg-warriors",
         "franchiseId": 2188,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2191",
-        "teamId": "east-central-tigers",
+        "id": "2025-2191",
+        "teamId": "east-central-ok-tigers",
         "franchiseId": 2191,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2193",
+        "id": "2025-2193",
         "teamId": "east-tennessee-state-buccaneers",
         "franchiseId": 2193,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2194",
+        "id": "2025-2194",
         "teamId": "east-texas-baptist-tigers",
         "franchiseId": 2194,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2197",
+        "id": "2025-2197",
         "teamId": "eastern-illinois-panthers",
         "franchiseId": 2197,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2198",
+        "id": "2025-2198",
         "teamId": "eastern-kentucky-colonels",
         "franchiseId": 2198,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2199",
+        "id": "2025-2199",
         "teamId": "eastern-michigan-eagles",
         "franchiseId": 2199,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2201",
+        "id": "2025-2201",
         "teamId": "eastern-new-mexico-greyhounds",
         "franchiseId": 2201,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2202",
+        "id": "2025-2202",
         "teamId": "eastern-oregon",
         "franchiseId": 2202,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2205",
+        "id": "2025-2205",
         "teamId": "edinboro-fighting-scots",
         "franchiseId": 2205,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2206",
+        "id": "2025-2206",
         "teamId": "edward-waters-tigers",
         "franchiseId": 2206,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2207",
+        "id": "2025-2207",
         "teamId": "elizabeth-city-state-vikings",
         "franchiseId": 2207,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2210",
+        "id": "2025-2210",
         "teamId": "elon-phoenix",
         "franchiseId": 2210,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2213",
-        "teamId": "emory-henry-wasps",
+        "id": "2025-2213",
+        "teamId": "emory-henry-college-wasps",
         "franchiseId": 2213,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2214",
+        "id": "2025-2214",
         "teamId": "emporia-state-hornets",
         "franchiseId": 2214,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2219",
+        "id": "2025-2219",
         "teamId": "faulkner-eagles",
         "franchiseId": 2219,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2220",
+        "id": "2025-2220",
         "teamId": "fayetteville-state-broncos",
         "franchiseId": 2220,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2221",
+        "id": "2025-2221",
         "teamId": "fdu-florham-devils",
         "franchiseId": 2221,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2222",
+        "id": "2025-2222",
         "teamId": "ferris-state-bulldogs",
         "franchiseId": 2222,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2224",
+        "id": "2025-2224",
         "teamId": "findlay-oilers",
         "franchiseId": 2224,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2226",
+        "id": "2025-2226",
         "teamId": "florida-atlantic-owls",
         "franchiseId": 2226,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2229",
+        "id": "2025-2229",
         "teamId": "florida-international-panthers",
         "franchiseId": 2229,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2230",
+        "id": "2025-2230",
         "teamId": "fordham-rams",
         "franchiseId": 2230,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2231",
+        "id": "2025-2231",
         "teamId": "fort-hays-state-tigers",
         "franchiseId": 2231,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2232",
+        "id": "2025-2232",
         "teamId": "fort-valley-state-wildcats",
         "franchiseId": 2232,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2233",
+        "id": "2025-2233",
         "teamId": "franklin-grizzlies",
         "franchiseId": 2233,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2234",
+        "id": "2025-2234",
         "teamId": "franklin-marshall-diplomats",
         "franchiseId": 2234,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2237",
+        "id": "2025-2237",
         "teamId": "fort-lewis-skyhawks",
         "franchiseId": 2237,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2241",
+        "id": "2025-2241",
         "teamId": "gardner-webb-runnin-bulldogs",
         "franchiseId": 2241,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2242",
-        "teamId": "geneva-college-golden-tornadoes",
+        "id": "2025-2242",
+        "teamId": "geneva-golden-tornadoes",
         "franchiseId": 2242,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2244",
+        "id": "2025-2244",
         "teamId": "george-mason-patriots",
         "franchiseId": 2244,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2247",
+        "id": "2025-2245",
+        "teamId": "georgetown-ky-tigers",
+        "franchiseId": 2245,
+        "season": 2025
+    },
+    {
+        "id": "2025-2247",
         "teamId": "georgia-state-panthers",
         "franchiseId": 2247,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2248",
+        "id": "2025-2248",
         "teamId": "gettysburg-bullets",
         "franchiseId": 2248,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2249",
+        "id": "2025-2249",
         "teamId": "glenville-state-pioneers",
         "franchiseId": 2249,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2254",
+        "id": "2025-2254",
         "teamId": "grand-view-vikings",
         "franchiseId": 2254,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2256",
+        "id": "2025-2256",
         "teamId": "greensboro-college-pride",
         "franchiseId": 2256,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2257",
+        "id": "2025-2257",
         "teamId": "greenville-panthers",
         "franchiseId": 2257,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2258",
+        "id": "2025-2258",
         "teamId": "guilford-quakers",
         "franchiseId": 2258,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2261",
+        "id": "2025-2261",
         "teamId": "hampton-pirates",
         "franchiseId": 2261,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2262",
+        "id": "2025-2262",
         "teamId": "hanover-panthers",
         "franchiseId": 2262,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2264",
+        "id": "2025-2264",
         "teamId": "harding-university-bisons",
         "franchiseId": 2264,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2271",
+        "id": "2025-2271",
         "teamId": "henderson-state-reddies",
         "franchiseId": 2271,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2273",
+        "id": "2025-2273",
         "teamId": "hillsdale-chargers",
         "franchiseId": 2273,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2274",
+        "id": "2025-2274",
         "teamId": "hiram-college-terriers",
         "franchiseId": 2274,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2277",
+        "id": "2025-2277",
         "teamId": "houston-christian-huskies",
         "franchiseId": 2277,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2280",
+        "id": "2025-2280",
         "teamId": "husson-eagles",
         "franchiseId": 2280,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2283",
+        "id": "2025-2283",
         "teamId": "benedictine-university-il-eagles",
         "franchiseId": 2283,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2286",
+        "id": "2025-2286",
         "teamId": "illinois-college-blueboys",
         "franchiseId": 2286,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2287",
+        "id": "2025-2287",
         "teamId": "illinois-state-redbirds",
         "franchiseId": 2287,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2291",
-        "teamId": "indiana-pa-crimson-hawks",
+        "id": "2025-2291",
+        "teamId": "indiana-pennsylvania-crimson-hawks",
         "franchiseId": 2291,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2292",
+        "id": "2025-2292",
         "teamId": "indianapolis-greyhounds",
         "franchiseId": 2292,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2294",
+        "id": "2025-2294",
         "teamId": "iowa-hawkeyes",
         "franchiseId": 2294,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2295",
-        "teamId": "iowa-wesleyan-tigers",
-        "franchiseId": 2295,
-        "season": 2022
-    },
-    {
-        "id": "2022-2296",
+        "id": "2025-2296",
         "teamId": "jackson-state-tigers",
         "franchiseId": 2296,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2302",
+        "id": "2025-2302",
         "teamId": "john-carroll-blue-streaks",
         "franchiseId": 2302,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2304",
+        "id": "2025-2304",
         "teamId": "johnson-c-smith-golden-bulls",
         "franchiseId": 2304,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2305",
+        "id": "2025-2305",
         "teamId": "kansas-jayhawks",
         "franchiseId": 2305,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2306",
+        "id": "2025-2306",
         "teamId": "kansas-state-wildcats",
         "franchiseId": 2306,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2309",
+        "id": "2025-2309",
         "teamId": "kent-state-golden-flashes",
         "franchiseId": 2309,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2310",
+        "id": "2025-2310",
         "teamId": "kentucky-state-thorobreds",
         "franchiseId": 2310,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2315",
+        "id": "2025-2314",
+        "teamId": "knoxville-bulldogs",
+        "franchiseId": 2314,
+        "season": 2025
+    },
+    {
+        "id": "2025-2315",
         "teamId": "kutztown-golden-bears",
         "franchiseId": 2315,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2316",
+        "id": "2025-2316",
         "teamId": "kentucky-wesleyan-panthers",
         "franchiseId": 2316,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2318",
+        "id": "2025-2318",
         "teamId": "la-verne-leopards",
         "franchiseId": 2318,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2320",
+        "id": "2025-2320",
         "teamId": "lamar-cardinals",
         "franchiseId": 2320,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2321",
-        "teamId": "lambuth-eagles",
-        "franchiseId": 2321,
-        "season": 2022
-    },
-    {
-        "id": "2022-2323",
+        "id": "2025-2323",
         "teamId": "lane-dragons",
         "franchiseId": 2323,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2324",
+        "id": "2025-2324",
         "teamId": "langston-lions",
         "franchiseId": 2324,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2329",
+        "id": "2025-2329",
         "teamId": "lehigh-mountain-hawks",
         "franchiseId": 2329,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2331",
+        "id": "2025-2331",
         "teamId": "lenoir-rhyne-bears",
         "franchiseId": 2331,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2333",
+        "id": "2025-2333",
         "teamId": "lewis-clark-pioneers",
         "franchiseId": 2333,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2335",
+        "id": "2025-2335",
         "teamId": "liberty-flames",
         "franchiseId": 2335,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2336",
-        "teamId": "limestone-saints",
-        "franchiseId": 2336,
-        "season": 2022
-    },
-    {
-        "id": "2022-2339",
+        "id": "2025-2339",
         "teamId": "lincoln-pa-lions",
         "franchiseId": 2339,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2341",
+        "id": "2025-2341",
         "teamId": "long-island-university-sharks",
         "franchiseId": 2341,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2347",
+        "id": "2025-2347",
         "teamId": "louisiana-christian-university-wildcats",
         "franchiseId": 2347,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2348",
+        "id": "2025-2348",
         "teamId": "louisiana-tech-bulldogs",
         "franchiseId": 2348,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2349",
-        "teamId": "umass-lowell-river-hawks",
-        "franchiseId": 2349,
-        "season": 2022
-    },
-    {
-        "id": "2022-2354",
+        "id": "2025-2354",
         "teamId": "lycoming-warriors",
         "franchiseId": 2354,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2355",
+        "id": "2025-2355",
         "teamId": "virginia-lynchburg-dragons",
         "franchiseId": 2355,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2359",
+        "id": "2025-2359",
         "teamId": "macalester-scots",
         "franchiseId": 2359,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2362",
+        "id": "2025-2362",
         "teamId": "manchester-spartans",
         "franchiseId": 2362,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2364",
-        "teamId": "minnesota-state-mavericks",
+        "id": "2025-2364",
+        "teamId": "minnesota-state-mankato-mavericks",
         "franchiseId": 2364,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2365",
+        "id": "2025-2365",
         "teamId": "mansfield-mountaineers",
         "franchiseId": 2365,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2366",
+        "id": "2025-2366",
         "teamId": "marian",
         "franchiseId": 2366,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2368",
+        "id": "2025-2368",
         "teamId": "marist-red-foxes",
         "franchiseId": 2368,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2369",
+        "id": "2025-2369",
         "teamId": "mars-hill-lions",
         "franchiseId": 2369,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2371",
+        "id": "2025-2371",
         "teamId": "mary-hardin-baylor-crusaders",
         "franchiseId": 2371,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2373",
-        "teamId": "maryville-college-scots",
+        "id": "2025-2373",
+        "teamId": "maryville-college-tn-scots",
         "franchiseId": 2373,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2377",
+        "id": "2025-2377",
         "teamId": "mcneese-cowboys",
         "franchiseId": 2377,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2381",
+        "id": "2025-2381",
         "teamId": "menlo-college-oaks",
         "franchiseId": 2381,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2382",
+        "id": "2025-2382",
         "teamId": "mercer-bears",
         "franchiseId": 2382,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2383",
+        "id": "2025-2383",
         "teamId": "merchant-marine-mariners",
         "franchiseId": 2383,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2385",
+        "id": "2025-2385",
         "teamId": "mercyhurst-lakers",
         "franchiseId": 2385,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2390",
+        "id": "2025-2390",
         "teamId": "miami-hurricanes",
         "franchiseId": 2390,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2392",
+        "id": "2025-2392",
         "teamId": "michigan-tech-huskies",
         "franchiseId": 2392,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2393",
+        "id": "2025-2393",
         "teamId": "middle-tennessee-blue-raiders",
         "franchiseId": 2393,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2394",
+        "id": "2025-2394",
         "teamId": "middlebury-panthers",
         "franchiseId": 2394,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2395",
+        "id": "2025-2395",
         "teamId": "midwestern-state-mustangs",
         "franchiseId": 2395,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2396",
+        "id": "2025-2396",
         "teamId": "miles-college-golden-bears",
         "franchiseId": 2396,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2398",
+        "id": "2025-2398",
         "teamId": "millsaps-majors",
         "franchiseId": 2398,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2399",
+        "id": "2025-2399",
         "teamId": "minnesota-morris-cougars",
         "franchiseId": 2399,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2400",
+        "id": "2025-2400",
         "teamId": "mississippi-valley-state-delta-devils",
         "franchiseId": 2400,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2401",
-        "teamId": "mississippi-college-choctaws",
-        "franchiseId": 2401,
-        "season": 2022
-    },
-    {
-        "id": "2022-2402",
+        "id": "2025-2402",
         "teamId": "missouri-st-miners",
         "franchiseId": 2402,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2403",
+        "id": "2025-2403",
         "teamId": "missouri-southern-state-lions",
         "franchiseId": 2403,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2405",
+        "id": "2025-2405",
         "teamId": "monmouth-hawks",
         "franchiseId": 2405,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2413",
+        "id": "2025-2413",
         "teamId": "morehead-state-eagles",
         "franchiseId": 2413,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2415",
+        "id": "2025-2415",
         "teamId": "morgan-state-bears",
         "franchiseId": 2415,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2416",
+        "id": "2025-2416",
         "teamId": "morningside-chiefs",
         "franchiseId": 2416,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2419",
+        "id": "2025-2419",
         "teamId": "mount-st-joseph-lions",
         "franchiseId": 2419,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2422",
+        "id": "2025-2422",
         "teamId": "muhlenberg-mules",
         "franchiseId": 2422,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2424",
+        "id": "2025-2424",
         "teamId": "new-mexico-highlands-cowboys",
         "franchiseId": 2424,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2426",
+        "id": "2025-2426",
         "teamId": "navy-midshipmen",
         "franchiseId": 2426,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2428",
+        "id": "2025-2428",
         "teamId": "north-carolina-central-eagles",
         "franchiseId": 2428,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2429",
+        "id": "2025-2429",
         "teamId": "charlotte-49ers",
         "franchiseId": 2429,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2433",
+        "id": "2025-2433",
         "teamId": "ul-monroe-warhawks",
         "franchiseId": 2433,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2437",
-        "teamId": "omaha-mavericks",
-        "franchiseId": 2437,
-        "season": 2022
-    },
-    {
-        "id": "2022-2438",
+        "id": "2025-2438",
         "teamId": "nebraska-kearney-lopers",
         "franchiseId": 2438,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2439",
+        "id": "2025-2439",
         "teamId": "unlv-rebels",
         "franchiseId": 2439,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2440",
+        "id": "2025-2440",
         "teamId": "nevada-wolf-pack",
         "franchiseId": 2440,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2441",
+        "id": "2025-2441",
         "teamId": "new-haven-chargers",
         "franchiseId": 2441,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2442",
+        "id": "2025-2442",
         "teamId": "the-college-of-new-jersey-lions",
         "franchiseId": 2442,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2444",
+        "id": "2025-2444",
         "teamId": "newberry-wolves",
         "franchiseId": 2444,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2447",
+        "id": "2025-2447",
         "teamId": "nicholls-colonels",
         "franchiseId": 2447,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2448",
+        "id": "2025-2448",
         "teamId": "north-carolina-at-aggies",
         "franchiseId": 2448,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2449",
+        "id": "2025-2449",
         "teamId": "north-dakota-state-bison",
         "franchiseId": 2449,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2450",
+        "id": "2025-2450",
         "teamId": "norfolk-state-spartans",
         "franchiseId": 2450,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2453",
+        "id": "2025-2453",
         "teamId": "north-alabama-lions",
         "franchiseId": 2453,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2458",
+        "id": "2025-2458",
         "teamId": "northern-colorado-bears",
         "franchiseId": 2458,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2459",
+        "id": "2025-2459",
         "teamId": "northern-illinois-huskies",
         "franchiseId": 2459,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2460",
+        "id": "2025-2460",
         "teamId": "northern-iowa-panthers",
         "franchiseId": 2460,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2464",
+        "id": "2025-2464",
         "teamId": "northern-arizona-lumberjacks",
         "franchiseId": 2464,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2466",
+        "id": "2025-2466",
         "teamId": "northwestern-state-demons",
         "franchiseId": 2466,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2467",
+        "id": "2025-2467",
         "teamId": "norwich-cadets",
         "franchiseId": 2467,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2475",
-        "teamId": "occidental-tigers",
-        "franchiseId": 2475,
-        "season": 2022
+        "id": "2025-2471",
+        "teamId": "northwestern-ia-nw-college-iowa",
+        "franchiseId": 2471,
+        "season": 2025
     },
     {
-        "id": "2022-2483",
+        "id": "2025-2483",
         "teamId": "oregon-ducks",
         "franchiseId": 2483,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2486",
+        "id": "2025-2486",
         "teamId": "pacific-lutheran-lutes",
         "franchiseId": 2486,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2487",
-        "teamId": "pace-university-setters",
+        "id": "2025-2487",
+        "teamId": "pace-setters",
         "franchiseId": 2487,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2502",
+        "id": "2025-2491",
+        "teamId": "paul-quinn-tigers",
+        "franchiseId": 2491,
+        "season": 2025
+    },
+    {
+        "id": "2025-2502",
         "teamId": "portland-state-vikings",
         "franchiseId": 2502,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2504",
+        "id": "2025-2504",
         "teamId": "prairie-view-am-panthers",
         "franchiseId": 2504,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2506",
+        "id": "2025-2506",
         "teamId": "presbyterian-blue-hose",
         "franchiseId": 2506,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2508",
+        "id": "2025-2508",
         "teamId": "puget-sound-loggers",
         "franchiseId": 2508,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2509",
+        "id": "2025-2509",
         "teamId": "purdue-boilermakers",
         "franchiseId": 2509,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2516",
-        "teamId": "randolph-macon-college-yellow-jackets",
+        "id": "2025-2516",
+        "teamId": "randolph-macon-yellow-jackets",
         "franchiseId": 2516,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2519",
+        "id": "2025-2519",
         "teamId": "rhodes-college-lynx",
         "franchiseId": 2519,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2523",
+        "id": "2025-2523",
         "teamId": "robert-morris-colonials",
         "franchiseId": 2523,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2524",
-        "teamId": "rockford-university-regents",
+        "id": "2025-2524",
+        "teamId": "rockford-regents",
         "franchiseId": 2524,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2528",
+        "id": "2025-2528",
         "teamId": "rensselaer-engineers",
         "franchiseId": 2528,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2529",
+        "id": "2025-2529",
         "teamId": "sacred-heart-pioneers",
         "franchiseId": 2529,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2532",
+        "id": "2025-2532",
         "teamId": "salisbury-university-sea-gulls",
         "franchiseId": 2532,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2534",
+        "id": "2025-2534",
         "teamId": "sam-houston-bearkats",
         "franchiseId": 2534,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2535",
+        "id": "2025-2535",
         "teamId": "samford-bulldogs",
         "franchiseId": 2535,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2542",
+        "id": "2025-2542",
         "teamId": "savannah-state-tigers",
         "franchiseId": 2542,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2545",
+        "id": "2025-2545",
         "teamId": "se-louisiana-lions",
         "franchiseId": 2545,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2546",
+        "id": "2025-2546",
         "teamId": "southeast-missouri-state-redhawks",
         "franchiseId": 2546,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2551",
+        "id": "2025-2551",
         "teamId": "shaw-bears",
         "franchiseId": 2551,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2553",
-        "teamId": "sewanee-univ-of-the-south-tigers",
+        "id": "2025-2553",
+        "teamId": "sewanee-tigers",
         "franchiseId": 2553,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2557",
+        "id": "2025-2557",
         "teamId": "coast-guard-bears",
         "franchiseId": 2557,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2559",
+        "id": "2025-2559",
         "teamId": "shippensburg-raiders",
         "franchiseId": 2559,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2560",
+        "id": "2025-2560",
         "teamId": "shorter-hawks",
         "franchiseId": 2560,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2562",
+        "id": "2025-2562",
         "teamId": "siena-heights-saints",
         "franchiseId": 2562,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2564",
-        "teamId": "simpson-college-storm",
+        "id": "2025-2564",
+        "teamId": "simpson-college-ia-storm",
         "franchiseId": 2564,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2567",
+        "id": "2025-2567",
         "teamId": "smu-mustangs",
         "franchiseId": 2567,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2568",
+        "id": "2025-2568",
         "teamId": "southern-arkansas-muleriders",
         "franchiseId": 2568,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2569",
+        "id": "2025-2569",
         "teamId": "south-carolina-state-bulldogs",
         "franchiseId": 2569,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2570",
+        "id": "2025-2570",
         "teamId": "colorado-state-pueblo-thunderwolves",
         "franchiseId": 2570,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2571",
+        "id": "2025-2571",
         "teamId": "south-dakota-state-jackrabbits",
         "franchiseId": 2571,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2572",
+        "id": "2025-2572",
         "teamId": "southern-miss-golden-eagles",
         "franchiseId": 2572,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2579",
+        "id": "2025-2579",
         "teamId": "south-carolina-gamecocks",
         "franchiseId": 2579,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2582",
+        "id": "2025-2582",
         "teamId": "southern-jaguars",
         "franchiseId": 2582,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2583",
+        "id": "2025-2583",
         "teamId": "southern-connecticut-state-owls",
         "franchiseId": 2583,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2584",
+        "id": "2025-2584",
         "teamId": "southern-oregon-raiders",
         "franchiseId": 2584,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2586",
+        "id": "2025-2586",
         "teamId": "southwest-baptist-bearcats",
         "franchiseId": 2586,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2587",
+        "id": "2025-2587",
         "teamId": "southwest-minnesota-state-mustangs",
         "franchiseId": 2587,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2588",
+        "id": "2025-2588",
         "teamId": "southwestern-university-pirates",
         "franchiseId": 2588,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2591",
+        "id": "2025-2591",
         "teamId": "st-ambrose-fighting-bees",
         "franchiseId": 2591,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2595",
+        "id": "2025-2595",
         "teamId": "st-francis-il-fighting-saints",
         "franchiseId": 2595,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2598",
+        "id": "2025-2598",
         "teamId": "st-francis-pa-red-flash",
         "franchiseId": 2598,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2600",
-        "teamId": "st-johns-mn-johnnies",
+        "id": "2025-2600",
+        "teamId": "saint-johns-mn-johnnies",
         "franchiseId": 2600,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2601",
-        "teamId": "st-josephs-in-pumas",
-        "franchiseId": 2601,
-        "season": 2022
+        "id": "2025-2608",
+        "teamId": "st-marys-ca-stmaryks",
+        "franchiseId": 2608,
+        "season": 2025
     },
     {
-        "id": "2022-2611",
-        "teamId": "st-pauls-college-tigers",
-        "franchiseId": 2611,
-        "season": 2022
-    },
-    {
-        "id": "2022-2612",
-        "teamId": "st-peters-peacocks",
-        "franchiseId": 2612,
-        "season": 2022
-    },
-    {
-        "id": "2022-2614",
-        "teamId": "st-vincent-college-bearcats",
+        "id": "2025-2614",
+        "teamId": "saint-vincent-bearcats",
         "franchiseId": 2614,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2615",
+        "id": "2025-2615",
         "teamId": "st-xavier-il-cougars",
         "franchiseId": 2615,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2617",
+        "id": "2025-2617",
         "teamId": "stephen-f-austin-lumberjacks",
         "franchiseId": 2617,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2619",
+        "id": "2025-2619",
         "teamId": "stony-brook-seawolves",
         "franchiseId": 2619,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2623",
+        "id": "2025-2623",
         "teamId": "missouri-state-bears",
         "franchiseId": 2623,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2627",
-        "teamId": "tarleton-texans",
+        "id": "2025-2627",
+        "teamId": "tarleton-state-texans",
         "franchiseId": 2627,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2628",
+        "id": "2025-2628",
         "teamId": "tcu-horned-frogs",
         "franchiseId": 2628,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2630",
+        "id": "2025-2630",
         "teamId": "ut-martin-skyhawks",
         "franchiseId": 2630,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2633",
+        "id": "2025-2633",
         "teamId": "tennessee-volunteers",
         "franchiseId": 2633,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2634",
+        "id": "2025-2634",
         "teamId": "tennessee-state-tigers",
         "franchiseId": 2634,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2635",
+        "id": "2025-2635",
         "teamId": "tennessee-tech-golden-eagles",
         "franchiseId": 2635,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2636",
+        "id": "2025-2636",
         "teamId": "utsa-roadrunners",
         "franchiseId": 2636,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2637",
+        "id": "2025-2637",
         "teamId": "texas-college-steers",
         "franchiseId": 2637,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2638",
+        "id": "2025-2638",
         "teamId": "utep-miners",
         "franchiseId": 2638,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2639",
+        "id": "2025-2639",
         "teamId": "texas-lutheran-bulldogs",
         "franchiseId": 2639,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2640",
+        "id": "2025-2640",
         "teamId": "texas-southern-tigers",
         "franchiseId": 2640,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2641",
+        "id": "2025-2641",
         "teamId": "texas-tech-red-raiders",
         "franchiseId": 2641,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2643",
+        "id": "2025-2643",
         "teamId": "the-citadel-bulldogs",
         "franchiseId": 2643,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2644",
-        "teamId": "thiel-college-tomcats",
+        "id": "2025-2644",
+        "teamId": "thiel-tomcats",
         "franchiseId": 2644,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2646",
+        "id": "2025-2646",
         "teamId": "thomas-more-college-saints",
         "franchiseId": 2646,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2649",
+        "id": "2025-2649",
         "teamId": "toledo-rockets",
         "franchiseId": 2649,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2651",
+        "id": "2025-2651",
         "teamId": "trine-university-thunder",
         "franchiseId": 2651,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2652",
-        "teamId": "trinity-il-trinity-il",
+        "id": "2025-2652",
+        "teamId": "trinity-college-il-trinity-il",
         "franchiseId": 2652,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2653",
+        "id": "2025-2653",
         "teamId": "troy-trojans",
         "franchiseId": 2653,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2654",
+        "id": "2025-2654",
         "teamId": "truman-state-bulldogs",
         "franchiseId": 2654,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2655",
+        "id": "2025-2655",
         "teamId": "tulane-green-wave",
         "franchiseId": 2655,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2657",
+        "id": "2025-2657",
         "teamId": "tuskegee-golden-tigers",
         "franchiseId": 2657,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2658",
+        "id": "2025-2658",
         "teamId": "texas-am-kingsville-javelinas",
         "franchiseId": 2658,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2667",
-        "teamId": "ursinus-college-bears",
+        "id": "2025-2667",
+        "teamId": "ursinus-bears",
         "franchiseId": 2667,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2673",
+        "id": "2025-2673",
         "teamId": "valdosta-state-blazers",
         "franchiseId": 2673,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2674",
+        "id": "2025-2674",
         "teamId": "valparaiso-beacons",
         "franchiseId": 2674,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2676",
+        "id": "2025-2676",
         "teamId": "virginia-union-panthers",
         "franchiseId": 2676,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2678",
+        "id": "2025-2678",
         "teamId": "vmi-keydets",
         "franchiseId": 2678,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2681",
+        "id": "2025-2681",
         "teamId": "wagner-seahawks",
         "franchiseId": 2681,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2682",
+        "id": "2025-2682",
         "teamId": "walsh-cavaliers",
         "franchiseId": 2682,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2683",
+        "id": "2025-2683",
         "teamId": "warner-royals",
         "franchiseId": 2683,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2685",
+        "id": "2025-2685",
         "teamId": "wartburg-college-knights",
         "franchiseId": 2685,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2686",
+        "id": "2025-2686",
         "teamId": "washington-jefferson-presidents",
         "franchiseId": 2686,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2687",
+        "id": "2025-2687",
         "teamId": "washburn-ichabods",
         "franchiseId": 2687,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2688",
-        "teamId": "washington-lee-university-generals",
+        "id": "2025-2688",
+        "teamId": "washington-and-lee-generals",
         "franchiseId": 2688,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2691",
+        "id": "2025-2691",
         "teamId": "webber-international-warriors",
         "franchiseId": 2691,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2692",
+        "id": "2025-2692",
         "teamId": "weber-state-wildcats",
         "franchiseId": 2692,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2695",
+        "id": "2025-2695",
         "teamId": "west-alabama-tigers",
         "franchiseId": 2695,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2698",
+        "id": "2025-2698",
         "teamId": "west-georgia-wolves",
         "franchiseId": 2698,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2699",
+        "id": "2025-2699",
         "teamId": "west-liberty-hilltoppers",
         "franchiseId": 2699,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2700",
+        "id": "2025-2700",
         "teamId": "mcdaniel-college-green-terror",
         "franchiseId": 2700,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2701",
+        "id": "2025-2701",
         "teamId": "montana-western-bulldogs",
         "franchiseId": 2701,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2702",
+        "id": "2025-2702",
         "teamId": "western-new-england-golden-bears",
         "franchiseId": 2702,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2703",
+        "id": "2025-2703",
         "teamId": "western-new-mexico-mustangs",
         "franchiseId": 2703,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2704",
+        "id": "2025-2704",
         "teamId": "west-texas-am-buffaloes",
         "franchiseId": 2704,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2706",
+        "id": "2025-2706",
         "teamId": "west-virginia-tech-golden-bears",
         "franchiseId": 2706,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2707",
+        "id": "2025-2707",
         "teamId": "west-virginia-state-yellow-jackets",
         "franchiseId": 2707,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2710",
+        "id": "2025-2710",
         "teamId": "western-illinois-leathernecks",
         "franchiseId": 2710,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2711",
+        "id": "2025-2711",
         "teamId": "western-michigan-broncos",
         "franchiseId": 2711,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2714",
+        "id": "2025-2714",
         "teamId": "western-colorado-mountaineers",
         "franchiseId": 2714,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2717",
+        "id": "2025-2717",
         "teamId": "western-carolina-catamounts",
         "franchiseId": 2717,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2721",
+        "id": "2025-2721",
         "teamId": "whitworth-pirates",
         "franchiseId": 2721,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2723",
+        "id": "2025-2723",
         "teamId": "wisconsin-river-falls-falcons",
         "franchiseId": 2723,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2725",
-        "teamId": "widener-university-pride",
+        "id": "2025-2725",
+        "teamId": "widener-pride",
         "franchiseId": 2725,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2729",
+        "id": "2025-2729",
         "teamId": "william-mary-tribe",
         "franchiseId": 2729,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2731",
-        "teamId": "williams-college-ephs",
+        "id": "2025-2731",
+        "teamId": "williams-ephs",
         "franchiseId": 2731,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2733",
-        "teamId": "wilmington-college-fightin-quakers",
+        "id": "2025-2733",
+        "teamId": "wilmington-oh-fightin-quakers",
         "franchiseId": 2733,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2736",
+        "id": "2025-2736",
         "teamId": "winston-salem-rams",
         "franchiseId": 2736,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2738",
+        "id": "2025-2738",
         "teamId": "wisconsin-eau-claire-blugolds",
         "franchiseId": 2738,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2740",
-        "teamId": "wisconsin-la-crosse-eagles",
+        "id": "2025-2740",
+        "teamId": "wisconsin-lacrosse-eagles",
         "franchiseId": 2740,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2741",
+        "id": "2025-2741",
         "teamId": "wisconsin-lutheran-warriors",
         "franchiseId": 2741,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2743",
-        "teamId": "wisconsin-stevens-point-pointers",
+        "id": "2025-2743",
+        "teamId": "wisconsin-stevens-pt-pointers",
         "franchiseId": 2743,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2744",
+        "id": "2025-2744",
         "teamId": "wisconsin-stout-blue-devils",
         "franchiseId": 2744,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2745",
+        "id": "2025-2745",
         "teamId": "wisconsin-whitewater-warhawks",
         "franchiseId": 2745,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2746",
-        "teamId": "wittenberg-university-tigers",
+        "id": "2025-2746",
+        "teamId": "wittenberg-tigers",
         "franchiseId": 2746,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2747",
+        "id": "2025-2747",
         "teamId": "wofford-terriers",
         "franchiseId": 2747,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2748",
+        "id": "2025-2748",
         "teamId": "wooster-fighting-scots",
         "franchiseId": 2748,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2749",
-        "teamId": "worcester-polytechnic-engineers",
+        "id": "2025-2749",
+        "teamId": "wpi-engineers",
         "franchiseId": 2749,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2750",
-        "teamId": "wright-state-raiders",
-        "franchiseId": 2750,
-        "season": 2022
-    },
-    {
-        "id": "2022-2751",
+        "id": "2025-2751",
         "teamId": "wyoming-cowboys",
         "franchiseId": 2751,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2754",
+        "id": "2025-2754",
         "teamId": "youngstown-state-penguins",
         "franchiseId": 2754,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2755",
+        "id": "2025-2755",
         "teamId": "grambling-tigers",
         "franchiseId": 2755,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2757",
+        "id": "2025-2757",
         "teamId": "berry-college-vikings",
         "franchiseId": 2757,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2758",
+        "id": "2025-2758",
         "teamId": "howard-payne-yellow-jackets",
         "franchiseId": 2758,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2770",
+        "id": "2025-2770",
         "teamId": "manitoba",
         "franchiseId": 2770,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2771",
+        "id": "2025-2771",
         "teamId": "merrimack-warriors",
         "franchiseId": 2771,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2776",
-        "teamId": "salve-regina-university-seahawks",
+        "id": "2025-2776",
+        "teamId": "salve-regina-seahawks",
         "franchiseId": 2776,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2779",
+        "id": "2025-2779",
         "teamId": "st-lawrence-saints",
         "franchiseId": 2779,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2781",
+        "id": "2025-2781",
         "teamId": "brockport-golden-eagles",
         "franchiseId": 2781,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2782",
-        "teamId": "suny-cortland-red-dragons",
+        "id": "2025-2782",
+        "teamId": "cortland-red-dragons",
         "franchiseId": 2782,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2790",
+        "id": "2025-2790",
         "teamId": "albion-britons",
         "franchiseId": 2790,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2800",
+        "id": "2025-2800",
         "teamId": "alma-college-scots",
         "franchiseId": 2800,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2802",
+        "id": "2025-2802",
         "teamId": "bethel-mn-royals",
         "franchiseId": 2802,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2803",
+        "id": "2025-2803",
         "teamId": "bryant-bulldogs",
         "franchiseId": 2803,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2804",
+        "id": "2025-2804",
         "teamId": "chowan-hawks",
         "franchiseId": 2804,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2805",
+        "id": "2025-2805",
         "teamId": "clark-atlanta-panthers",
         "franchiseId": 2805,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2808",
+        "id": "2025-2808",
         "teamId": "delaware-valley-aggies",
         "franchiseId": 2808,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2810",
+        "id": "2025-2810",
         "teamId": "hardin-simmons-cowboys",
         "franchiseId": 2810,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2812",
+        "id": "2025-2812",
         "teamId": "hope-flying-dutchmen",
         "franchiseId": 2812,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2815",
+        "id": "2025-2815",
         "teamId": "lindenwood-lions",
         "franchiseId": 2815,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2816",
+        "id": "2025-2816",
         "teamId": "mckendree-bearcats",
         "franchiseId": 2816,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2817",
-        "teamId": "minnesota-st-moorhead-dragons",
+        "id": "2025-2817",
+        "teamId": "minnesota-state-moorhead-dragons",
         "franchiseId": 2817,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2818",
+        "id": "2025-2818",
         "teamId": "montclair-state-red-hawks",
         "franchiseId": 2818,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2822",
+        "id": "2025-2822",
         "teamId": "north-greenville-crusaders",
         "franchiseId": 2822,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2823",
+        "id": "2025-2823",
         "teamId": "northwestern-oklahoma-state-rangers",
         "franchiseId": 2823,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2824",
+        "id": "2025-2824",
         "teamId": "oklahoma-panhandle-state-ok-panhandle-st",
         "franchiseId": 2824,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2825",
+        "id": "2025-2825",
         "teamId": "quincy-hawks",
         "franchiseId": 2825,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2827",
+        "id": "2025-2826",
+        "teamId": "rocky-mountain-bears",
+        "franchiseId": 2826,
+        "season": 2025
+    },
+    {
+        "id": "2025-2827",
         "teamId": "rowan-profs",
         "franchiseId": 2827,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2828",
-        "teamId": "shenandoah-university-hornets",
+        "id": "2025-2828",
+        "teamId": "shenandoah-hornets",
         "franchiseId": 2828,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2829",
-        "teamId": "simon-fraser-red-leafs",
-        "franchiseId": 2829,
-        "season": 2022
-    },
-    {
-        "id": "2022-2830",
+        "id": "2025-2830",
         "teamId": "st-anselm-hawks",
         "franchiseId": 2830,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2831",
+        "id": "2025-2831",
         "teamId": "st-francis-in-cougars",
         "franchiseId": 2831,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2832",
-        "teamId": "st-norbert-college-green-knights",
+        "id": "2025-2832",
+        "teamId": "st-norbert-green-knights",
         "franchiseId": 2832,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2834",
-        "teamId": "sul-ross-state-university-lobos",
+        "id": "2025-2834",
+        "teamId": "sul-ross-state-lobos",
         "franchiseId": 2834,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2837",
-        "teamId": "texas-am-commerce-lions",
+        "id": "2025-2837",
+        "teamId": "east-texas-am-lions",
         "franchiseId": 2837,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2838",
-        "teamId": "tiffin-university-dragons",
+        "id": "2025-2838",
+        "teamId": "tiffin-dragons",
         "franchiseId": 2838,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2839",
+        "id": "2025-2839",
         "teamId": "tusculum-pioneers",
         "franchiseId": 2839,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2841",
+        "id": "2025-2841",
         "teamId": "union-college-bulldogs",
         "franchiseId": 2841,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2842",
+        "id": "2025-2842",
         "teamId": "uva-wise-cavaliers",
         "franchiseId": 2842,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2843",
+        "id": "2025-2843",
         "teamId": "western-connecticut-state-wolves",
         "franchiseId": 2843,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2844",
+        "id": "2025-2844",
         "teamId": "wayne-state-ne-wildcats",
         "franchiseId": 2844,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2845",
-        "teamId": "waynesburg-university-yellow-jackets",
+        "id": "2025-2845",
+        "teamId": "waynesburg-yellow-jackets",
         "franchiseId": 2845,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2847",
-        "teamId": "western-washington-vikings",
-        "franchiseId": 2847,
-        "season": 2022
-    },
-    {
-        "id": "2022-2848",
+        "id": "2025-2848",
         "teamId": "western-oregon-wolves",
         "franchiseId": 2848,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2849",
-        "teamId": "westminster-college-pa-titans",
+        "id": "2025-2849",
+        "teamId": "westminster-pa-titans",
         "franchiseId": 2849,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2850",
-        "teamId": "whittier-college-poets",
-        "franchiseId": 2850,
-        "season": 2022
-    },
-    {
-        "id": "2022-2851",
+        "id": "2025-2851",
         "teamId": "winona-state-warriors",
         "franchiseId": 2851,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2858",
+        "id": "2025-2858",
         "teamId": "california-pa-vulcans",
         "franchiseId": 2858,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2860",
+        "id": "2025-2860",
         "teamId": "central-methodist-eagles",
         "franchiseId": 2860,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2865",
+        "id": "2025-2865",
         "teamId": "evangel-crusaders",
         "franchiseId": 2865,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2871",
-        "teamId": "kean-university-cougars",
+        "id": "2025-2871",
+        "teamId": "kean-cougars",
         "franchiseId": 2871,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2876",
+        "id": "2025-2876",
         "teamId": "lincoln-mo-blue-tigers",
         "franchiseId": 2876,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2877",
+        "id": "2025-2877",
         "teamId": "lindsey-wilson-college-lindsey",
         "franchiseId": 2877,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2880",
+        "id": "2025-2880",
         "teamId": "missouri-baptist-spartans",
         "franchiseId": 2880,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2882",
-        "teamId": "north-carolina-pembroke-braves",
+        "id": "2025-2882",
+        "teamId": "unc-pembroke-braves",
         "franchiseId": 2882,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2884",
-        "teamId": "nichols-bison",
+        "id": "2025-2884",
+        "teamId": "nichols-college-bison",
         "franchiseId": 2884,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2886",
-        "teamId": "northwood-university-timberwolves",
+        "id": "2025-2886",
+        "teamId": "northwood-mi-timberwolves",
         "franchiseId": 2886,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2888",
+        "id": "2025-2888",
         "teamId": "ouachita-baptist-tigers",
         "franchiseId": 2888,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2890",
+        "id": "2025-2890",
         "teamId": "reinhardt-eagles",
         "franchiseId": 2890,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2891",
+        "id": "2025-2891",
         "teamId": "ripon-red-hawks",
         "franchiseId": 2891,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2894",
+        "id": "2025-2894",
         "teamId": "sioux-falls-cougars",
         "franchiseId": 2894,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2896",
+        "id": "2025-2896",
         "teamId": "southern-virginia-knights",
         "franchiseId": 2896,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2900",
-        "teamId": "st-thomas---minnesota-tommies",
+        "id": "2025-2900",
+        "teamId": "st-thomas-minnesota-tommies",
         "franchiseId": 2900,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2904",
-        "teamId": "southwestern-assemblies-of-god-lions",
+        "id": "2025-2904",
+        "teamId": "nelson-university-lions",
         "franchiseId": 2904,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2907",
+        "id": "2025-2907",
         "teamId": "trinity-international-il-trojans",
         "franchiseId": 2907,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2909",
+        "id": "2025-2909",
         "teamId": "westfield-state-owls",
         "franchiseId": 2909,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2911",
-        "teamId": "william-jewell-college-cardinals",
+        "id": "2025-2911",
+        "teamId": "william-jewell-cardinals",
         "franchiseId": 2911,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2912",
+        "id": "2025-2912",
         "teamId": "william-penn-statesmen",
         "franchiseId": 2912,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2913",
+        "id": "2025-2913",
         "teamId": "brevard-college-tornados",
         "franchiseId": 2913,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2916",
+        "id": "2025-2916",
         "teamId": "incarnate-word-cardinals",
         "franchiseId": 2916,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2919",
+        "id": "2025-2919",
         "teamId": "monmouth-il-fighting-scots",
         "franchiseId": 2919,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2923",
-        "teamId": "pomona-pitzer-colleges-sagehens",
+        "id": "2025-2922",
+        "teamId": "olivet-nazarene-tigers",
+        "franchiseId": 2922,
+        "season": 2025
+    },
+    {
+        "id": "2025-2923",
+        "teamId": "pomona-pitzer-sagehens",
         "franchiseId": 2923,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2927",
-        "teamId": "southwestern-oklahoma-bulldogs",
+        "id": "2025-2927",
+        "teamId": "southwestern-oklahoma-state-bulldogs",
         "franchiseId": 2927,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2930",
+        "id": "2025-2930",
         "teamId": "willamette-bearcats",
         "franchiseId": 2930,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2938",
-        "teamId": "huntingdon-hawks",
+        "id": "2025-2938",
+        "teamId": "huntingdon-college-al-hawks",
         "franchiseId": 2938,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2939",
+        "id": "2025-2939",
         "teamId": "jamestown-jimmies",
         "franchiseId": 2939,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2940",
+        "id": "2025-2940",
         "teamId": "livingstone-blue-bears",
         "franchiseId": 2940,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2951",
+        "id": "2025-2951",
         "teamId": "suny-maritime-privateers",
         "franchiseId": 2951,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2963",
+        "id": "2025-2963",
         "teamId": "case-western-reserve-spartans",
         "franchiseId": 2963,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2964",
+        "id": "2025-2964",
         "teamId": "central-college-dutch",
         "franchiseId": 2964,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2967",
+        "id": "2025-2967",
         "teamId": "framingham-state-rams",
         "franchiseId": 2967,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2968",
+        "id": "2025-2968",
         "teamId": "gustavus-adolphus-golden-gusties",
         "franchiseId": 2968,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2969",
+        "id": "2025-2969",
         "teamId": "misericordia-cougars",
         "franchiseId": 2969,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2970",
-        "teamId": "william-paterson-bears",
+        "id": "2025-2970",
+        "teamId": "william-paterson-pioneers",
         "franchiseId": 2970,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2972",
-        "teamId": "plymouth-state-college-panthers",
+        "id": "2025-2972",
+        "teamId": "plymouth-state-panthers",
         "franchiseId": 2972,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2974",
+        "id": "2025-2974",
         "teamId": "shepherd-rams",
         "franchiseId": 2974,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2977",
-        "teamId": "trinity-college-ct-bantams",
+        "id": "2025-2977",
+        "teamId": "trinity-ct-bantams",
         "franchiseId": 2977,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2980",
+        "id": "2025-2980",
         "teamId": "ohio-wesleyan-battling-bishops",
         "franchiseId": 2980,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2985",
+        "id": "2025-2985",
         "teamId": "concordia-college-mi-cardinals",
         "franchiseId": 2985,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-2986",
+        "id": "2025-2986",
         "teamId": "fairmont-state-falcons",
         "franchiseId": 2986,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-3066",
+        "id": "2025-3066",
         "teamId": "concordia-st-paul-golden-bears",
         "franchiseId": 3066,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-3071",
-        "teamId": "north-central-cardinals",
+        "id": "2025-3071",
+        "teamId": "north-central-college-cardinals",
         "franchiseId": 3071,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-3077",
+        "id": "2025-3077",
         "teamId": "kentucky-christian-knights",
         "franchiseId": 3077,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-3080",
+        "id": "2025-3080",
         "teamId": "waldorf-warriors",
         "franchiseId": 3080,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-3099",
-        "teamId": "concordia-al-hornets",
-        "franchiseId": 3099,
-        "season": 2022
-    },
-    {
-        "id": "2022-3100",
+        "id": "2025-3100",
         "teamId": "monterrey-tech-borregos",
         "franchiseId": 3100,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-3101",
+        "id": "2025-3101",
         "teamId": "utah-tech-trailblazers",
         "franchiseId": 3101,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-3110",
+        "id": "2025-3110",
         "teamId": "suny-morrisville-mustangs",
         "franchiseId": 3110,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-3111",
+        "id": "2025-3111",
         "teamId": "apprentice-school-builders",
         "franchiseId": 3111,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-3112",
+        "id": "2025-3112",
         "teamId": "christopher-newport-captains",
         "franchiseId": 3112,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-3130",
+        "id": "2025-3130",
         "teamId": "williamson-trade-mechanics",
         "franchiseId": 3130,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-3144",
-        "teamId": "south-all-stars",
-        "franchiseId": 3144,
-        "season": 2022
-    },
-    {
-        "id": "2022-3145",
-        "teamId": "north-all-stars",
-        "franchiseId": 3145,
-        "season": 2022
-    },
-    {
-        "id": "2022-3146",
-        "teamId": "east-all-stars",
-        "franchiseId": 3146,
-        "season": 2022
-    },
-    {
-        "id": "2022-3147",
-        "teamId": "west-all-stars",
-        "franchiseId": 3147,
-        "season": 2022
-    },
-    {
-        "id": "2022-3161",
+        "id": "2025-3161",
         "teamId": "ohio-state-newark-titans",
         "franchiseId": 3161,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-3162",
+        "id": "2025-3162",
         "teamId": "alfred-state-college-pioneers",
         "franchiseId": 3162,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-3178",
+        "id": "2025-3178",
         "teamId": "ave-maria-gyrenes",
         "franchiseId": 3178,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-3179",
+        "id": "2025-3179",
         "teamId": "point-university-skyhawks",
         "franchiseId": 3179,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-3181",
-        "teamId": "shepherd-tech-eagles",
-        "franchiseId": 3181,
-        "season": 2022
-    },
-    {
-        "id": "2022-3193",
-        "teamId": "american",
-        "franchiseId": 3193,
-        "season": 2022
-    },
-    {
-        "id": "2022-3194",
-        "teamId": "national",
-        "franchiseId": 3194,
-        "season": 2022
-    },
-    {
-        "id": "2022-3197",
+        "id": "2025-3197",
         "teamId": "north-florida-stars",
         "franchiseId": 3197,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-3198",
+        "id": "2025-3198",
         "teamId": "south-florida-stars",
         "franchiseId": 3198,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-3209",
+        "id": "2025-3209",
         "teamId": "lindenwood-belleville-lynx",
         "franchiseId": 3209,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-3211",
+        "id": "2025-3210",
+        "teamId": "cole-college-jaguars",
+        "franchiseId": 3210,
+        "season": 2025
+    },
+    {
+        "id": "2025-3211",
         "teamId": "college-of-faith-crusaders",
         "franchiseId": 3211,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-3214",
+        "id": "2025-3212",
+        "teamId": "university-of-mexico-mexico-u",
+        "franchiseId": 3212,
+        "season": 2025
+    },
+    {
+        "id": "2025-3214",
         "teamId": "trinity-bible-lions",
         "franchiseId": 3214,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-3236",
+        "id": "2025-3236",
         "teamId": "erie-community-college-kats",
         "franchiseId": 3236,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-3253",
+        "id": "2025-3237",
+        "teamId": "hudson-valley-cc-vikings",
+        "franchiseId": 3237,
+        "season": 2025
+    },
+    {
+        "id": "2025-3253",
         "teamId": "college-of-faith---charlotte-saints",
         "franchiseId": 3253,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-3254",
+        "id": "2025-3254",
         "teamId": "university-of-faith-glory-eagles",
         "franchiseId": 3254,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-6353",
+        "id": "2025-5829",
+        "teamId": "doane-college-tigers",
+        "franchiseId": 5829,
+        "season": 2025
+    },
+    {
+        "id": "2025-6192",
+        "teamId": "huron",
+        "franchiseId": 6192,
+        "season": 2025
+    },
+    {
+        "id": "2025-6353",
         "teamId": "lakeland-university-muskies",
         "franchiseId": 6353,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-6845",
-        "teamId": "nebraska-wesleyan-university-prairie-wolves",
+        "id": "2025-6584",
+        "teamId": "mcpherson-college-mcpherson",
+        "franchiseId": 6584,
+        "season": 2025
+    },
+    {
+        "id": "2025-6776",
+        "teamId": "missouri-valley-college-vikings",
+        "franchiseId": 6776,
+        "season": 2025
+    },
+    {
+        "id": "2025-6845",
+        "teamId": "nebraska-wesleyan-prairie-wolves",
         "franchiseId": 6845,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-16111",
+        "id": "2025-7053",
+        "teamId": "ottawa-university-kansas-ottawa-ks",
+        "franchiseId": 7053,
+        "season": 2025
+    },
+    {
+        "id": "2025-12320",
+        "teamId": "valley-forge-christian-valleyfgcr",
+        "franchiseId": 12320,
+        "season": 2025
+    },
+    {
+        "id": "2025-16111",
         "teamId": "benedictine-ravens",
         "franchiseId": 16111,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-16471",
-        "teamId": "kai-hulakai",
-        "franchiseId": 16471,
-        "season": 2022
+        "id": "2025-17151",
+        "teamId": "barber-scotia-college-barber-scotia",
+        "franchiseId": 17151,
+        "season": 2025
     },
     {
-        "id": "2022-16472",
-        "teamId": "aina-hulaaina",
-        "franchiseId": 16472,
-        "season": 2022
+        "id": "2025-82530",
+        "teamId": "laval",
+        "franchiseId": 82530,
+        "season": 2025
     },
     {
-        "id": "2022-101784",
+        "id": "2025-82532",
+        "teamId": "saskatchew-saskatchew",
+        "franchiseId": 82532,
+        "season": 2025
+    },
+    {
+        "id": "2025-82533",
+        "teamId": "regina-seahawks",
+        "franchiseId": 82533,
+        "season": 2025
+    },
+    {
+        "id": "2025-87517",
+        "teamId": "westernon-mustangs",
+        "franchiseId": 87517,
+        "season": 2025
+    },
+    {
+        "id": "2025-100961",
+        "teamId": "calgary-dinosaurs",
+        "franchiseId": 100961,
+        "season": 2025
+    },
+    {
+        "id": "2025-101161",
+        "teamId": "lyon-college-scots",
+        "franchiseId": 101161,
+        "season": 2025
+    },
+    {
+        "id": "2025-101442",
+        "teamId": "centenary-gentlemen",
+        "franchiseId": 101442,
+        "season": 2025
+    },
+    {
+        "id": "2025-101784",
         "teamId": "erskine-flying-fleet",
         "franchiseId": 101784,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-102071",
+        "id": "2025-102071",
         "teamId": "lawrence-tech-lawte",
         "franchiseId": 102071,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-102626",
+        "id": "2025-102107",
+        "teamId": "montreal-montreal",
+        "franchiseId": 102107,
+        "season": 2025
+    },
+    {
+        "id": "2025-102118",
+        "teamId": "louisburg-loubr",
+        "franchiseId": 102118,
+        "season": 2025
+    },
+    {
+        "id": "2025-102626",
         "teamId": "texas-wesleyan-rams",
         "franchiseId": 102626,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-108354",
+        "id": "2025-108246",
+        "teamId": "mcgill-martlets",
+        "franchiseId": 108246,
+        "season": 2025
+    },
+    {
+        "id": "2025-108354",
         "teamId": "holland-college-hurricanes",
         "franchiseId": 108354,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-108358",
+        "id": "2025-108358",
         "teamId": "arizona-christian-firestorm",
         "franchiseId": 108358,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-108382",
+        "id": "2025-108382",
         "teamId": "college-of-idaho-yotes",
         "franchiseId": 108382,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-108398",
-        "teamId": "ohio-midwestern-college-rams",
-        "franchiseId": 108398,
-        "season": 2022
+        "id": "2025-109423",
+        "teamId": "fork-union-blue-devils",
+        "franchiseId": 109423,
+        "season": 2025
     },
     {
-        "id": "2022-109418",
-        "teamId": "finlandia-university-lions",
-        "franchiseId": 109418,
-        "season": 2022
+        "id": "2025-109424",
+        "teamId": "central-international-university-cardinals",
+        "franchiseId": 109424,
+        "season": 2025
     },
     {
-        "id": "2022-110242",
+        "id": "2025-110242",
         "teamId": "west-florida-argonauts",
         "franchiseId": 110242,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-110243",
-        "teamId": "university-of-texas-of-the-permian-basin-falcons",
+        "id": "2025-110243",
+        "teamId": "ut-permian-basin-falcons",
         "franchiseId": 110243,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-111610",
+        "id": "2025-110438",
+        "teamId": "dean-college-bulldogs",
+        "franchiseId": 110438,
+        "season": 2025
+    },
+    {
+        "id": "2025-110962",
+        "teamId": "gccc",
+        "franchiseId": 110962,
+        "season": 2025
+    },
+    {
+        "id": "2025-110963",
+        "teamId": "bccc",
+        "franchiseId": 110963,
+        "season": 2025
+    },
+    {
+        "id": "2025-111610",
         "teamId": "st-andrews-knights",
         "franchiseId": 111610,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-111674",
-        "teamId": "alvernia-university-golden-wolves",
+        "id": "2025-111674",
+        "teamId": "alvernia-golden-wolves",
         "franchiseId": 111674,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-111675",
+        "id": "2025-111675",
         "teamId": "university-of-new-england-noreasters",
         "franchiseId": 111675,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-111755",
+        "id": "2025-111755",
         "teamId": "middle-georgia-state-college-knights",
         "franchiseId": 111755,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-111756",
+        "id": "2025-111756",
         "teamId": "indiana-wesleyan-wildcats",
         "franchiseId": 111756,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-112334",
+        "id": "2025-112266",
+        "teamId": "concordia-canada-eagles",
+        "franchiseId": 112266,
+        "season": 2025
+    },
+    {
+        "id": "2025-112334",
         "teamId": "franklin-pierce-ravens",
         "franchiseId": 112334,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-112335",
-        "teamId": "wheeling-university-cardinals",
+        "id": "2025-112335",
+        "teamId": "wheeling-cardinals",
         "franchiseId": 112335,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-112390",
+        "id": "2025-112390",
         "teamId": "ottawa-university-arizona-spirit",
         "franchiseId": 112390,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-121696",
-        "teamId": "marian-in-marian-in",
-        "franchiseId": 121696,
-        "season": 2022
-    },
-    {
-        "id": "2022-121754",
-        "teamId": "bethel-col",
-        "franchiseId": 121754,
-        "season": 2022
-    },
-    {
-        "id": "2022-122666",
-        "teamId": "barton-college-bulldogs",
+        "id": "2025-122666",
+        "teamId": "barton-bulldogs",
         "franchiseId": 122666,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-122774",
+        "id": "2025-122774",
         "teamId": "keystone",
         "franchiseId": 122774,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-122775",
+        "id": "2025-122775",
         "teamId": "judson-university-eagles",
         "franchiseId": 122775,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-122776",
+        "id": "2025-122776",
         "teamId": "thaddeus-stevens-bulldogs",
         "franchiseId": 122776,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-123086",
+        "id": "2025-123086",
         "teamId": "north-american-university-stallions",
         "franchiseId": 123086,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-124110",
+        "id": "2025-124110",
         "teamId": "uftl-eagles",
         "franchiseId": 124110,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-124179",
-        "teamId": "lincoln-university-ca-oaklanders",
+        "id": "2025-124179",
+        "teamId": "lincoln-ca-oaklanders",
         "franchiseId": 124179,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-124180",
-        "teamId": "bluefield-big-blues",
+        "id": "2025-124180",
+        "teamId": "bluefield-state-university-big-blue",
         "franchiseId": 124180,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-124386",
+        "id": "2025-124386",
         "teamId": "arkansas-baptist-buffaloes",
         "franchiseId": 124386,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-124390",
+        "id": "2025-124390",
         "teamId": "montanastn-lights",
         "franchiseId": 124390,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-125290",
-        "teamId": "team-gaither",
-        "franchiseId": 125290,
-        "season": 2022
-    },
-    {
-        "id": "2022-125291",
-        "teamId": "team-robinson",
-        "franchiseId": 125291,
-        "season": 2022
-    },
-    {
-        "id": "2022-125730",
+        "id": "2025-125730",
         "teamId": "st-thomas-university-fl-bobcats",
         "franchiseId": 125730,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-125762",
+        "id": "2025-125762",
         "teamId": "florida-memorial-university-lions",
         "franchiseId": 125762,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-125974",
-        "teamId": "hilbert-college-hilbert",
+        "id": "2025-125974",
+        "teamId": "hilbert-college-hawks",
         "franchiseId": 125974,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-126086",
+        "id": "2025-126086",
         "teamId": "post-university-eagles",
         "franchiseId": 126086,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-126110",
-        "teamId": "keiser-university-seahawks",
+        "id": "2025-126110",
+        "teamId": "keiser-university-keiser",
         "franchiseId": 126110,
-        "season": 2022
+        "season": 2025
     },
     {
-        "id": "2022-126146",
+        "id": "2025-126146",
         "teamId": "madonna-university-madonna",
         "franchiseId": 126146,
-        "season": 2022
+        "season": 2025
+    },
+    {
+        "id": "2025-127946",
+        "teamId": "columbus-state-cougars",
+        "franchiseId": 127946,
+        "season": 2025
+    },
+    {
+        "id": "2025-127954",
+        "teamId": "eastern-university-eagles",
+        "franchiseId": 127954,
+        "season": 2025
+    },
+    {
+        "id": "2025-127991",
+        "teamId": "roosevelt-lakers",
+        "franchiseId": 127991,
+        "season": 2025
+    },
+    {
+        "id": "2025-129469",
+        "teamId": "anderson-sc-trojans",
+        "franchiseId": 129469,
+        "season": 2025
+    },
+    {
+        "id": "2025-129561",
+        "teamId": "wilfrid-laurier-wilfr",
+        "franchiseId": 129561,
+        "season": 2025
+    },
+    {
+        "id": "2025-129738",
+        "teamId": "calvin-university-knights",
+        "franchiseId": 129738,
+        "season": 2025
+    },
+    {
+        "id": "2025-129741",
+        "teamId": "william-woods-wwu",
+        "franchiseId": 129741,
+        "season": 2025
+    },
+    {
+        "id": "2025-129758",
+        "teamId": "simpson-university-ca-simpuca",
+        "franchiseId": 129758,
+        "season": 2025
+    },
+    {
+        "id": "2025-131108",
+        "teamId": "new-england-college-pilgrims",
+        "franchiseId": 131108,
+        "season": 2025
+    },
+    {
+        "id": "2025-131109",
+        "teamId": "roanoke-college-maroons",
+        "franchiseId": 131109,
+        "season": 2025
     }
 ]
