@@ -130,5 +130,10 @@ def main():
         # Write teams to file
         put_json_file(teams_path, teams)
 
+    # Write/update last_update.json with the current date
+    from datetime import datetime
+    last_update_path = os.path.join(root_path, 'last_update.json')
+    put_json_file(last_update_path, {"last_update": datetime.now().strftime("%Y-%m-%d")})
+
 if __name__ == "__main__":
     main()
