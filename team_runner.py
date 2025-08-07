@@ -111,6 +111,7 @@ def main():
             season_team_ids = season_api.get_team_season_ids()
             new_season_team_ids = list(set(season_team_ids) - set(existing_season_team_ids))
             new_season_team_ids = sorted(new_season_team_ids)
+            print(f'Getting {len(new_season_team_ids)} team records for the {season} season...')
             for team_id in new_season_team_ids:
                 # define team api
                 team_api = ESPNTeamAPI(sport_str, league_str, season, team_id)
