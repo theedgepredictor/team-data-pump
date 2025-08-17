@@ -4716,12 +4716,6 @@
         "season": 2025
     },
     {
-        "id": "2025-124179",
-        "teamId": "lincoln-ca-oaklanders",
-        "franchiseId": 124179,
-        "season": 2025
-    },
-    {
         "id": "2025-124180",
         "teamId": "bluefield-state-university-big-blue",
         "franchiseId": 124180,
@@ -4821,6 +4815,12 @@
         "id": "2025-129758",
         "teamId": "simpson-university-ca-simpuca",
         "franchiseId": 129758,
+        "season": 2025
+    },
+    {
+        "id": "2025-130180",
+        "teamId": "saint-xavier-il-saint-xavi",
+        "franchiseId": 130180,
         "season": 2025
     },
     {

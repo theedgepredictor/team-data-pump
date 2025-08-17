@@ -1,5 +1,28 @@
 [
     {
+        "id": "saint-xavier-il-saint-xavi",
+        "franchiseId": 130180,
+        "guid": null,
+        "uid": "s:20~l:23~t:130180",
+        "alternateIds": {
+            "sdr": "130180"
+        },
+        "location": "Saint Xavier (Il)",
+        "name": "Saint Xavi",
+        "nickname": null,
+        "abbreviation": null,
+        "displayName": "Saint Xavier (Il) Saint Xavi",
+        "shortDisplayName": "Saint Xavi",
+        "color": null,
+        "alternateColor": null,
+        "logo": null,
+        "altLogo": null,
+        "isActive": false,
+        "isAllStar": false,
+        "college": null,
+        "venueId": null
+    },
+    {
         "id": "auburn-tigers",
         "franchiseId": 2,
         "guid": "6a581b24-2e59-a315-6f91-e85d722f4e9f",
