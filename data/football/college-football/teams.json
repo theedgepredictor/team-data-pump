@@ -26974,5 +26974,51 @@
         "isAllStar": false,
         "college": "2598",
         "venueId": 3694
+    },
+    {
+        "id": "jamestown-college-jimmies",
+        "franchiseId": 2939,
+        "guid": "2fcbbeba-8d34-ce7d-a541-8c0b819f7c0e",
+        "uid": "s:20~l:23~t:2939",
+        "alternateIds": {
+            "sdr": "6266"
+        },
+        "location": "Jamestown College",
+        "name": "Jimmies",
+        "nickname": "Jamestown",
+        "abbreviation": "JAM",
+        "displayName": "Jamestown College Jimmies",
+        "shortDisplayName": "Jamestown",
+        "color": "000000",
+        "alternateColor": null,
+        "logo": null,
+        "altLogo": null,
+        "isActive": true,
+        "isAllStar": false,
+        "college": "2939",
+        "venueId": 11539
+    },
+    {
+        "id": "concordia-university-st-paul-golden-bears",
+        "franchiseId": 3066,
+        "guid": "95694d7b-c31e-f66b-e642-11638a1c1c35",
+        "uid": "s:20~l:23~t:3066",
+        "alternateIds": {
+            "sdr": "5709"
+        },
+        "location": "Concordia University St Paul",
+        "name": "Golden Bears",
+        "nickname": "Cncrdia SP",
+        "abbreviation": "CON",
+        "displayName": "Concordia University St Paul Golden Bears",
+        "shortDisplayName": "Cncrdia SP",
+        "color": "000000",
+        "alternateColor": null,
+        "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/3066.png",
+        "altLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/3066.png",
+        "isActive": true,
+        "isAllStar": false,
+        "college": "3066",
+        "venueId": 5933
     }
 ]
