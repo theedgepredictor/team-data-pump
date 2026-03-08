@@ -1,193 +1,193 @@
 [
     {
         "id": "2026-1",
-        "teamId": "atlanta",
+        "teamId": "atlanta-falcons",
         "franchiseId": 1,
         "season": 2026
     },
     {
         "id": "2026-2",
-        "teamId": "buffalo",
+        "teamId": "buffalo-bills",
         "franchiseId": 2,
         "season": 2026
     },
     {
         "id": "2026-3",
-        "teamId": "chicago",
+        "teamId": "chicago-bears",
         "franchiseId": 3,
         "season": 2026
     },
     {
         "id": "2026-4",
-        "teamId": "cincinnati",
+        "teamId": "cincinnati-bengals",
         "franchiseId": 4,
         "season": 2026
     },
     {
         "id": "2026-5",
-        "teamId": "cleveland",
+        "teamId": "cleveland-browns",
         "franchiseId": 5,
         "season": 2026
     },
     {
         "id": "2026-6",
-        "teamId": "dallas",
+        "teamId": "dallas-cowboys",
         "franchiseId": 6,
         "season": 2026
     },
     {
         "id": "2026-7",
-        "teamId": "denver",
+        "teamId": "denver-broncos",
         "franchiseId": 7,
         "season": 2026
     },
     {
         "id": "2026-8",
-        "teamId": "detroit",
+        "teamId": "detroit-lions",
         "franchiseId": 8,
         "season": 2026
     },
     {
         "id": "2026-9",
-        "teamId": "green-bay",
+        "teamId": "green-bay-packers",
         "franchiseId": 9,
         "season": 2026
     },
     {
         "id": "2026-10",
-        "teamId": "tennessee",
+        "teamId": "tennessee-titans",
         "franchiseId": 10,
         "season": 2026
     },
     {
         "id": "2026-11",
-        "teamId": "indianapolis",
+        "teamId": "indianapolis-colts",
         "franchiseId": 11,
         "season": 2026
     },
     {
         "id": "2026-12",
-        "teamId": "kansas-city",
+        "teamId": "kansas-city-chiefs",
         "franchiseId": 12,
         "season": 2026
     },
     {
         "id": "2026-13",
-        "teamId": "las-vegas",
+        "teamId": "las-vegas-raiders",
         "franchiseId": 13,
         "season": 2026
     },
     {
         "id": "2026-14",
-        "teamId": "los-angeles",
+        "teamId": "los-angeles-rams",
         "franchiseId": 14,
         "season": 2026
     },
     {
         "id": "2026-15",
-        "teamId": "miami",
+        "teamId": "miami-dolphins",
         "franchiseId": 15,
         "season": 2026
     },
     {
         "id": "2026-16",
-        "teamId": "minnesota",
+        "teamId": "minnesota-vikings",
         "franchiseId": 16,
         "season": 2026
     },
     {
         "id": "2026-17",
-        "teamId": "new-england",
+        "teamId": "new-england-patriots",
         "franchiseId": 17,
         "season": 2026
     },
     {
         "id": "2026-18",
-        "teamId": "new-orleans",
+        "teamId": "new-orleans-saints",
         "franchiseId": 18,
         "season": 2026
     },
     {
         "id": "2026-19",
-        "teamId": "new-york",
+        "teamId": "new-york-giants",
         "franchiseId": 19,
         "season": 2026
     },
     {
         "id": "2026-20",
-        "teamId": "new-york",
+        "teamId": "new-york-jets",
         "franchiseId": 20,
         "season": 2026
     },
     {
         "id": "2026-21",
-        "teamId": "philadelphia",
+        "teamId": "philadelphia-eagles",
         "franchiseId": 21,
         "season": 2026
     },
     {
         "id": "2026-22",
-        "teamId": "arizona",
+        "teamId": "arizona-cardinals",
         "franchiseId": 22,
         "season": 2026
     },
     {
         "id": "2026-23",
-        "teamId": "pittsburgh",
+        "teamId": "pittsburgh-steelers",
         "franchiseId": 23,
         "season": 2026
     },
     {
         "id": "2026-24",
-        "teamId": "los-angeles",
+        "teamId": "los-angeles-chargers",
         "franchiseId": 24,
         "season": 2026
     },
     {
         "id": "2026-25",
-        "teamId": "san-francisco",
+        "teamId": "san-francisco-49ers",
         "franchiseId": 25,
         "season": 2026
     },
     {
         "id": "2026-26",
-        "teamId": "seattle",
+        "teamId": "seattle-seahawks",
         "franchiseId": 26,
         "season": 2026
     },
     {
         "id": "2026-27",
-        "teamId": "tampa-bay",
+        "teamId": "tampa-bay-buccaneers",
         "franchiseId": 27,
         "season": 2026
     },
     {
         "id": "2026-28",
-        "teamId": "washington",
+        "teamId": "washington-commanders",
         "franchiseId": 28,
         "season": 2026
     },
     {
         "id": "2026-29",
-        "teamId": "carolina",
+        "teamId": "carolina-panthers",
         "franchiseId": 29,
         "season": 2026
     },
     {
         "id": "2026-30",
-        "teamId": "jacksonville",
+        "teamId": "jacksonville-jaguars",
         "franchiseId": 30,
         "season": 2026
     },
     {
         "id": "2026-33",
-        "teamId": "baltimore",
+        "teamId": "baltimore-ravens",
         "franchiseId": 33,
         "season": 2026
     },
     {
         "id": "2026-34",
-        "teamId": "houston",
+        "teamId": "houston-texans",
         "franchiseId": 34,
         "season": 2026
     }
