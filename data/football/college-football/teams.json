@@ -27066,5 +27066,143 @@
         "isAllStar": false,
         "college": null,
         "venueId": 3453
+    },
+    {
+        "id": "midamerica-nazarene-mid-am-nazarene",
+        "franchiseId": 419,
+        "guid": "cb77ebc7-609e-ae44-a6af-5050384765d7",
+        "uid": "s:20~l:23~t:419",
+        "alternateIds": {
+            "sdr": "6647"
+        },
+        "location": "MidAmerica Nazarene",
+        "name": "MID-AM NAZARENE",
+        "nickname": "MidAm Nazarene",
+        "abbreviation": "MNU",
+        "displayName": "MidAmerica Nazarene MID-AM NAZARENE",
+        "shortDisplayName": "MidAm Nazarene",
+        "color": null,
+        "alternateColor": null,
+        "logo": null,
+        "altLogo": null,
+        "isActive": true,
+        "isAllStar": false,
+        "college": "419",
+        "venueId": null
+    },
+    {
+        "id": "marian-marian",
+        "franchiseId": 2366,
+        "guid": "fb317a55-47f2-4ed0-eb08-33c73663a7c5",
+        "uid": "s:20~l:23~t:2366",
+        "alternateIds": {
+            "sdr": "65993"
+        },
+        "location": "Marian",
+        "name": "MARIAN",
+        "nickname": "Marian (IN)",
+        "abbreviation": "MAR",
+        "displayName": "Marian MARIAN",
+        "shortDisplayName": "Marian (IN)",
+        "color": "000000",
+        "alternateColor": null,
+        "logo": null,
+        "altLogo": null,
+        "isActive": false,
+        "isAllStar": false,
+        "college": "2366",
+        "venueId": 3939
+    },
+    {
+        "id": "manitoba-manitoba",
+        "franchiseId": 2770,
+        "guid": "183b4689-8bbc-6e94-53f0-a7e1ff683ee2",
+        "uid": "s:20~l:23~t:2770",
+        "alternateIds": {
+            "sdr": "108247"
+        },
+        "location": "Manitoba",
+        "name": "MANITOBA",
+        "nickname": "Manitoba",
+        "abbreviation": "MAN",
+        "displayName": "Manitoba MANITOBA",
+        "shortDisplayName": "Manitoba",
+        "color": "000000",
+        "alternateColor": null,
+        "logo": null,
+        "altLogo": null,
+        "isActive": true,
+        "isAllStar": false,
+        "college": "2770",
+        "venueId": null
+    },
+    {
+        "id": "laval-laval",
+        "franchiseId": 82530,
+        "guid": null,
+        "uid": "s:20~l:23~t:82530",
+        "alternateIds": {
+            "sdr": "82530"
+        },
+        "location": "Laval",
+        "name": "LAVAL",
+        "nickname": "Laval",
+        "abbreviation": "LAVAL",
+        "displayName": "Laval LAVAL",
+        "shortDisplayName": "Laval",
+        "color": null,
+        "alternateColor": null,
+        "logo": null,
+        "altLogo": null,
+        "isActive": false,
+        "isAllStar": false,
+        "college": null,
+        "venueId": null
+    },
+    {
+        "id": "montreal",
+        "franchiseId": 102107,
+        "guid": null,
+        "uid": "s:20~l:23~t:102107",
+        "alternateIds": {
+            "sdr": "111587"
+        },
+        "location": "MONTREAL",
+        "name": "MONTREAL",
+        "nickname": "Montreal",
+        "abbreviation": "MONTR",
+        "displayName": "MONTREAL",
+        "shortDisplayName": "Montreal",
+        "color": null,
+        "alternateColor": null,
+        "logo": null,
+        "altLogo": null,
+        "isActive": false,
+        "isAllStar": false,
+        "college": null,
+        "venueId": null
+    },
+    {
+        "id": "laurier-golden-hawks",
+        "franchiseId": 129561,
+        "guid": null,
+        "uid": "s:20~l:23~t:129561",
+        "alternateIds": {
+            "sdr": "129561"
+        },
+        "location": "Laurier",
+        "name": "Golden Hawks",
+        "nickname": "Laurier",
+        "abbreviation": "LAUR",
+        "displayName": "Laurier Golden Hawks",
+        "shortDisplayName": "Laurier",
+        "color": null,
+        "alternateColor": null,
+        "logo": null,
+        "altLogo": null,
+        "isActive": false,
+        "isAllStar": false,
+        "college": null,
+        "venueId": null
     }
 ]
