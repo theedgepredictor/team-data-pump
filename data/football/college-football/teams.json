@@ -27204,5 +27204,97 @@
         "isAllStar": false,
         "college": null,
         "venueId": null
+    },
+    {
+        "id": "st-marys-ca-spires",
+        "franchiseId": 2608,
+        "guid": null,
+        "uid": "s:20~l:23~t:2608",
+        "alternateIds": {
+            "sdr": "15811"
+        },
+        "location": "St. Mary's (CA)",
+        "name": "Spires",
+        "nickname": "St Mary (KS)",
+        "abbreviation": "SMC",
+        "displayName": "St. Mary's (CA) Spires",
+        "shortDisplayName": "St Mary (KS)",
+        "color": "d80024",
+        "alternateColor": "003057",
+        "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2608.png",
+        "altLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2608.png",
+        "isActive": false,
+        "isAllStar": false,
+        "college": "2608",
+        "venueId": 3972
+    },
+    {
+        "id": "saskatchewan-can-saskatchew",
+        "franchiseId": 82532,
+        "guid": null,
+        "uid": "s:20~l:23~t:82532",
+        "alternateIds": {
+            "sdr": "82532"
+        },
+        "location": "Saskatchewan (CAN)",
+        "name": "SASKATCHEW",
+        "nickname": "Saskatchewan",
+        "abbreviation": "SASK",
+        "displayName": "Saskatchewan (CAN) SASKATCHEW",
+        "shortDisplayName": "Saskatchewan",
+        "color": null,
+        "alternateColor": null,
+        "logo": null,
+        "altLogo": null,
+        "isActive": false,
+        "isAllStar": false,
+        "college": null,
+        "venueId": null
+    },
+    {
+        "id": "simpson-university-ca-red-hawks",
+        "franchiseId": 129758,
+        "guid": "9a1fec91-e27e-3fd7-8ed9-14316629feee",
+        "uid": "s:20~l:23~t:129758",
+        "alternateIds": {
+            "sdr": "129758"
+        },
+        "location": "Simpson University (Ca)",
+        "name": "Red Hawks",
+        "nickname": "Simpson (CA)",
+        "abbreviation": "SUCA",
+        "displayName": "Simpson University (Ca) Red Hawks",
+        "shortDisplayName": "Simpson (CA)",
+        "color": null,
+        "alternateColor": null,
+        "logo": null,
+        "altLogo": null,
+        "isActive": false,
+        "isAllStar": false,
+        "college": null,
+        "venueId": null
+    },
+    {
+        "id": "saint-xavier-il-cougars",
+        "franchiseId": 130180,
+        "guid": null,
+        "uid": "s:20~l:23~t:130180",
+        "alternateIds": {
+            "sdr": "130180"
+        },
+        "location": "Saint Xavier (Il)",
+        "name": "Cougars",
+        "nickname": "Saint Xavier",
+        "abbreviation": "STX",
+        "displayName": "Saint Xavier (Il) Cougars",
+        "shortDisplayName": "Saint Xavier",
+        "color": null,
+        "alternateColor": null,
+        "logo": null,
+        "altLogo": null,
+        "isActive": false,
+        "isAllStar": false,
+        "college": null,
+        "venueId": 6210
     }
 ]
