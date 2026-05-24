@@ -27296,5 +27296,143 @@
         "isAllStar": false,
         "college": null,
         "venueId": 6210
+    },
+    {
+        "id": "mount-union-purple-raiders",
+        "franchiseId": 426,
+        "guid": "e204c0d9-c0d0-225b-9b64-d228bfb04ac1",
+        "uid": "s:20~l:23~t:426",
+        "alternateIds": {
+            "sdr": "6796"
+        },
+        "location": "Mount Union",
+        "name": "Purple Raiders",
+        "nickname": "Mt Union",
+        "abbreviation": "MOU",
+        "displayName": "Mount Union Purple Raiders",
+        "shortDisplayName": "Mt Union",
+        "color": "000000",
+        "alternateColor": null,
+        "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/426.png",
+        "altLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/426.png",
+        "isActive": true,
+        "isAllStar": false,
+        "college": "426",
+        "venueId": 4856
+    },
+    {
+        "id": "lewis-clark-river-otters",
+        "franchiseId": 2333,
+        "guid": "0c032684-85f4-a8ba-0ea9-901cd9176c94",
+        "uid": "s:20~l:23~t:2333",
+        "alternateIds": {
+            "sdr": "6412"
+        },
+        "location": "Lewis & Clark",
+        "name": "River Otters",
+        "nickname": "Lewis & Clark",
+        "abbreviation": "LEW",
+        "displayName": "Lewis & Clark River Otters",
+        "shortDisplayName": "Lewis & Clark",
+        "color": "f37737",
+        "alternateColor": "000000",
+        "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2333.png",
+        "altLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2333.png",
+        "isActive": true,
+        "isAllStar": false,
+        "college": "2333",
+        "venueId": 5920
+    },
+    {
+        "id": "trinity-christian-trinity-il",
+        "franchiseId": 2652,
+        "guid": "f6c2c8a5-7e2d-0a91-d485-c13cbb0ba17e",
+        "uid": "s:20~l:23~t:2652",
+        "alternateIds": {
+            "sdr": "7667"
+        },
+        "location": "Trinity Christian",
+        "name": "TRINITY IL",
+        "nickname": "Trinity Chrstn",
+        "abbreviation": "TRCC",
+        "displayName": "Trinity Christian TRINITY IL",
+        "shortDisplayName": "Trinity Chrstn",
+        "color": "000000",
+        "alternateColor": null,
+        "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2652.png",
+        "altLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2652.png",
+        "isActive": true,
+        "isAllStar": false,
+        "college": "2652",
+        "venueId": null
+    },
+    {
+        "id": "north-greenville-trailblazers",
+        "franchiseId": 2822,
+        "guid": "6357edbc-b0f5-1001-0071-0fa45d9258a6",
+        "uid": "s:20~l:23~t:2822",
+        "alternateIds": {
+            "sdr": "6877"
+        },
+        "location": "North Greenville",
+        "name": "Trailblazers",
+        "nickname": "N Greenville",
+        "abbreviation": "NG",
+        "displayName": "North Greenville Trailblazers",
+        "shortDisplayName": "N Greenville",
+        "color": "d91e39",
+        "alternateColor": "000000",
+        "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2822.png",
+        "altLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2822.png",
+        "isActive": true,
+        "isAllStar": false,
+        "college": "2822",
+        "venueId": 6061
+    },
+    {
+        "id": "western-mustangs",
+        "franchiseId": 87517,
+        "guid": null,
+        "uid": "s:20~l:23~t:87517",
+        "alternateIds": {
+            "sdr": "87517"
+        },
+        "location": "Western",
+        "name": "Mustangs",
+        "nickname": "Western",
+        "abbreviation": "WEST",
+        "displayName": "Western Mustangs",
+        "shortDisplayName": "Western",
+        "color": null,
+        "alternateColor": null,
+        "logo": null,
+        "altLogo": null,
+        "isActive": false,
+        "isAllStar": false,
+        "college": null,
+        "venueId": null
+    },
+    {
+        "id": "william-woods-owls",
+        "franchiseId": 129741,
+        "guid": "1c152e28-c07b-3d02-8456-988483c4f31d",
+        "uid": "s:20~l:23~t:129741",
+        "alternateIds": {
+            "sdr": "129741"
+        },
+        "location": "William Woods",
+        "name": "Owls",
+        "nickname": "William Woods",
+        "abbreviation": "WLWD",
+        "displayName": "William Woods Owls",
+        "shortDisplayName": "William Woods",
+        "color": null,
+        "alternateColor": null,
+        "logo": null,
+        "altLogo": null,
+        "isActive": true,
+        "isAllStar": false,
+        "college": null,
+        "venueId": null
     }
 ]
