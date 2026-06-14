@@ -27434,5 +27434,51 @@
         "isAllStar": false,
         "college": null,
         "venueId": null
+    },
+    {
+        "id": "schreiner-mountaineers",
+        "franchiseId": 102549,
+        "guid": null,
+        "uid": "s:20~l:23~t:102549",
+        "alternateIds": {
+            "sdr": "102549"
+        },
+        "location": "SCHREINER",
+        "name": "Mountaineers",
+        "nickname": "SCHREINER",
+        "abbreviation": "SCH",
+        "displayName": "SCHREINER Mountaineers",
+        "shortDisplayName": "SCHREINER",
+        "color": null,
+        "alternateColor": null,
+        "logo": null,
+        "altLogo": null,
+        "isActive": false,
+        "isAllStar": false,
+        "college": null,
+        "venueId": 11956
+    },
+    {
+        "id": "lackawanna-falcons",
+        "franchiseId": 132714,
+        "guid": null,
+        "uid": "s:20~l:23~t:132714",
+        "alternateIds": {
+            "sdr": "132714"
+        },
+        "location": "Lackawanna",
+        "name": "Falcons",
+        "nickname": "Lackawanna",
+        "abbreviation": "LAC",
+        "displayName": "Lackawanna Falcons",
+        "shortDisplayName": "Lackawanna",
+        "color": null,
+        "alternateColor": null,
+        "logo": null,
+        "altLogo": null,
+        "isActive": false,
+        "isAllStar": false,
+        "college": null,
+        "venueId": 11955
     }
 ]

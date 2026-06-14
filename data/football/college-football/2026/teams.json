@@ -54,12 +54,6 @@
         "season": 2026
     },
     {
-        "id": "2026-15",
-        "teamId": "anna-maria-college-amcats",
-        "franchiseId": 15,
-        "season": 2026
-    },
-    {
         "id": "2026-16",
         "teamId": "sacramento-state-hornets",
         "franchiseId": 16,
@@ -1899,6 +1893,12 @@
         "id": "2026-2048",
         "teamId": "avila-college-eagles",
         "franchiseId": 2048,
+        "season": 2026
+    },
+    {
+        "id": "2026-2049",
+        "teamId": "azusa-pacific-cougars",
+        "franchiseId": 2049,
         "season": 2026
     },
     {
@@ -4014,6 +4014,12 @@
         "season": 2026
     },
     {
+        "id": "2026-2850",
+        "teamId": "whittier-college-poets",
+        "franchiseId": 2850,
+        "season": 2026
+    },
+    {
         "id": "2026-2851",
         "teamId": "winona-state-warriors",
         "franchiseId": 2851,
@@ -4560,6 +4566,12 @@
         "season": 2026
     },
     {
+        "id": "2026-102549",
+        "teamId": "schreiner-mountaineers",
+        "franchiseId": 102549,
+        "season": 2026
+    },
+    {
         "id": "2026-102626",
         "teamId": "texas-wesleyan-rams",
         "franchiseId": 102626,
@@ -4845,6 +4857,12 @@
         "id": "2026-131109",
         "teamId": "roanoke-college-maroons",
         "franchiseId": 131109,
+        "season": 2026
+    },
+    {
+        "id": "2026-132714",
+        "teamId": "lackawanna-falcons",
+        "franchiseId": 132714,
         "season": 2026
     }
 ]
