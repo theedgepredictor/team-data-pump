@@ -1,5 +1,74 @@
 [
     {
+        "id": "thomas-night-hawks",
+        "franchiseId": 134000,
+        "guid": "4f859412-a510-314b-9b15-1095791d8ffc",
+        "uid": "s:20~l:23~t:134000",
+        "alternateIds": {
+            "sdr": "134000"
+        },
+        "location": "Thomas",
+        "name": "Night Hawks",
+        "nickname": "Thomas",
+        "abbreviation": "THO",
+        "displayName": "Thomas Night Hawks",
+        "shortDisplayName": "Thomas",
+        "color": null,
+        "alternateColor": null,
+        "logo": null,
+        "altLogo": null,
+        "isActive": true,
+        "isAllStar": false,
+        "college": null,
+        "venueId": null
+    },
+    {
+        "id": "monroe-mustangs",
+        "franchiseId": 134001,
+        "guid": "3d2f69df-10ab-3e90-93f9-3c3e6e9ec29a",
+        "uid": "s:20~l:23~t:134001",
+        "alternateIds": {
+            "sdr": "134001"
+        },
+        "location": "Monroe",
+        "name": "Mustangs",
+        "nickname": "Monroe",
+        "abbreviation": "MON",
+        "displayName": "Monroe Mustangs",
+        "shortDisplayName": "Monroe",
+        "color": null,
+        "alternateColor": null,
+        "logo": null,
+        "altLogo": null,
+        "isActive": true,
+        "isAllStar": false,
+        "college": null,
+        "venueId": null
+    },
+    {
+        "id": "andrew-fighting-tigers",
+        "franchiseId": 134002,
+        "guid": "6ef70c9a-b4dc-382b-ad80-c91162e6226d",
+        "uid": "s:20~l:23~t:134002",
+        "alternateIds": {
+            "sdr": "134002"
+        },
+        "location": "Andrew",
+        "name": "Fighting Tigers",
+        "nickname": "Andrew",
+        "abbreviation": "AND",
+        "displayName": "Andrew Fighting Tigers",
+        "shortDisplayName": "Andrew",
+        "color": null,
+        "alternateColor": null,
+        "logo": null,
+        "altLogo": null,
+        "isActive": true,
+        "isAllStar": false,
+        "college": null,
+        "venueId": null
+    },
+    {
         "id": "saint-xavier-il-saint-xavi",
         "franchiseId": 130180,
         "guid": null,
@@ -27480,5 +27549,74 @@
         "isAllStar": false,
         "college": null,
         "venueId": 11955
+    },
+    {
+        "id": "claremont-mudd-scripps-stags",
+        "franchiseId": 17,
+        "guid": "9a966c57-d8a1-340d-348e-8deb04b64726",
+        "uid": "s:20~l:23~t:17",
+        "alternateIds": {
+            "sdr": "5632"
+        },
+        "location": "Claremont Mudd Scripps",
+        "name": "Stags",
+        "nickname": "Claremont-M-S",
+        "abbreviation": "CMS",
+        "displayName": "Claremont Mudd Scripps Stags",
+        "shortDisplayName": "Claremont-M-S",
+        "color": "981a31",
+        "alternateColor": "feba15",
+        "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/17.png",
+        "altLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/17.png",
+        "isActive": true,
+        "isAllStar": false,
+        "college": "17",
+        "venueId": 5821
+    },
+    {
+        "id": "csu-pueblo-thunderwolves",
+        "franchiseId": 2570,
+        "guid": "2d90c1d6-c3d0-cdd4-a99f-939bd7948e34",
+        "uid": "s:20~l:23~t:2570",
+        "alternateIds": {
+            "sdr": "83350"
+        },
+        "location": "CSU Pueblo",
+        "name": "ThunderWolves",
+        "nickname": "CSU Pueblo",
+        "abbreviation": "CSUP",
+        "displayName": "CSU Pueblo ThunderWolves",
+        "shortDisplayName": "CSU Pueblo",
+        "color": "000000",
+        "alternateColor": null,
+        "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2570.png",
+        "altLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2570.png",
+        "isActive": true,
+        "isAllStar": false,
+        "college": "2570",
+        "venueId": 4852
+    },
+    {
+        "id": "st-thomas-tommies",
+        "franchiseId": 2900,
+        "guid": "a3ffa68e-753d-aec1-08f4-870dc7d77760",
+        "uid": "s:20~l:23~t:2900",
+        "alternateIds": {
+            "sdr": "7517"
+        },
+        "location": "St. Thomas",
+        "name": "Tommies",
+        "nickname": "St Thomas",
+        "abbreviation": "STMN",
+        "displayName": "St. Thomas Tommies",
+        "shortDisplayName": "St Thomas",
+        "color": "000000",
+        "alternateColor": null,
+        "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2900.png",
+        "altLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2900.png",
+        "isActive": true,
+        "isAllStar": false,
+        "college": "2900",
+        "venueId": 5116
     }
 ]

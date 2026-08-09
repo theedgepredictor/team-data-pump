@@ -61,7 +61,7 @@
     },
     {
         "id": "2026-17",
-        "teamId": "claremont-mudd-scripps-college-stagsathenas",
+        "teamId": "claremont-mudd-scripps-stags",
         "franchiseId": 17,
         "season": 2026
     },
@@ -445,7 +445,7 @@
     },
     {
         "id": "2026-118",
-        "teamId": "johns-hopkins-university-blue-jays",
+        "teamId": "johns-hopkins-blue-jays",
         "franchiseId": 118,
         "season": 2026
     },
@@ -697,7 +697,7 @@
     },
     {
         "id": "2026-174",
-        "teamId": "hobart-college-statesmen",
+        "teamId": "hobart-statesmen",
         "franchiseId": 174,
         "season": 2026
     },
@@ -817,7 +817,7 @@
     },
     {
         "id": "2026-209",
-        "teamId": "lock-haven-university-bald-eagles",
+        "teamId": "lock-haven-bald-eagles",
         "franchiseId": 209,
         "season": 2026
     },
@@ -1453,7 +1453,7 @@
     },
     {
         "id": "2026-411",
-        "teamId": "chapman-university-panthers",
+        "teamId": "chapman-panthers",
         "franchiseId": 411,
         "season": 2026
     },
@@ -1861,7 +1861,7 @@
     },
     {
         "id": "2026-2043",
-        "teamId": "augustana-university-sd-vikings",
+        "teamId": "augustana-sd-vikings",
         "franchiseId": 2043,
         "season": 2026
     },
@@ -1999,7 +1999,7 @@
     },
     {
         "id": "2026-2094",
-        "teamId": "california-lutheran-kingsmen",
+        "teamId": "cal-lutheran-kingsmen",
         "franchiseId": 2094,
         "season": 2026
     },
@@ -3217,7 +3217,7 @@
     },
     {
         "id": "2026-2570",
-        "teamId": "colorado-state-pueblo-thunderwolves",
+        "teamId": "csu-pueblo-thunderwolves",
         "franchiseId": 2570,
         "season": 2026
     },
@@ -4117,7 +4117,7 @@
     },
     {
         "id": "2026-2900",
-        "teamId": "st-thomas-minnesota-tommies",
+        "teamId": "st-thomas-tommies",
         "franchiseId": 2900,
         "season": 2026
     },
@@ -4863,6 +4863,24 @@
         "id": "2026-132714",
         "teamId": "lackawanna-falcons",
         "franchiseId": 132714,
+        "season": 2026
+    },
+    {
+        "id": "2026-134000",
+        "teamId": "thomas-night-hawks",
+        "franchiseId": 134000,
+        "season": 2026
+    },
+    {
+        "id": "2026-134001",
+        "teamId": "monroe-mustangs",
+        "franchiseId": 134001,
+        "season": 2026
+    },
+    {
+        "id": "2026-134002",
+        "teamId": "andrew-fighting-tigers",
+        "franchiseId": 134002,
         "season": 2026
     }
 ]
