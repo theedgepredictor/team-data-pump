@@ -1,5 +1,28 @@
 [
     {
+        "id": "westgate-christian-university-ravens",
+        "franchiseId": 134087,
+        "guid": "8449d241-c38c-3cbb-82dd-2718dd7d3850",
+        "uid": "s:20~l:23~t:134087",
+        "alternateIds": {
+            "sdr": "134087"
+        },
+        "location": "Westgate Christian University",
+        "name": "Ravens",
+        "nickname": "Westgate Chris",
+        "abbreviation": "WES",
+        "displayName": "Westgate Christian University Ravens",
+        "shortDisplayName": "Westgate Chris",
+        "color": null,
+        "alternateColor": null,
+        "logo": null,
+        "altLogo": null,
+        "isActive": true,
+        "isAllStar": false,
+        "college": null,
+        "venueId": null
+    },
+    {
         "id": "thomas-night-hawks",
         "franchiseId": 134000,
         "guid": "4f859412-a510-314b-9b15-1095791d8ffc",

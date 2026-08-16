@@ -4882,5 +4882,11 @@
         "teamId": "andrew-fighting-tigers",
         "franchiseId": 134002,
         "season": 2026
+    },
+    {
+        "id": "2026-134087",
+        "teamId": "westgate-christian-university-ravens",
+        "franchiseId": 134087,
+        "season": 2026
     }
 ]
