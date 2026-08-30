@@ -1,5 +1,28 @@
 [
     {
+        "id": "ohio-dominican-panthers",
+        "franchiseId": 2477,
+        "guid": "4d680c2e-751b-396d-acc7-d7134e869d6c",
+        "uid": "s:20~l:23~t:2477",
+        "alternateIds": {
+            "sdr": "17171"
+        },
+        "location": "Ohio Dominican",
+        "name": "Panthers",
+        "nickname": "Ohio Dominican",
+        "abbreviation": "OHDM",
+        "displayName": "Ohio Dominican Panthers",
+        "shortDisplayName": "Ohio Dominican",
+        "color": "000000",
+        "alternateColor": null,
+        "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2477.png",
+        "altLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2477.png",
+        "isActive": true,
+        "isAllStar": false,
+        "college": "2477",
+        "venueId": 3870
+    },
+    {
         "id": "westgate-christian-university-ravens",
         "franchiseId": 134087,
         "guid": "8449d241-c38c-3cbb-82dd-2718dd7d3850",
@@ -27641,5 +27664,28 @@
         "isAllStar": false,
         "college": "2900",
         "venueId": 5116
+    },
+    {
+        "id": "louisiana-christian-wildcats",
+        "franchiseId": 2347,
+        "guid": "4871e4fd-0a5e-a12a-bba7-9ea960565751",
+        "uid": "s:20~l:23~t:2347",
+        "alternateIds": {
+            "sdr": "6343"
+        },
+        "location": "Louisiana Christian",
+        "name": "Wildcats",
+        "nickname": "LA Christian",
+        "abbreviation": "LCHR",
+        "displayName": "Louisiana Christian Wildcats",
+        "shortDisplayName": "LA Christian",
+        "color": "000000",
+        "alternateColor": null,
+        "logo": null,
+        "altLogo": null,
+        "isActive": true,
+        "isAllStar": false,
+        "college": "2347",
+        "venueId": 5922
     }
 ]

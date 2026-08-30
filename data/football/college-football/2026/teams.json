@@ -1717,7 +1717,7 @@
     },
     {
         "id": "2026-628",
-        "teamId": "valley-city-state-valley-city-st",
+        "teamId": "valley-city-state-vikings",
         "franchiseId": 628,
         "season": 2026
     },
@@ -2683,7 +2683,7 @@
     },
     {
         "id": "2026-2347",
-        "teamId": "louisiana-christian-university-wildcats",
+        "teamId": "louisiana-christian-wildcats",
         "franchiseId": 2347,
         "season": 2026
     },
@@ -3027,6 +3027,12 @@
         "id": "2026-2471",
         "teamId": "northwestern-ia-red-raiders",
         "franchiseId": 2471,
+        "season": 2026
+    },
+    {
+        "id": "2026-2477",
+        "teamId": "ohio-dominican-panthers",
+        "franchiseId": 2477,
         "season": 2026
     },
     {
@@ -4549,7 +4555,7 @@
     },
     {
         "id": "2026-102071",
-        "teamId": "lawrence-tech-lawte",
+        "teamId": "lawrence-tech-blue-devils",
         "franchiseId": 102071,
         "season": 2026
     },
