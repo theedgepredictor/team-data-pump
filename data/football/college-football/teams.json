@@ -27687,5 +27687,28 @@
         "isAllStar": false,
         "college": "2347",
         "venueId": 5922
+    },
+    {
+        "id": "florida-memorial-lions",
+        "franchiseId": 125762,
+        "guid": "fbf8b08e-c6df-324c-a7bd-d803a1fafbe3",
+        "uid": "s:20~l:23~t:125762",
+        "alternateIds": {
+            "sdr": "125762"
+        },
+        "location": "Florida Memorial",
+        "name": "Lions",
+        "nickname": "FL Memorial",
+        "abbreviation": "FMU",
+        "displayName": "Florida Memorial Lions",
+        "shortDisplayName": "FL Memorial",
+        "color": null,
+        "alternateColor": null,
+        "logo": null,
+        "altLogo": null,
+        "isActive": true,
+        "isAllStar": false,
+        "college": null,
+        "venueId": 10460
     }
 ]
