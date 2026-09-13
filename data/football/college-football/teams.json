@@ -1,5 +1,28 @@
 [
     {
+        "id": "mount-mercy-mustangs",
+        "franchiseId": 133688,
+        "guid": null,
+        "uid": "s:20~l:23~t:133688",
+        "alternateIds": {
+            "sdr": "133688"
+        },
+        "location": "Mount Mercy",
+        "name": "Mustangs",
+        "nickname": "Mount Mercy",
+        "abbreviation": "MOU",
+        "displayName": "Mount Mercy Mustangs",
+        "shortDisplayName": "Mount Mercy",
+        "color": null,
+        "alternateColor": null,
+        "logo": null,
+        "altLogo": null,
+        "isActive": false,
+        "isAllStar": false,
+        "college": null,
+        "venueId": null
+    },
+    {
         "id": "ohio-dominican-panthers",
         "franchiseId": 2477,
         "guid": "4d680c2e-751b-396d-acc7-d7134e869d6c",
