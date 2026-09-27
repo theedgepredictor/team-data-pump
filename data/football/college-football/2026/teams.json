@@ -1549,13 +1549,13 @@
     },
     {
         "id": "2026-490",
-        "teamId": "benedict-college-tigers",
+        "teamId": "benedict-tigers",
         "franchiseId": 490,
         "season": 2026
     },
     {
         "id": "2026-492",
-        "teamId": "bethany-ks-bethany-ks",
+        "teamId": "bethany-ks-swedes",
         "franchiseId": 492,
         "season": 2026
     },
@@ -1669,7 +1669,7 @@
     },
     {
         "id": "2026-596",
-        "teamId": "peru-state-college-peru-state",
+        "teamId": "peru-state-peru-state",
         "franchiseId": 596,
         "season": 2026
     },
@@ -2185,7 +2185,7 @@
     },
     {
         "id": "2026-2155",
-        "teamId": "cornell-college-ia-rams",
+        "teamId": "cornell-ia-rams",
         "franchiseId": 2155,
         "season": 2026
     },

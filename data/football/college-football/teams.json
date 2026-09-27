@@ -27733,5 +27733,74 @@
         "isAllStar": false,
         "college": null,
         "venueId": 10460
+    },
+    {
+        "id": "benedict-tigers",
+        "franchiseId": 490,
+        "guid": "be307e11-a459-f698-efb5-db4c6e1598a3",
+        "uid": "s:20~l:23~t:490",
+        "alternateIds": {
+            "sdr": "5344"
+        },
+        "location": "Benedict",
+        "name": "Tigers",
+        "nickname": "Benedict",
+        "abbreviation": "BEN",
+        "displayName": "Benedict Tigers",
+        "shortDisplayName": "Benedict",
+        "color": null,
+        "alternateColor": null,
+        "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/490.png",
+        "altLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/490.png",
+        "isActive": true,
+        "isAllStar": false,
+        "college": "490",
+        "venueId": 5875
+    },
+    {
+        "id": "peru-state-peru-state",
+        "franchiseId": 596,
+        "guid": null,
+        "uid": "s:20~l:23~t:596",
+        "alternateIds": {
+            "sdr": "7093"
+        },
+        "location": "Peru State",
+        "name": "PERU STATE",
+        "nickname": "Peru State",
+        "abbreviation": "PSC",
+        "displayName": "Peru State PERU STATE",
+        "shortDisplayName": "Peru State",
+        "color": null,
+        "alternateColor": null,
+        "logo": null,
+        "altLogo": null,
+        "isActive": false,
+        "isAllStar": false,
+        "college": "596",
+        "venueId": 3857
+    },
+    {
+        "id": "cornell-ia-rams",
+        "franchiseId": 2155,
+        "guid": "3bb3ec47-f1c9-9977-946c-d33732d70a85",
+        "uid": "s:20~l:23~t:2155",
+        "alternateIds": {
+            "sdr": "5727"
+        },
+        "location": "Cornell (IA)",
+        "name": "Rams",
+        "nickname": "Cornell (IA)",
+        "abbreviation": "CNIA",
+        "displayName": "Cornell (IA) Rams",
+        "shortDisplayName": "Cornell (IA)",
+        "color": "000000",
+        "alternateColor": null,
+        "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2155.png",
+        "altLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2155.png",
+        "isActive": true,
+        "isAllStar": false,
+        "college": "2155",
+        "venueId": 5828
     }
 ]
