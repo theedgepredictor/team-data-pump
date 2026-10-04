@@ -27802,5 +27802,74 @@
         "isAllStar": false,
         "college": "2155",
         "venueId": 5828
+    },
+    {
+        "id": "marian-in-knights",
+        "franchiseId": 2366,
+        "guid": "fb317a55-47f2-4ed0-eb08-33c73663a7c5",
+        "uid": "s:20~l:23~t:2366",
+        "alternateIds": {
+            "sdr": "65993"
+        },
+        "location": "Marian (IN)",
+        "name": "Knights",
+        "nickname": "Marian (IN)",
+        "abbreviation": "MUIN",
+        "displayName": "Marian (IN) Knights",
+        "shortDisplayName": "Marian (IN)",
+        "color": "000000",
+        "alternateColor": null,
+        "logo": null,
+        "altLogo": null,
+        "isActive": true,
+        "isAllStar": false,
+        "college": "2366",
+        "venueId": 3939
+    },
+    {
+        "id": "oklahoma-panhandle-aggies",
+        "franchiseId": 2824,
+        "guid": "784b6bf2-67da-894b-d866-48e962ca27ed",
+        "uid": "s:20~l:23~t:2824",
+        "alternateIds": {
+            "sdr": "7078"
+        },
+        "location": "Oklahoma Panhandle",
+        "name": "Aggies",
+        "nickname": "OK Panhandle",
+        "abbreviation": "OPSU",
+        "displayName": "Oklahoma Panhandle Aggies",
+        "shortDisplayName": "OK Panhandle",
+        "color": "000000",
+        "alternateColor": null,
+        "logo": null,
+        "altLogo": null,
+        "isActive": true,
+        "isAllStar": false,
+        "college": "2824",
+        "venueId": null
+    },
+    {
+        "id": "madonna-crusaders",
+        "franchiseId": 126146,
+        "guid": "06f99c51-5090-397a-b128-bf5048e3ab53",
+        "uid": "s:20~l:23~t:126146",
+        "alternateIds": {
+            "sdr": "126146"
+        },
+        "location": "Madonna",
+        "name": "Crusaders",
+        "nickname": "Madonna",
+        "abbreviation": "MDNN",
+        "displayName": "Madonna Crusaders",
+        "shortDisplayName": "Madonna",
+        "color": null,
+        "alternateColor": null,
+        "logo": null,
+        "altLogo": null,
+        "isActive": true,
+        "isAllStar": false,
+        "college": null,
+        "venueId": null
     }
 ]
